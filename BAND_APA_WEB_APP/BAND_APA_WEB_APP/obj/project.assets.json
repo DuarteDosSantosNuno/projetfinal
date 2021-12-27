@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\DELL\\Documents\\Git\\projetfinal\\ProjetFinalWebApp\\ProjetFinalWebApp.csproj",
-      "projectName": "ProjetFinalWebApp",
-      "projectPath": "C:\\Users\\DELL\\Documents\\Git\\projetfinal\\ProjetFinalWebApp\\ProjetFinalWebApp.csproj",
+      "projectUniqueName": "C:\\Users\\DELL\\Documents\\Git\\projetfinal\\BAND_APA_WEB_APP\\BAND_APA_WEB_APP\\BAND_APA_WEB_APP.csproj",
+      "projectName": "BAND_APA_WEB_APP",
+      "projectPath": "C:\\Users\\DELL\\Documents\\Git\\projetfinal\\BAND_APA_WEB_APP\\BAND_APA_WEB_APP\\BAND_APA_WEB_APP.csproj",
       "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\DELL\\Documents\\Git\\projetfinal\\ProjetFinalWebApp\\obj\\",
+      "outputPath": "C:\\Users\\DELL\\Documents\\Git\\projetfinal\\BAND_APA_WEB_APP\\BAND_APA_WEB_APP\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

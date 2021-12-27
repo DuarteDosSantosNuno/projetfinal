@@ -214,11 +214,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\DELL\\Documents\\Git\\projetfinal\\ProjetFinalAPI\\ProjetFinalAPI.csproj",
-      "projectName": "ProjetFinalAPI",
-      "projectPath": "C:\\Users\\DELL\\Documents\\Git\\projetfinal\\ProjetFinalAPI\\ProjetFinalAPI.csproj",
+      "projectUniqueName": "C:\\Users\\DELL\\Documents\\Git\\projetfinal\\BAND_APA_API\\BAND_APA_API\\BAND_APA_API.csproj",
+      "projectName": "BAND_APA_API",
+      "projectPath": "C:\\Users\\DELL\\Documents\\Git\\projetfinal\\BAND_APA_API\\BAND_APA_API\\BAND_APA_API.csproj",
       "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\DELL\\Documents\\Git\\projetfinal\\ProjetFinalAPI\\obj\\",
+      "outputPath": "C:\\Users\\DELL\\Documents\\Git\\projetfinal\\BAND_APA_API\\BAND_APA_API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
