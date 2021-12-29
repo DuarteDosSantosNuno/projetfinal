@@ -1,18 +1,18 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
-namespace BAND_APA_API.Entities
+namespace band_apa_api.Entities
 {
-    [Table("Animals_Identity")]
-    public class Animals_Identity
+    [Table("AnimalsIdentity")]
+    public class AnimalsIdentity
     {
         [Required]
-        public int a_i_ID { get; set; }
-        [Required]
-        [Timestamp]
-        public DateTime date_entree { get; set; }
+        [Key]
+        public int aiID { get; set; }
+        //[Required]
+        //[Timestamp]
+        public DateTime dateEntree { get; set; }
         [Required]
         [StringLength(75)]
         public string nom { get; set; }

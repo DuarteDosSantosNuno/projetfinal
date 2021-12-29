@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "f0oiniRlIqnNbw96ccesnEoJJxIEYjpbS9rrUhpMuUYURMKV7oyBkKs1pVHmvUdx+z1AY2C/DFYdgR1bnfsjLg==",
+  "dgSpecHash": "L3oQhpAs3RXQnNOtjin3hHw4ohgmGcF+guHKuH4QlSzKv7gBm60w2hmm8oDI7H5baqS1CwAXU/0vhKL3xSjsLw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\d_wal\\source\\repos\\BAND_APA_API\\BAND_APA_API\\BAND_APA_API.csproj",
+  "projectFilePath": "F:\\Projet No 5\\BAND_APA\\projetfinal\\band_apa_api\\BAND_APA_API\\band_apa_api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\d_wal\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\d_wal\\.nuget\\packages\\microsoft.aspnetcore.diagnostics.entityframeworkcore\\5.0.13\\microsoft.aspnetcore.diagnostics.entityframeworkcore.5.0.13.nupkg.sha512",

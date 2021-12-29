@@ -8961,11 +8961,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\d_wal\\source\\repos\\BAND_APA_API\\BAND_APA_API\\BAND_APA_API.csproj",
-      "projectName": "BAND_APA_API",
-      "projectPath": "C:\\Users\\d_wal\\source\\repos\\BAND_APA_API\\BAND_APA_API\\BAND_APA_API.csproj",
+      "projectUniqueName": "F:\\Projet No 5\\BAND_APA\\projetfinal\\band_apa_api\\BAND_APA_API\\band_apa_api.csproj",
+      "projectName": "band_apa_api",
+      "projectPath": "F:\\Projet No 5\\BAND_APA\\projetfinal\\band_apa_api\\BAND_APA_API\\band_apa_api.csproj",
       "packagesPath": "C:\\Users\\d_wal\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\d_wal\\source\\repos\\BAND_APA_API\\BAND_APA_API\\obj\\",
+      "outputPath": "F:\\Projet No 5\\BAND_APA\\projetfinal\\band_apa_api\\BAND_APA_API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

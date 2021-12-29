@@ -1,21 +1,19 @@
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
-using Microsoft.AspNetCore.HttpsPolicy;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
-using Microsoft.Extensions.Logging;
 using Microsoft.OpenApi.Models;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
+using band_apa_api.Data;
+using band_apa_api.Repositories;
+using Microsoft.EntityFrameworkCore;
 
-namespace BAND_APA_API
+namespace band_apa_api
 {
     public class Startup
     {
+        private const string MyAllowSpecificOrigins = "_myAllowSpecificOrigins";
         public Startup(IConfiguration configuration)
         {
             Configuration = configuration;
@@ -27,10 +25,24 @@ namespace BAND_APA_API
         public void ConfigureServices(IServiceCollection services)
         {
 
+            services.AddCors(); // Make sure you call this previous to AddMvc
+            services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
+            services.AddTransient<IAnimalsIdentityRepository, AnimalsIdentityRepository>();
+            //services.AddTransient<IVoitureRepository, VoitureRepository>();
+            //services.AddTransient<IPersonneRepository, PersonneRepository>();
+
+
+            services.AddDbContext<ApplicationContext>(options =>
+            options.UseSqlServer(Configuration.GetConnectionString("ApplicationContext")));
+
+            services.AddLogging();
+            services.AddControllers().AddNewtonsoftJson(options => options.SerializerSettings.ReferenceLoopHandling = Newtonsoft.Json.ReferenceLoopHandling.Ignore);
+            services.AddDatabaseDeveloperPageExceptionFilter();
+
             services.AddControllers();
             services.AddSwaggerGen(c =>
             {
-                c.SwaggerDoc("v1", new OpenApiInfo { Title = "BAND_APA_API", Version = "v1" });
+                c.SwaggerDoc("v1", new OpenApiInfo { Title = "band_apa_api", Version = "v1" });
             });
         }
 
@@ -41,7 +53,7 @@ namespace BAND_APA_API
             {
                 app.UseDeveloperExceptionPage();
                 app.UseSwagger();
-                app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "BAND_APA_API v1"));
+                app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "band_apa_api v1"));
             }
 
             app.UseHttpsRedirection();
@@ -49,6 +61,11 @@ namespace BAND_APA_API
             app.UseRouting();
 
             app.UseAuthorization();
+
+            app.UseCors(
+        options => options.WithOrigins("*").AllowAnyMethod());
+
+
 
             app.UseEndpoints(endpoints =>
             {
