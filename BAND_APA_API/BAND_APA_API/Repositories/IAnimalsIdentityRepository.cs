@@ -12,5 +12,7 @@ namespace band_apa_api.Repositories
         public List<AnimalsIdentity> FindByRace(string race);
         public List<AnimalsIdentity> FindByCouleur(string couleur);
         public AnimalsIdentity Create(AnimalsIdentity newAnimalsIdentity);
+        public bool DeleteById(int id);
+        public bool Update(AnimalsIdentity newAnimalsIdentity);
     }
 }

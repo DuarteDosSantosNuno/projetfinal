@@ -60,6 +60,18 @@ namespace band_apa_api.Controllers
             newAnimalsIdentity = _animalsIdentityRepository.Create(newAnimalsIdentity);
             return CreatedAtAction(nameof(GetById), new { id = newAnimalsIdentity.aiID }, newAnimalsIdentity);
         }
+        [HttpDelete("{id}")]
+        public IActionResult DeleteById([FromRoute] int id)
+        {
+            OkObjectResult deleteResult = new OkObjectResult(_animalsIdentityRepository.DeleteById(id));
+            return deleteResult;
+        }
+        [HttpPut()]
+        public IActionResult Modify([FromBody] AnimalsIdentity ai)
+        {
+            OkObjectResult modifyResult = new OkObjectResult(_animalsIdentityRepository.Update(ai));
+            return modifyResult;
+        }
         // GET: Animals_IdentityControllers/Details/5
         /* public ActionResult Details(int id)
          {

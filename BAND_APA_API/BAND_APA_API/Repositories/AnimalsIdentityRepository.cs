@@ -50,5 +50,31 @@ namespace band_apa_api.Repositories
             _applicationContext.SaveChanges();
             return newAnimalsIdentity;
         }
+        public bool DeleteById(int id)
+        {
+            AnimalsIdentity animalsIdentity = _applicationContext.Animals_Identities.Single(ai => ai.aiID == id);
+            if (animalsIdentity == null)
+                return false;
+            _applicationContext.Animals_Identities.Remove(animalsIdentity);
+            _applicationContext.SaveChanges();
+            return true;
+        }
+        public bool Update(AnimalsIdentity newAnimalsIdentity)
+        {
+            AnimalsIdentity animalsIdentity = _applicationContext.Animals_Identities.Single(ai => ai.aiID == newAnimalsIdentity.aiID);
+            if (animalsIdentity == null)
+                return false;
+            animalsIdentity.dateEntree = newAnimalsIdentity.dateEntree;
+            animalsIdentity.nom = newAnimalsIdentity.nom;
+            animalsIdentity.espece = newAnimalsIdentity.espece;
+            animalsIdentity.race = newAnimalsIdentity.race;
+            animalsIdentity.sexe = newAnimalsIdentity.sexe;
+            animalsIdentity.couleur = newAnimalsIdentity.couleur;
+            animalsIdentity.age = newAnimalsIdentity.age;
+            animalsIdentity.comments = newAnimalsIdentity.comments;
+            animalsIdentity.photo = newAnimalsIdentity.photo;
+            _applicationContext.SaveChanges();
+            return true;
+        }
     }
 }
