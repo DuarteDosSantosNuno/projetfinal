@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\d_wal\\source\\repos\\BAND_APA_API\\BAND_APA_API\\BAND_APA_API.csproj": {}
+    "C:\\Users\\DELL\\Documents\\Git\\projetfinal\\BAND_APA_API\\BAND_APA_API\\BAND_APA_API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\d_wal\\source\\repos\\BAND_APA_API\\BAND_APA_API\\BAND_APA_API.csproj": {
+    "C:\\Users\\DELL\\Documents\\Git\\projetfinal\\BAND_APA_API\\BAND_APA_API\\BAND_APA_API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\d_wal\\source\\repos\\BAND_APA_API\\BAND_APA_API\\BAND_APA_API.csproj",
+        "projectUniqueName": "C:\\Users\\DELL\\Documents\\Git\\projetfinal\\BAND_APA_API\\BAND_APA_API\\BAND_APA_API.csproj",
         "projectName": "BAND_APA_API",
-        "projectPath": "C:\\Users\\d_wal\\source\\repos\\BAND_APA_API\\BAND_APA_API\\BAND_APA_API.csproj",
-        "packagesPath": "C:\\Users\\d_wal\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\d_wal\\source\\repos\\BAND_APA_API\\BAND_APA_API\\obj\\",
+        "projectPath": "C:\\Users\\DELL\\Documents\\Git\\projetfinal\\BAND_APA_API\\BAND_APA_API\\BAND_APA_API.csproj",
+        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\DELL\\Documents\\Git\\projetfinal\\BAND_APA_API\\BAND_APA_API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\d_wal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -111,12 +111,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[5.0.13, 5.0.13]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -125,7 +119,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
