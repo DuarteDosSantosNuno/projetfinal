@@ -1,16 +1,18 @@
-﻿using Microsoft.EntityFrameworkCore.Metadata.Internal;
-using System;
-using System.Collections.Generic;
+﻿using System;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
-namespace BAND_APA_API.Entities
+namespace band_apa_api.Entities
 {
-    [Table("Client_Compte")]
-    public class Client_Compte
+    [Table("AssoCompte")]
+    public class AssoCompte
     {
         [Required]
-        public int client_ID { get; set; }
+        [Key]
+        public int userID { get; set; }
+        [Required]
+        [StringLength(50)]
+        public string role { get; set;}
         [StringLength(4)]
         public string titre { get; set; }
         [Required]
@@ -21,30 +23,20 @@ namespace BAND_APA_API.Entities
         public string prenom { get; set; }
         [Required]
         [Timestamp]
-        public DateTime birth_date { get; set; }
+        public DateTime birthDate { get; set; }
         [Required]
         [StringLength(160)]
         [EmailAddress]
         public string eMail { get; set; }
-        [Required]
-        [StringLength(200)]
-        public string adresse1 { get; set; }
-        [StringLength(200)]
-        public string adresse2 { get; set; }
-        [Required]
-        public int code_postal { get; set; }
-        [Required]
-        [StringLength(75)]
-        public string ville { get; set; }
         [Required]
         [StringLength(13)]
         [Phone]
         public string telephone { get; set; }
         [Required]
         [StringLength(30)]
-        public string connect_id { get; set; }
+        public string connectIdent { get; set; }
         [Required]
         [StringLength(36)]
-        public string connect_pwd { get; set; }
+        public string connectPwd { get; set; }
     }
 }
