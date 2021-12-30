@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\d_wal\\source\\repos\\BAND_APA_API\\BAND_APA_API\\BAND_APA_API.csproj": {}
+    "C:\\Users\\d_wal\\source\\repos\\BAND_APA_API\\BAND_APA_API\\band_apa_api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\d_wal\\source\\repos\\BAND_APA_API\\BAND_APA_API\\BAND_APA_API.csproj": {
+    "C:\\Users\\d_wal\\source\\repos\\BAND_APA_API\\BAND_APA_API\\band_apa_api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\d_wal\\source\\repos\\BAND_APA_API\\BAND_APA_API\\BAND_APA_API.csproj",
-        "projectName": "BAND_APA_API",
-        "projectPath": "C:\\Users\\d_wal\\source\\repos\\BAND_APA_API\\BAND_APA_API\\BAND_APA_API.csproj",
+        "projectUniqueName": "C:\\Users\\d_wal\\source\\repos\\BAND_APA_API\\BAND_APA_API\\band_apa_api.csproj",
+        "projectName": "band_apa_api",
+        "projectPath": "C:\\Users\\d_wal\\source\\repos\\BAND_APA_API\\BAND_APA_API\\band_apa_api.csproj",
         "packagesPath": "C:\\Users\\d_wal\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\d_wal\\source\\repos\\BAND_APA_API\\BAND_APA_API\\obj\\",
         "projectStyle": "PackageReference",
