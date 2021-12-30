@@ -1,34 +1,29 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
-namespace ProjetFinalWebApp.Controllers
+namespace BAND_APA_WEB_APP.Controllers
 {
-    public class AnimalController : Controller
+    public class UserController : Controller
     {
-        // GET: AnimalController
+        // GET: UserController
         public ActionResult Index()
         {
             return View();
         }
 
-        public ActionResult AnimalDetail()
-        {
-            return View();
-        }
-
-        // GET: AnimalController/Details/5
+        // GET: UserController/Details/5
         public ActionResult Details(int id)
         {
             return View();
         }
 
-        // GET: AnimalController/Create
+        // GET: UserController/Create
         public ActionResult Create()
         {
             return View();
         }
 
-        // POST: AnimalController/Create
+        // POST: UserController/Create
         [HttpPost]
         [ValidateAntiForgeryToken]
         public ActionResult Create(IFormCollection collection)
@@ -43,13 +38,13 @@ namespace ProjetFinalWebApp.Controllers
             }
         }
 
-        // GET: AnimalController/Edit/5
+        // GET: UserController/Edit/5
         public ActionResult Edit(int id)
         {
             return View();
         }
 
-        // POST: AnimalController/Edit/5
+        // POST: UserController/Edit/5
         [HttpPost]
         [ValidateAntiForgeryToken]
         public ActionResult Edit(int id, IFormCollection collection)
@@ -64,13 +59,13 @@ namespace ProjetFinalWebApp.Controllers
             }
         }
 
-        // GET: AnimalController/Delete/5
+        // GET: UserController/Delete/5
         public ActionResult Delete(int id)
         {
             return View();
         }
 
-        // POST: AnimalController/Delete/5
+        // POST: UserController/Delete/5
         [HttpPost]
         [ValidateAntiForgeryToken]
         public ActionResult Delete(int id, IFormCollection collection)

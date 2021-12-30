@@ -1,12 +1,55 @@
 ﻿
-@{  
-    ViewData["Title"] = "Adopter un animal";
+@{
+    ViewData["Title"] = "Adopter animal";
     //List<SelectListItem> pays = (List<SelectListItem>)ViewData["pays"];
     //List<SelectListItem> villes = (List<SelectListItem>)ViewData["villes"];
+    var imagePath = "";
+    var newFileName = "";
+
+    newFileName = "Woofy.jpg";
+    imagePath = @Url.Content($"~/Ressources/ImagesAnimals/{newFileName}");
+    var animals = "fiekfgt";
 }
 
-<div style="background-color:lightblue;">
-    <div class="text-left">
-        <h1 class="display-4">Adopter un Animal</h1>
+<div class="text-left my-4">
+    <h1 class="display-4">Adopter un Animal</h1>
+</div>
+
+<div>
+    <div class="p-1 bg-primary text-light" >
+        <div class="row-1 mt-auto p-2 d-flex justify-content-end">
+            <input type="button" class="btn btn-light mx-1" value="Trier"/>
+            <input type="button" class="btn btn-light mx-1" value="Organiser"/>
+        </div> 
     </div>
+
+    @foreach (var animal in animals)
+    {
+        <div class="container d-flex mb-2 mt-2 border border-secondary bg-lightblue p-2">
+            <div class="col-xl-4 d-flex flex-column">
+                <div class="row-1">
+                    <img src="@imagePath" runat="server" width="364" height="222"/>
+                </div>                       
+            </div>        
+            <div class="col-8 d-flex flex-column ">
+                <div class="row-1 p-2">
+                    <h3>Woofy</h3>
+                </div>
+                <div class="row-1 d-flex mx-2">
+                    <h6>Espèce : </h6>
+                    <p>Chien</p>
+                </div> 
+                <div class="row-1 d-flex mx-2">
+                    <h6>Race : </h6>
+                    <p>Fox Terrier</p>
+                </div> 
+                <div class="row-1 mt-auto p-2">
+                    @*<input type="button" class="btn btn-primary" value="Detail"/>*@
+                    <a class="btn btn-primary " asp-area="" asp-controller="Animal" asp-action="AnimalDetail">Detail</a>
+                </div> 
+            </div>       
+        </div>
+    }
+    
+    
 </div>

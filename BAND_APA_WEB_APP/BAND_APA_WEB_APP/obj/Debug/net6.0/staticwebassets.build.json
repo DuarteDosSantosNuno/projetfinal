@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "sJ6L+HcTovrqotfWLdWHqV9xLdy3mOBN/6fDGk3bvvM=",
+  "Hash": "YtVN44DOqZhVrda+MK3zeaVw70CJDslclX0KWoNZmr4=",
   "Source": "BAND_APA_WEB_APP",
   "BasePath": "_content/BAND_APA_WEB_APP",
   "Mode": "Default",
@@ -1069,6 +1069,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Identity": "C:\\Users\\DELL\\Documents\\Git\\projetfinal\\BAND_APA_WEB_APP\\BAND_APA_WEB_APP\\wwwroot\\Ressources\\ImagesAnimals\\Woofy.jpg",
+      "SourceId": "BAND_APA_WEB_APP",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\Git\\projetfinal\\BAND_APA_WEB_APP\\BAND_APA_WEB_APP\\wwwroot\\",
+      "BasePath": "_content/BAND_APA_WEB_APP",
+      "RelativePath": "Ressources/ImagesAnimals/Woofy.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Ressources\\ImagesAnimals\\Woofy.jpg"
     }
   ]
 }
