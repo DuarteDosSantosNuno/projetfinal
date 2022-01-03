@@ -1,12 +1,42 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿using BAND_APA_WEB_APP.Models;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using Newtonsoft.Json;
+using System.Net;
+using System.Text;
 
 namespace ProjetFinalWebApp.Controllers
 {
     public class AnimalController : Controller
     {
+        private static string base_url = "https://localhost:44356";
+        
+
+        public async Task<List<Animal>> GetAnimal()
+        {
+            var client = new HttpClient();
+            var result = await client.GetAsync($"{base_url}/api/v1/AnimalsIdentities");
+            List<Animal> response = new List<Animal>();
+
+            if (result.IsSuccessStatusCode)
+            {
+                var content = await result.Content.ReadAsStringAsync();
+                response = JsonConvert.DeserializeObject<List<Animal>>(content);
+            }
+            return response;
+        }
+
         // GET: AnimalController
-        public ActionResult Index()
+        public async Task<ActionResult> Index()
+        {
+            List<Animal> animals = new List<Animal>();
+            animals = await GetAnimal();
+            //ViewBag.Animals = animals;
+
+            return View(animals);
+        }
+
+        public ActionResult AnimalDetail()
         {
             return View();
         }
