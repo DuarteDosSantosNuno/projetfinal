@@ -1,0 +1,1341 @@
+2022-01-01 18:38:31.426 +01:00 [Debug] Opening CNG algorithm '"AES"' from provider 'null' with chaining mode CBC.
+2022-01-01 18:38:31.428 +01:00 [Debug] Opening CNG algorithm '"SHA256"' from provider 'null' with HMAC.
+2022-01-01 18:38:31.430 +01:00 [Debug] Using key {c5c2c863-95ab-4ec4-9f95-2a0dbea0d7a0} as the default key.
+2022-01-01 18:38:31.431 +01:00 [Debug] Key ring with default key {c5c2c863-95ab-4ec4-9f95-2a0dbea0d7a0} was loaded during application startup.
+2022-01-01 18:38:31.564 +01:00 [Debug] Loaded hosting startup assembly "band_apa_api"
+2022-01-01 18:38:31.564 +01:00 [Debug] Loaded hosting startup assembly "Microsoft.AspNetCore.Watch.BrowserRefresh"
+2022-01-01 18:38:31.565 +01:00 [Debug] Loaded hosting startup assembly "Microsoft.WebTools.BrowserLink.Net"
+2022-01-01 18:38:31.571 +01:00 [Information] Application started. Press Ctrl+C to shut down.
+2022-01-01 18:38:31.571 +01:00 [Information] Hosting environment: "Development"
+2022-01-01 18:38:31.571 +01:00 [Information] Content root path: "C:\Users\d_wal\source\repos\BAND_APA_API\BAND_APA_API"
+2022-01-01 18:38:31.572 +01:00 [Debug] Hosting started
+2022-01-01 18:38:31.593 +01:00 [Information] Request starting HTTP/2 GET https://localhost:44356/swagger/index.html - -
+2022-01-01 18:38:31.613 +01:00 [Debug] Wildcard detected, all requests with hosts will be allowed.
+2022-01-01 18:38:31.658 +01:00 [Debug] Response markup is scheduled to include browser refresh script injection.
+2022-01-01 18:38:31.746 +01:00 [Debug] Response markup was updated to include browser refresh script injection.
+2022-01-01 18:38:31.753 +01:00 [Debug] Connection ID ""18230571310386249737"" disconnecting.
+2022-01-01 18:38:31.753 +01:00 [Information] Request finished HTTP/2 GET https://localhost:44356/swagger/index.html - - - 200 - text/html;charset=utf-8 161.4720ms
+2022-01-01 18:38:31.796 +01:00 [Information] Request starting HTTP/2 GET https://localhost:44356/swagger/swagger-ui.css - -
+2022-01-01 18:38:31.797 +01:00 [Debug] Connection ID ""18302628938783916039"" disconnecting.
+2022-01-01 18:38:31.803 +01:00 [Information] Request starting HTTP/2 GET https://localhost:44356/_framework/aspnetcore-browser-refresh.js - -
+2022-01-01 18:38:31.812 +01:00 [Debug] Connection ID ""18302628955963785219"" disconnecting.
+2022-01-01 18:38:31.813 +01:00 [Information] Request finished HTTP/2 GET https://localhost:44356/_framework/aspnetcore-browser-refresh.js - - - 200 11946 application/javascript;+charset=utf-8 9.1819ms
+2022-01-01 18:38:31.813 +01:00 [Debug] The file transmission was cancelled
+System.OperationCanceledException: The operation was canceled.
+   at System.Threading.CancellationToken.ThrowOperationCanceledException()
+   at System.Threading.CancellationToken.ThrowIfCancellationRequested()
+   at Microsoft.AspNetCore.Http.SendFileResponseExtensions.SendFileAsyncCore(HttpResponse response, IFileInfo file, Int64 offset, Nullable`1 count, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.StaticFiles.StaticFileContext.SendAsync()
+2022-01-01 18:38:31.838 +01:00 [Information] Sending file. Request path: '"/swagger-ui.css"'. Physical path: '"N/A"'
+2022-01-01 18:38:31.839 +01:00 [Information] Request finished HTTP/2 GET https://localhost:44356/swagger/swagger-ui.css - - - 0 142933 text/css 42.5931ms
+2022-01-01 18:38:31.860 +01:00 [Information] Request starting HTTP/2 GET https://localhost:44356/swagger/favicon-16x16.png - -
+2022-01-01 18:38:31.860 +01:00 [Debug] Connection ID ""18230571387695661074"" disconnecting.
+2022-01-01 18:38:31.861 +01:00 [Debug] The file transmission was cancelled
+System.OperationCanceledException: The operation was canceled.
+   at System.Threading.CancellationToken.ThrowOperationCanceledException()
+   at System.Threading.CancellationToken.ThrowIfCancellationRequested()
+   at Microsoft.AspNetCore.Http.SendFileResponseExtensions.SendFileAsyncCore(HttpResponse response, IFileInfo file, Int64 offset, Nullable`1 count, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.StaticFiles.StaticFileContext.SendAsync()
+2022-01-01 18:38:31.861 +01:00 [Information] Sending file. Request path: '"/favicon-16x16.png"'. Physical path: '"N/A"'
+2022-01-01 18:38:31.862 +01:00 [Information] Request finished HTTP/2 GET https://localhost:44356/swagger/favicon-16x16.png - - - 0 665 image/png 1.8332ms
+2022-01-01 18:38:31.917 +01:00 [Information] Request starting HTTP/2 GET https://localhost:44356/swagger/v1/swagger.json - -
+2022-01-01 18:38:31.972 +01:00 [Information] Request finished HTTP/2 GET https://localhost:44356/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 55.0591ms
+2022-01-01 18:38:31.972 +01:00 [Debug] Connection ID ""18374686524231909387"" disconnecting.
+2022-01-01 18:39:14.766 +01:00 [Information] Request starting HTTP/2 DELETE https://localhost:44356/api/v1/ClientComptes/via connectIdent confirmé by connectPwd?connectPwd=n2p2123 - -
+2022-01-01 18:39:14.766 +01:00 [Debug] "DELETE" requests are not supported
+2022-01-01 18:39:14.771 +01:00 [Debug] Initializing Razor view compiler with no compiled views.
+2022-01-01 18:39:14.790 +01:00 [Debug] 1 candidate(s) found for the request path '"/api/v1/ClientComptes/via connectIdent confirmé by connectPwd"'
+2022-01-01 18:39:14.791 +01:00 [Debug] Endpoint '"band_apa_api.Controllers.ClientComptesController.DeleteByIdent (band_apa_api)"' with route pattern '"api/v1/ClientComptes/via connectIdent confirmé by connectPwd"' is valid for the request path '"/api/v1/ClientComptes/via connectIdent confirmé by connectPwd"'
+2022-01-01 18:39:14.791 +01:00 [Debug] Request matched endpoint '"band_apa_api.Controllers.ClientComptesController.DeleteByIdent (band_apa_api)"'
+2022-01-01 18:39:14.793 +01:00 [Debug] The request has an origin header: '"https://localhost:44356"'.
+2022-01-01 18:39:14.793 +01:00 [Information] CORS policy execution successful.
+2022-01-01 18:39:14.793 +01:00 [Information] Executing endpoint '"band_apa_api.Controllers.ClientComptesController.DeleteByIdent (band_apa_api)"'
+2022-01-01 18:39:14.798 +01:00 [Debug] Registered model binder providers, in the following order: ["Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BinderTypeModelBinderProvider", "Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ServicesModelBinderProvider", "Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinderProvider", "Microsoft.AspNetCore.Mvc.ModelBinding.Binders.HeaderModelBinderProvider", "Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FloatingPointTypeModelBinderProvider", "Microsoft.AspNetCore.Mvc.ModelBinding.Binders.EnumTypeModelBinderProvider", "Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DateTimeModelBinderProvider", "Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinderProvider", "Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CancellationTokenModelBinderProvider", "Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ByteArrayModelBinderProvider", "Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormFileModelBinderProvider", "Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormCollectionModelBinderProvider", "Microsoft.AspNetCore.Mvc.ModelBinding.Binders.KeyValuePairModelBinderProvider", "Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DictionaryModelBinderProvider", "Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ArrayModelBinderProvider", "Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider", "Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexObjectModelBinderProvider"]
+2022-01-01 18:39:14.814 +01:00 [Information] Route matched with "{action = \"DeleteByIdent\", controller = \"ClientComptes\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult DeleteByIdent(System.String, System.String)" on controller "band_apa_api.Controllers.ClientComptesController" ("band_apa_api").
+2022-01-01 18:39:14.814 +01:00 [Debug] Execution plan of "authorization" filters (in the following order): ["None"]
+2022-01-01 18:39:14.814 +01:00 [Debug] Execution plan of "resource" filters (in the following order): ["Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter"]
+2022-01-01 18:39:14.815 +01:00 [Debug] Execution plan of "action" filters (in the following order): ["Microsoft.AspNetCore.Mvc.Filters.ControllerActionFilter (Order: -2147483648)", "Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000)", "Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter (Order: -2000)"]
+2022-01-01 18:39:14.815 +01:00 [Debug] Execution plan of "exception" filters (in the following order): ["None"]
+2022-01-01 18:39:14.815 +01:00 [Debug] Execution plan of "result" filters (in the following order): ["Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter", "Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter (Order: -2000)"]
+2022-01-01 18:39:14.816 +01:00 [Debug] Executing controller factory for controller "band_apa_api.Controllers.ClientComptesController" ("band_apa_api")
+2022-01-01 18:39:14.816 +01:00 [Debug] Executed controller factory for controller "band_apa_api.Controllers.ClientComptesController" ("band_apa_api")
+2022-01-01 18:39:14.819 +01:00 [Debug] Attempting to bind parameter '"connectIdent"' of type '"System.String"' ...
+2022-01-01 18:39:14.820 +01:00 [Debug] Attempting to bind parameter '"connectIdent"' of type '"System.String"' using the name '""' in request data ...
+2022-01-01 18:39:14.821 +01:00 [Debug] Could not find a value in the request with name '""' for binding parameter '"connectIdent"' of type '"System.String"'.
+2022-01-01 18:39:14.821 +01:00 [Debug] Done attempting to bind parameter '"connectIdent"' of type '"System.String"'.
+2022-01-01 18:39:14.821 +01:00 [Debug] Done attempting to bind parameter '"connectIdent"' of type '"System.String"'.
+2022-01-01 18:39:14.821 +01:00 [Debug] Attempting to validate the bound parameter '"connectIdent"' of type '"System.String"' ...
+2022-01-01 18:39:14.822 +01:00 [Debug] Done attempting to validate the bound parameter '"connectIdent"' of type '"System.String"'.
+2022-01-01 18:39:14.823 +01:00 [Debug] Attempting to bind parameter '"connectPwd"' of type '"System.String"' ...
+2022-01-01 18:39:14.823 +01:00 [Debug] Attempting to bind parameter '"connectPwd"' of type '"System.String"' using the name '"connectPwd"' in request data ...
+2022-01-01 18:39:14.824 +01:00 [Debug] Done attempting to bind parameter '"connectPwd"' of type '"System.String"'.
+2022-01-01 18:39:14.824 +01:00 [Debug] Done attempting to bind parameter '"connectPwd"' of type '"System.String"'.
+2022-01-01 18:39:14.824 +01:00 [Debug] Attempting to validate the bound parameter '"connectPwd"' of type '"System.String"' ...
+2022-01-01 18:39:14.825 +01:00 [Debug] Done attempting to validate the bound parameter '"connectPwd"' of type '"System.String"'.
+2022-01-01 18:39:14.826 +01:00 [Information] Entity Framework Core "5.0.13" initialized '"ApplicationContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer"' with options: "None"
+2022-01-01 18:39:14.838 +01:00 [Debug] Compiling query expression: "
+"'"DbSet<ClientCompte>()
+    .Single(cc => cc.connectIdent == __connectIdent_0 && cc.connectPwd == __connectPwd_1)"'
+2022-01-01 18:39:14.864 +01:00 [Debug] Generated query execution expression: "
+"'"queryContext => new SingleQueryingEnumerable<ClientCompte>(
+    (RelationalQueryContext)queryContext, 
+    RelationalCommandCache.SelectExpression(
+        Projection Mapping:
+            EmptyProjectionMember -> Dictionary<IProperty, int> { [Property: ClientCompte.clientID (int) Required PK AfterSave:Throw ValueGenerated.OnAdd, 0], [Property: ClientCompte.adresse1 (string) Required MaxLength(200), 1], [Property: ClientCompte.adresse2 (string) MaxLength(200), 2], [Property: ClientCompte.birthDate (DateTime) Required, 3], [Property: ClientCompte.codePostal (int) Required, 4], [Property: ClientCompte.connectIdent (string) Required MaxLength(30), 5], [Property: ClientCompte.connectPwd (string) Required MaxLength(36), 6], [Property: ClientCompte.eMail (string) Required MaxLength(160), 7], [Property: ClientCompte.nom (string) Required MaxLength(75), 8], [Property: ClientCompte.prenom (string) Required MaxLength(75), 9], [Property: ClientCompte.telephone (string) Required MaxLength(13), 10], [Property: ClientCompte.titre (string) MaxLength(4), 11], [Property: ClientCompte.ville (string) Required MaxLength(75), 12], }
+        SELECT TOP(2) c.clientID, c.adresse1, c.adresse2, c.birthDate, c.codePostal, c.connectIdent, c.connectPwd, c.eMail, c.nom, c.prenom, c.telephone, c.titre, c.ville
+        FROM ClientCompte AS c
+        WHERE (c.connectIdent == @__connectIdent_0) && (c.connectPwd == @__connectPwd_1)), 
+    Func<QueryContext, DbDataReader, ResultContext, SingleQueryResultCoordinator, ClientCompte>, 
+    band_apa_api.Data.ApplicationContext, 
+    False, 
+    False
+)
+    .Single()"'
+2022-01-01 18:39:14.869 +01:00 [Debug] Creating DbCommand for '"ExecuteReader"'.
+2022-01-01 18:39:14.869 +01:00 [Debug] Created DbCommand for '"ExecuteReader"' (0ms).
+2022-01-01 18:39:14.869 +01:00 [Debug] Opening connection to database '"band_apa"' on server '"tdb-dotnet.synology.me,1435"'.
+2022-01-01 18:39:14.869 +01:00 [Debug] Opened connection to database '"band_apa"' on server '"tdb-dotnet.synology.me,1435"'.
+2022-01-01 18:39:14.870 +01:00 [Debug] Executing DbCommand [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT TOP(2) [c].[clientID], [c].[adresse1], [c].[adresse2], [c].[birthDate], [c].[codePostal], [c].[connectIdent], [c].[connectPwd], [c].[eMail], [c].[nom], [c].[prenom], [c].[telephone], [c].[titre], [c].[ville]
+FROM [ClientCompte] AS [c]
+WHERE 0 = 1"
+2022-01-01 18:39:14.884 +01:00 [Information] Executed DbCommand ("14"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT TOP(2) [c].[clientID], [c].[adresse1], [c].[adresse2], [c].[birthDate], [c].[codePostal], [c].[connectIdent], [c].[connectPwd], [c].[eMail], [c].[nom], [c].[prenom], [c].[telephone], [c].[titre], [c].[ville]
+FROM [ClientCompte] AS [c]
+WHERE 0 = 1"
+2022-01-01 18:39:22.964 +01:00 [Debug] A data reader was disposed.
+2022-01-01 18:39:22.964 +01:00 [Debug] Closing connection to database '"band_apa"' on server '"tdb-dotnet.synology.me,1435"'.
+2022-01-01 18:39:22.964 +01:00 [Debug] Closed connection to database '"band_apa"' on server '"tdb-dotnet.synology.me,1435"'.
+2022-01-01 18:39:22.969 +01:00 [Information] Executed action "band_apa_api.Controllers.ClientComptesController.DeleteByIdent (band_apa_api)" in 8151.5089ms
+2022-01-01 18:39:22.970 +01:00 [Information] Executed endpoint '"band_apa_api.Controllers.ClientComptesController.DeleteByIdent (band_apa_api)"'
+2022-01-01 18:39:22.971 +01:00 [Error] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Sequence contains no elements
+   at System.Linq.ThrowHelper.ThrowNoElementsException()
+   at System.Linq.Enumerable.Single[TSource](IEnumerable`1 source)
+   at Microsoft.EntityFrameworkCore.Query.Internal.QueryCompiler.Execute[TResult](Expression query)
+   at Microsoft.EntityFrameworkCore.Query.Internal.EntityQueryProvider.Execute[TResult](Expression expression)
+   at System.Linq.Queryable.Single[TSource](IQueryable`1 source, Expression`1 predicate)
+   at band_apa_api.Repositories.ClientCompteRepository.DeleteByIdent(String connectIdent, String connectPwd) in C:\Users\d_wal\source\repos\BAND_APA_API\BAND_APA_API\Repositories\ClientCompteRepository.cs:line 49
+   at band_apa_api.Controllers.ClientComptesController.DeleteByIdent(String connectIdent, String connectPwd) in C:\Users\d_wal\source\repos\BAND_APA_API\BAND_APA_API\Controllers\ClientComptesController.cs:line 41
+   at lambda_method279(Closure , Object , Object[] )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|24_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2022-01-01 18:39:22.994 +01:00 [Debug] Opening connection to database '"band_apa"' on server '"tdb-dotnet.synology.me,1435"'.
+2022-01-01 18:39:22.995 +01:00 [Debug] Opened connection to database '"band_apa"' on server '"tdb-dotnet.synology.me,1435"'.
+2022-01-01 18:39:22.996 +01:00 [Debug] Creating DbCommand for '"ExecuteNonQuery"'.
+2022-01-01 18:39:22.997 +01:00 [Debug] Created DbCommand for '"ExecuteNonQuery"' (0ms).
+2022-01-01 18:39:22.997 +01:00 [Debug] Executing DbCommand [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT 1"
+2022-01-01 18:39:23.017 +01:00 [Information] Executed DbCommand ("20"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT 1"
+2022-01-01 18:39:23.019 +01:00 [Debug] Closing connection to database '"band_apa"' on server '"tdb-dotnet.synology.me,1435"'.
+2022-01-01 18:39:23.019 +01:00 [Debug] Closed connection to database '"band_apa"' on server '"tdb-dotnet.synology.me,1435"'.
+2022-01-01 18:39:23.023 +01:00 [Debug] Creating DbCommand for '"ExecuteScalar"'.
+2022-01-01 18:39:23.023 +01:00 [Debug] Created DbCommand for '"ExecuteScalar"' (0ms).
+2022-01-01 18:39:23.023 +01:00 [Debug] Opening connection to database '"band_apa"' on server '"tdb-dotnet.synology.me,1435"'.
+2022-01-01 18:39:23.023 +01:00 [Debug] Opened connection to database '"band_apa"' on server '"tdb-dotnet.synology.me,1435"'.
+2022-01-01 18:39:23.023 +01:00 [Debug] Executing DbCommand [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""
+IF EXISTS
+    (SELECT *
+     FROM [sys].[objects] o
+     WHERE [o].[type] = 'U'
+     AND [o].[is_ms_shipped] = 0
+     AND NOT EXISTS (SELECT *
+         FROM [sys].[extended_properties] AS [ep]
+         WHERE [ep].[major_id] = [o].[object_id]
+             AND [ep].[minor_id] = 0
+             AND [ep].[class] = 1
+             AND [ep].[name] = N'microsoft_database_tools_support'
+    )
+)
+SELECT 1 ELSE SELECT 0"
+2022-01-01 18:39:23.078 +01:00 [Information] Executed DbCommand ("55"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""
+IF EXISTS
+    (SELECT *
+     FROM [sys].[objects] o
+     WHERE [o].[type] = 'U'
+     AND [o].[is_ms_shipped] = 0
+     AND NOT EXISTS (SELECT *
+         FROM [sys].[extended_properties] AS [ep]
+         WHERE [ep].[major_id] = [o].[object_id]
+             AND [ep].[minor_id] = 0
+             AND [ep].[class] = 1
+             AND [ep].[name] = N'microsoft_database_tools_support'
+    )
+)
+SELECT 1 ELSE SELECT 0"
+2022-01-01 18:39:23.079 +01:00 [Debug] Closing connection to database '"band_apa"' on server '"tdb-dotnet.synology.me,1435"'.
+2022-01-01 18:39:23.079 +01:00 [Debug] Closed connection to database '"band_apa"' on server '"tdb-dotnet.synology.me,1435"'.
+2022-01-01 18:39:23.087 +01:00 [Debug] Opening connection to database '"band_apa"' on server '"tdb-dotnet.synology.me,1435"'.
+2022-01-01 18:39:23.087 +01:00 [Debug] Opened connection to database '"band_apa"' on server '"tdb-dotnet.synology.me,1435"'.
+2022-01-01 18:39:23.087 +01:00 [Debug] Creating DbCommand for '"ExecuteNonQuery"'.
+2022-01-01 18:39:23.087 +01:00 [Debug] Created DbCommand for '"ExecuteNonQuery"' (0ms).
+2022-01-01 18:39:23.088 +01:00 [Debug] Executing DbCommand [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT 1"
+2022-01-01 18:39:23.102 +01:00 [Information] Executed DbCommand ("15"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT 1"
+2022-01-01 18:39:23.102 +01:00 [Debug] Closing connection to database '"band_apa"' on server '"tdb-dotnet.synology.me,1435"'.
+2022-01-01 18:39:23.103 +01:00 [Debug] Closed connection to database '"band_apa"' on server '"tdb-dotnet.synology.me,1435"'.
+2022-01-01 18:39:23.105 +01:00 [Debug] Creating DbCommand for '"ExecuteScalar"'.
+2022-01-01 18:39:23.105 +01:00 [Debug] Created DbCommand for '"ExecuteScalar"' (0ms).
+2022-01-01 18:39:23.105 +01:00 [Debug] Opening connection to database '"band_apa"' on server '"tdb-dotnet.synology.me,1435"'.
+2022-01-01 18:39:23.105 +01:00 [Debug] Opened connection to database '"band_apa"' on server '"tdb-dotnet.synology.me,1435"'.
+2022-01-01 18:39:23.105 +01:00 [Debug] Executing DbCommand [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT OBJECT_ID(N'[__EFMigrationsHistory]');"
+2022-01-01 18:39:23.119 +01:00 [Information] Executed DbCommand ("13"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT OBJECT_ID(N'[__EFMigrationsHistory]');"
+2022-01-01 18:39:23.119 +01:00 [Debug] Closing connection to database '"band_apa"' on server '"tdb-dotnet.synology.me,1435"'.
+2022-01-01 18:39:23.119 +01:00 [Debug] Closed connection to database '"band_apa"' on server '"tdb-dotnet.synology.me,1435"'.
+2022-01-01 18:39:23.121 +01:00 [Debug] Connection ID ""18086456165260066823"" disconnecting.
+2022-01-01 18:39:23.121 +01:00 [Debug] '"ApplicationContext"' disposed.
+2022-01-01 18:39:23.122 +01:00 [Information] Request finished HTTP/2 DELETE https://localhost:44356/api/v1/ClientComptes/via connectIdent confirmé by connectPwd?connectPwd=n2p2123 - - - 500 - text/plain 8355.8951ms
+2022-01-01 18:41:16.925 +01:00 [Information] Starting web host
+2022-01-01 18:41:17.792 +01:00 [Debug] An 'IServiceProvider' was created for internal use by Entity Framework.
+2022-01-01 18:41:18.102 +01:00 [Information] Entity Framework Core "5.0.13" initialized '"ApplicationContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer"' with options: "None"
+2022-01-01 18:41:18.146 +01:00 [Debug] Opening connection to database '"band_apa"' on server '"tdb-dotnet.synology.me,1435"'.
+2022-01-01 18:41:18.436 +01:00 [Debug] Opened connection to database '"band_apa"' on server '"tdb-dotnet.synology.me,1435"'.
+2022-01-01 18:41:18.440 +01:00 [Debug] Creating DbCommand for '"ExecuteNonQuery"'.
+2022-01-01 18:41:18.444 +01:00 [Debug] Created DbCommand for '"ExecuteNonQuery"' (2ms).
+2022-01-01 18:41:18.449 +01:00 [Debug] Executing DbCommand [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT 1"
+2022-01-01 18:41:18.476 +01:00 [Information] Executed DbCommand ("28"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT 1"
+2022-01-01 18:41:18.477 +01:00 [Debug] Closing connection to database '"band_apa"' on server '"tdb-dotnet.synology.me,1435"'.
+2022-01-01 18:41:18.479 +01:00 [Debug] Closed connection to database '"band_apa"' on server '"tdb-dotnet.synology.me,1435"'.
+2022-01-01 18:41:18.496 +01:00 [Debug] Opening connection to database '"master"' on server '"tdb-dotnet.synology.me,1435"'.
+2022-01-01 18:41:18.577 +01:00 [Debug] Opened connection to database '"master"' on server '"tdb-dotnet.synology.me,1435"'.
+2022-01-01 18:41:18.577 +01:00 [Debug] Creating DbCommand for '"ExecuteNonQuery"'.
+2022-01-01 18:41:18.577 +01:00 [Debug] Created DbCommand for '"ExecuteNonQuery"' (0ms).
+2022-01-01 18:41:18.577 +01:00 [Debug] Executing DbCommand [Parameters=[""], CommandType='Text', CommandTimeout='60']"
+""IF SERVERPROPERTY('EngineEdition') <> 5
+BEGIN
+    ALTER DATABASE [band_apa] SET SINGLE_USER WITH ROLLBACK IMMEDIATE;
+END;"
+2022-01-01 18:41:21.664 +01:00 [Information] Executed DbCommand ("3,087"ms) [Parameters=[""], CommandType='Text', CommandTimeout='60']"
+""IF SERVERPROPERTY('EngineEdition') <> 5
+BEGIN
+    ALTER DATABASE [band_apa] SET SINGLE_USER WITH ROLLBACK IMMEDIATE;
+END;"
+2022-01-01 18:41:21.665 +01:00 [Debug] Creating DbCommand for '"ExecuteNonQuery"'.
+2022-01-01 18:41:21.665 +01:00 [Debug] Created DbCommand for '"ExecuteNonQuery"' (0ms).
+2022-01-01 18:41:21.665 +01:00 [Debug] Executing DbCommand [Parameters=[""], CommandType='Text', CommandTimeout='60']"
+""DROP DATABASE [band_apa];"
+2022-01-01 18:41:21.767 +01:00 [Information] Executed DbCommand ("102"ms) [Parameters=[""], CommandType='Text', CommandTimeout='60']"
+""DROP DATABASE [band_apa];"
+2022-01-01 18:41:21.767 +01:00 [Debug] Closing connection to database '"master"' on server '"tdb-dotnet.synology.me,1435"'.
+2022-01-01 18:41:21.767 +01:00 [Debug] Closed connection to database '"master"' on server '"tdb-dotnet.synology.me,1435"'.
+2022-01-01 18:41:21.767 +01:00 [Debug] Opening connection to database '"band_apa"' on server '"tdb-dotnet.synology.me,1435"'.
+2022-01-01 18:41:21.858 +01:00 [Debug] An error occurred using the connection to database '"band_apa"' on server '"tdb-dotnet.synology.me,1435"'.
+2022-01-01 18:41:21.860 +01:00 [Debug] Opening connection to database '"master"' on server '"tdb-dotnet.synology.me,1435"'.
+2022-01-01 18:41:21.860 +01:00 [Debug] Opened connection to database '"master"' on server '"tdb-dotnet.synology.me,1435"'.
+2022-01-01 18:41:21.861 +01:00 [Debug] Creating DbCommand for '"ExecuteNonQuery"'.
+2022-01-01 18:41:21.861 +01:00 [Debug] Created DbCommand for '"ExecuteNonQuery"' (0ms).
+2022-01-01 18:41:21.861 +01:00 [Debug] Executing DbCommand [Parameters=[""], CommandType='Text', CommandTimeout='60']"
+""CREATE DATABASE [band_apa];"
+2022-01-01 18:41:22.723 +01:00 [Information] Executed DbCommand ("862"ms) [Parameters=[""], CommandType='Text', CommandTimeout='60']"
+""CREATE DATABASE [band_apa];"
+2022-01-01 18:41:22.723 +01:00 [Debug] Creating DbCommand for '"ExecuteNonQuery"'.
+2022-01-01 18:41:22.723 +01:00 [Debug] Created DbCommand for '"ExecuteNonQuery"' (0ms).
+2022-01-01 18:41:22.723 +01:00 [Debug] Executing DbCommand [Parameters=[""], CommandType='Text', CommandTimeout='60']"
+""IF SERVERPROPERTY('EngineEdition') <> 5
+BEGIN
+    ALTER DATABASE [band_apa] SET READ_COMMITTED_SNAPSHOT ON;
+END;"
+2022-01-01 18:41:23.083 +01:00 [Information] Executed DbCommand ("359"ms) [Parameters=[""], CommandType='Text', CommandTimeout='60']"
+""IF SERVERPROPERTY('EngineEdition') <> 5
+BEGIN
+    ALTER DATABASE [band_apa] SET READ_COMMITTED_SNAPSHOT ON;
+END;"
+2022-01-01 18:41:23.083 +01:00 [Debug] Closing connection to database '"master"' on server '"tdb-dotnet.synology.me,1435"'.
+2022-01-01 18:41:23.083 +01:00 [Debug] Closed connection to database '"master"' on server '"tdb-dotnet.synology.me,1435"'.
+2022-01-01 18:41:23.084 +01:00 [Debug] Opening connection to database '"band_apa"' on server '"tdb-dotnet.synology.me,1435"'.
+2022-01-01 18:41:23.191 +01:00 [Debug] Opened connection to database '"band_apa"' on server '"tdb-dotnet.synology.me,1435"'.
+2022-01-01 18:41:23.191 +01:00 [Debug] Creating DbCommand for '"ExecuteNonQuery"'.
+2022-01-01 18:41:23.191 +01:00 [Debug] Created DbCommand for '"ExecuteNonQuery"' (0ms).
+2022-01-01 18:41:23.191 +01:00 [Debug] Executing DbCommand [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT 1"
+2022-01-01 18:41:23.203 +01:00 [Information] Executed DbCommand ("12"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT 1"
+2022-01-01 18:41:23.203 +01:00 [Debug] Closing connection to database '"band_apa"' on server '"tdb-dotnet.synology.me,1435"'.
+2022-01-01 18:41:23.203 +01:00 [Debug] Closed connection to database '"band_apa"' on server '"tdb-dotnet.synology.me,1435"'.
+2022-01-01 18:41:23.247 +01:00 [Debug] DetectChanges starting for '"ApplicationContext"'.
+2022-01-01 18:41:23.248 +01:00 [Debug] DetectChanges completed for '"ApplicationContext"'.
+2022-01-01 18:41:23.254 +01:00 [Debug] Opening connection to database '"band_apa"' on server '"tdb-dotnet.synology.me,1435"'.
+2022-01-01 18:41:23.254 +01:00 [Debug] Opened connection to database '"band_apa"' on server '"tdb-dotnet.synology.me,1435"'.
+2022-01-01 18:41:23.255 +01:00 [Debug] Beginning transaction with isolation level '"Unspecified"'.
+2022-01-01 18:41:23.273 +01:00 [Debug] Began transaction with isolation level '"ReadCommitted"'.
+2022-01-01 18:41:23.273 +01:00 [Debug] Creating DbCommand for '"ExecuteNonQuery"'.
+2022-01-01 18:41:23.273 +01:00 [Debug] Created DbCommand for '"ExecuteNonQuery"' (0ms).
+2022-01-01 18:41:23.273 +01:00 [Debug] Executing DbCommand [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""CREATE SEQUENCE [Animals_Identity_id_seq] AS int START WITH 1 INCREMENT BY 1 NO MINVALUE NO MAXVALUE NO CYCLE;"
+2022-01-01 18:41:23.291 +01:00 [Information] Executed DbCommand ("17"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""CREATE SEQUENCE [Animals_Identity_id_seq] AS int START WITH 1 INCREMENT BY 1 NO MINVALUE NO MAXVALUE NO CYCLE;"
+2022-01-01 18:41:23.291 +01:00 [Debug] Creating DbCommand for '"ExecuteNonQuery"'.
+2022-01-01 18:41:23.291 +01:00 [Debug] Created DbCommand for '"ExecuteNonQuery"' (0ms).
+2022-01-01 18:41:23.291 +01:00 [Debug] Executing DbCommand [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""CREATE SEQUENCE [Asso_Compte_id_seq] AS int START WITH 1 INCREMENT BY 1 NO MINVALUE NO MAXVALUE NO CYCLE;"
+2022-01-01 18:41:23.307 +01:00 [Information] Executed DbCommand ("16"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""CREATE SEQUENCE [Asso_Compte_id_seq] AS int START WITH 1 INCREMENT BY 1 NO MINVALUE NO MAXVALUE NO CYCLE;"
+2022-01-01 18:41:23.307 +01:00 [Debug] Creating DbCommand for '"ExecuteNonQuery"'.
+2022-01-01 18:41:23.307 +01:00 [Debug] Created DbCommand for '"ExecuteNonQuery"' (0ms).
+2022-01-01 18:41:23.307 +01:00 [Debug] Executing DbCommand [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""CREATE SEQUENCE [Client_Compte_id_seq] AS int START WITH 1 INCREMENT BY 1 NO MINVALUE NO MAXVALUE NO CYCLE;"
+2022-01-01 18:41:23.323 +01:00 [Information] Executed DbCommand ("16"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""CREATE SEQUENCE [Client_Compte_id_seq] AS int START WITH 1 INCREMENT BY 1 NO MINVALUE NO MAXVALUE NO CYCLE;"
+2022-01-01 18:41:23.323 +01:00 [Debug] Creating DbCommand for '"ExecuteNonQuery"'.
+2022-01-01 18:41:23.323 +01:00 [Debug] Created DbCommand for '"ExecuteNonQuery"' (0ms).
+2022-01-01 18:41:23.323 +01:00 [Debug] Executing DbCommand [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""CREATE TABLE [AnimalsIdentity] (
+    [aiID] int NOT NULL DEFAULT (NEXT VALUE FOR Animals_Identity_id_seq),
+    [dateEntree] datetime2 NOT NULL,
+    [nom] nvarchar(75) NOT NULL,
+    [espece] nvarchar(50) NOT NULL,
+    [race] nvarchar(75) NOT NULL,
+    [sexe] nvarchar(7) NULL,
+    [couleur] nvarchar(100) NOT NULL,
+    [age] int NOT NULL,
+    [comments] nvarchar(1000) NOT NULL,
+    [photo] nvarchar(50) NOT NULL,
+    CONSTRAINT [PK_AnimalsIdentity] PRIMARY KEY ([aiID])
+);"
+2022-01-01 18:41:23.339 +01:00 [Information] Executed DbCommand ("16"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""CREATE TABLE [AnimalsIdentity] (
+    [aiID] int NOT NULL DEFAULT (NEXT VALUE FOR Animals_Identity_id_seq),
+    [dateEntree] datetime2 NOT NULL,
+    [nom] nvarchar(75) NOT NULL,
+    [espece] nvarchar(50) NOT NULL,
+    [race] nvarchar(75) NOT NULL,
+    [sexe] nvarchar(7) NULL,
+    [couleur] nvarchar(100) NOT NULL,
+    [age] int NOT NULL,
+    [comments] nvarchar(1000) NOT NULL,
+    [photo] nvarchar(50) NOT NULL,
+    CONSTRAINT [PK_AnimalsIdentity] PRIMARY KEY ([aiID])
+);"
+2022-01-01 18:41:23.339 +01:00 [Debug] Creating DbCommand for '"ExecuteNonQuery"'.
+2022-01-01 18:41:23.339 +01:00 [Debug] Created DbCommand for '"ExecuteNonQuery"' (0ms).
+2022-01-01 18:41:23.339 +01:00 [Debug] Executing DbCommand [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""CREATE TABLE [AssoCompte] (
+    [userID] int NOT NULL DEFAULT (NEXT VALUE FOR Asso_Compte_id_seq),
+    [role] nvarchar(50) NOT NULL,
+    [titre] nvarchar(4) NULL,
+    [nom] nvarchar(75) NOT NULL,
+    [prenom] nvarchar(75) NOT NULL,
+    [birthDate] datetime2 NOT NULL,
+    [eMail] nvarchar(160) NOT NULL,
+    [telephone] nvarchar(13) NOT NULL,
+    [connectIdent] nvarchar(30) NOT NULL,
+    [connectPwd] nvarchar(36) NOT NULL,
+    CONSTRAINT [PK_AssoCompte] PRIMARY KEY ([userID])
+);"
+2022-01-01 18:41:23.355 +01:00 [Information] Executed DbCommand ("16"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""CREATE TABLE [AssoCompte] (
+    [userID] int NOT NULL DEFAULT (NEXT VALUE FOR Asso_Compte_id_seq),
+    [role] nvarchar(50) NOT NULL,
+    [titre] nvarchar(4) NULL,
+    [nom] nvarchar(75) NOT NULL,
+    [prenom] nvarchar(75) NOT NULL,
+    [birthDate] datetime2 NOT NULL,
+    [eMail] nvarchar(160) NOT NULL,
+    [telephone] nvarchar(13) NOT NULL,
+    [connectIdent] nvarchar(30) NOT NULL,
+    [connectPwd] nvarchar(36) NOT NULL,
+    CONSTRAINT [PK_AssoCompte] PRIMARY KEY ([userID])
+);"
+2022-01-01 18:41:23.355 +01:00 [Debug] Creating DbCommand for '"ExecuteNonQuery"'.
+2022-01-01 18:41:23.355 +01:00 [Debug] Created DbCommand for '"ExecuteNonQuery"' (0ms).
+2022-01-01 18:41:23.355 +01:00 [Debug] Executing DbCommand [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""CREATE TABLE [ClientCompte] (
+    [clientID] int NOT NULL DEFAULT (NEXT VALUE FOR Client_Compte_id_seq),
+    [titre] nvarchar(4) NULL,
+    [nom] nvarchar(75) NOT NULL,
+    [prenom] nvarchar(75) NOT NULL,
+    [birthDate] datetime2 NOT NULL,
+    [eMail] nvarchar(160) NOT NULL,
+    [adresse1] nvarchar(200) NOT NULL,
+    [adresse2] nvarchar(200) NULL,
+    [codePostal] int NOT NULL,
+    [ville] nvarchar(75) NOT NULL,
+    [telephone] nvarchar(13) NOT NULL,
+    [connectIdent] nvarchar(30) NOT NULL,
+    [connectPwd] nvarchar(36) NOT NULL,
+    CONSTRAINT [PK_ClientCompte] PRIMARY KEY ([clientID])
+);"
+2022-01-01 18:41:23.371 +01:00 [Information] Executed DbCommand ("16"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""CREATE TABLE [ClientCompte] (
+    [clientID] int NOT NULL DEFAULT (NEXT VALUE FOR Client_Compte_id_seq),
+    [titre] nvarchar(4) NULL,
+    [nom] nvarchar(75) NOT NULL,
+    [prenom] nvarchar(75) NOT NULL,
+    [birthDate] datetime2 NOT NULL,
+    [eMail] nvarchar(160) NOT NULL,
+    [adresse1] nvarchar(200) NOT NULL,
+    [adresse2] nvarchar(200) NULL,
+    [codePostal] int NOT NULL,
+    [ville] nvarchar(75) NOT NULL,
+    [telephone] nvarchar(13) NOT NULL,
+    [connectIdent] nvarchar(30) NOT NULL,
+    [connectPwd] nvarchar(36) NOT NULL,
+    CONSTRAINT [PK_ClientCompte] PRIMARY KEY ([clientID])
+);"
+2022-01-01 18:41:23.372 +01:00 [Debug] Committing transaction.
+2022-01-01 18:41:23.403 +01:00 [Debug] Committed transaction.
+2022-01-01 18:41:23.404 +01:00 [Debug] Disposing transaction.
+2022-01-01 18:41:23.404 +01:00 [Debug] Closing connection to database '"band_apa"' on server '"tdb-dotnet.synology.me,1435"'.
+2022-01-01 18:41:23.404 +01:00 [Debug] Closed connection to database '"band_apa"' on server '"tdb-dotnet.synology.me,1435"'.
+2022-01-01 18:41:23.422 +01:00 [Debug] Compiling query expression: "
+"'"DbSet<AnimalsIdentity>()
+    .Any()"'
+2022-01-01 18:41:23.504 +01:00 [Debug] Generated query execution expression: "
+"'"queryContext => new SingleQueryingEnumerable<bool>(
+    (RelationalQueryContext)queryContext, 
+    RelationalCommandCache.SelectExpression(
+        Projection Mapping:
+            EmptyProjectionMember -> 0
+        SELECT EXISTS (
+            Projection Mapping:
+            SELECT 1
+            FROM AnimalsIdentity AS a)), 
+    Func<QueryContext, DbDataReader, ResultContext, SingleQueryResultCoordinator, bool>, 
+    band_apa_api.Data.ApplicationContext, 
+    False, 
+    False
+)
+    .Single()"'
+2022-01-01 18:41:23.519 +01:00 [Debug] Creating DbCommand for '"ExecuteReader"'.
+2022-01-01 18:41:23.519 +01:00 [Debug] Created DbCommand for '"ExecuteReader"' (0ms).
+2022-01-01 18:41:23.519 +01:00 [Debug] Opening connection to database '"band_apa"' on server '"tdb-dotnet.synology.me,1435"'.
+2022-01-01 18:41:23.519 +01:00 [Debug] Opened connection to database '"band_apa"' on server '"tdb-dotnet.synology.me,1435"'.
+2022-01-01 18:41:23.520 +01:00 [Debug] Executing DbCommand [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [AnimalsIdentity] AS [a]) THEN CAST(1 AS bit)
+    ELSE CAST(0 AS bit)
+END"
+2022-01-01 18:41:23.536 +01:00 [Information] Executed DbCommand ("16"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [AnimalsIdentity] AS [a]) THEN CAST(1 AS bit)
+    ELSE CAST(0 AS bit)
+END"
+2022-01-01 18:41:23.542 +01:00 [Debug] A data reader was disposed.
+2022-01-01 18:41:23.542 +01:00 [Debug] Closing connection to database '"band_apa"' on server '"tdb-dotnet.synology.me,1435"'.
+2022-01-01 18:41:23.542 +01:00 [Debug] Closed connection to database '"band_apa"' on server '"tdb-dotnet.synology.me,1435"'.
+2022-01-01 18:41:23.563 +01:00 [Debug] '"ApplicationContext"' generated a temporary value for the property '"userID"."AssoCompte"'. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2022-01-01 18:41:23.596 +01:00 [Debug] Context '"ApplicationContext"' started tracking '"AssoCompte"' entity. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2022-01-01 18:41:23.596 +01:00 [Debug] '"ApplicationContext"' generated a temporary value for the property '"userID"."AssoCompte"'. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2022-01-01 18:41:23.596 +01:00 [Debug] Context '"ApplicationContext"' started tracking '"AssoCompte"' entity. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2022-01-01 18:41:23.596 +01:00 [Debug] '"ApplicationContext"' generated a temporary value for the property '"userID"."AssoCompte"'. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2022-01-01 18:41:23.596 +01:00 [Debug] Context '"ApplicationContext"' started tracking '"AssoCompte"' entity. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2022-01-01 18:41:23.596 +01:00 [Debug] '"ApplicationContext"' generated a temporary value for the property '"userID"."AssoCompte"'. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2022-01-01 18:41:23.596 +01:00 [Debug] Context '"ApplicationContext"' started tracking '"AssoCompte"' entity. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2022-01-01 18:41:23.597 +01:00 [Debug] '"ApplicationContext"' generated a temporary value for the property '"aiID"."AnimalsIdentity"'. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2022-01-01 18:41:23.606 +01:00 [Debug] Context '"ApplicationContext"' started tracking '"AnimalsIdentity"' entity. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2022-01-01 18:41:23.606 +01:00 [Debug] '"ApplicationContext"' generated a temporary value for the property '"aiID"."AnimalsIdentity"'. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2022-01-01 18:41:23.606 +01:00 [Debug] Context '"ApplicationContext"' started tracking '"AnimalsIdentity"' entity. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2022-01-01 18:41:23.606 +01:00 [Debug] '"ApplicationContext"' generated a temporary value for the property '"aiID"."AnimalsIdentity"'. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2022-01-01 18:41:23.606 +01:00 [Debug] Context '"ApplicationContext"' started tracking '"AnimalsIdentity"' entity. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2022-01-01 18:41:23.606 +01:00 [Debug] '"ApplicationContext"' generated a temporary value for the property '"aiID"."AnimalsIdentity"'. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2022-01-01 18:41:23.606 +01:00 [Debug] Context '"ApplicationContext"' started tracking '"AnimalsIdentity"' entity. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2022-01-01 18:41:23.606 +01:00 [Debug] '"ApplicationContext"' generated a temporary value for the property '"aiID"."AnimalsIdentity"'. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2022-01-01 18:41:23.607 +01:00 [Debug] Context '"ApplicationContext"' started tracking '"AnimalsIdentity"' entity. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2022-01-01 18:41:23.607 +01:00 [Debug] '"ApplicationContext"' generated a temporary value for the property '"clientID"."ClientCompte"'. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2022-01-01 18:41:23.619 +01:00 [Debug] Context '"ApplicationContext"' started tracking '"ClientCompte"' entity. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2022-01-01 18:41:23.619 +01:00 [Debug] '"ApplicationContext"' generated a temporary value for the property '"clientID"."ClientCompte"'. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2022-01-01 18:41:23.619 +01:00 [Debug] Context '"ApplicationContext"' started tracking '"ClientCompte"' entity. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2022-01-01 18:41:23.619 +01:00 [Debug] '"ApplicationContext"' generated a temporary value for the property '"clientID"."ClientCompte"'. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2022-01-01 18:41:23.620 +01:00 [Debug] Context '"ApplicationContext"' started tracking '"ClientCompte"' entity. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2022-01-01 18:41:23.620 +01:00 [Debug] '"ApplicationContext"' generated a temporary value for the property '"clientID"."ClientCompte"'. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2022-01-01 18:41:23.620 +01:00 [Debug] Context '"ApplicationContext"' started tracking '"ClientCompte"' entity. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2022-01-01 18:41:23.620 +01:00 [Debug] '"ApplicationContext"' generated a temporary value for the property '"clientID"."ClientCompte"'. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2022-01-01 18:41:23.620 +01:00 [Debug] Context '"ApplicationContext"' started tracking '"ClientCompte"' entity. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2022-01-01 18:41:23.621 +01:00 [Debug] SaveChanges starting for '"ApplicationContext"'.
+2022-01-01 18:41:23.621 +01:00 [Debug] DetectChanges starting for '"ApplicationContext"'.
+2022-01-01 18:41:23.630 +01:00 [Debug] DetectChanges completed for '"ApplicationContext"'.
+2022-01-01 18:41:23.633 +01:00 [Debug] Opening connection to database '"band_apa"' on server '"tdb-dotnet.synology.me,1435"'.
+2022-01-01 18:41:23.634 +01:00 [Debug] Opened connection to database '"band_apa"' on server '"tdb-dotnet.synology.me,1435"'.
+2022-01-01 18:41:23.634 +01:00 [Debug] Beginning transaction with isolation level '"Unspecified"'.
+2022-01-01 18:41:23.647 +01:00 [Debug] Began transaction with isolation level '"ReadCommitted"'.
+2022-01-01 18:41:23.668 +01:00 [Debug] Executing 14 update commands as a batch.
+2022-01-01 18:41:23.675 +01:00 [Debug] Creating DbCommand for '"ExecuteReader"'.
+2022-01-01 18:41:23.675 +01:00 [Debug] Created DbCommand for '"ExecuteReader"' (0ms).
+2022-01-01 18:41:23.680 +01:00 [Debug] Executing DbCommand [Parameters=["@p0='?' (DbType = Int32), @p1='?' (Size = 1000), @p2='?' (Size = 100), @p3='?' (DbType = DateTime2), @p4='?' (Size = 50), @p5='?' (Size = 75), @p6='?' (Size = 50), @p7='?' (Size = 75), @p8='?' (Size = 7), @p9='?' (DbType = Int32), @p10='?' (Size = 1000), @p11='?' (Size = 100), @p12='?' (DbType = DateTime2), @p13='?' (Size = 50), @p14='?' (Size = 75), @p15='?' (Size = 50), @p16='?' (Size = 75), @p17='?' (Size = 7), @p18='?' (DbType = Int32), @p19='?' (Size = 1000), @p20='?' (Size = 100), @p21='?' (DbType = DateTime2), @p22='?' (Size = 50), @p23='?' (Size = 75), @p24='?' (Size = 50), @p25='?' (Size = 75), @p26='?' (Size = 7), @p27='?' (DbType = Int32), @p28='?' (Size = 1000), @p29='?' (Size = 100), @p30='?' (DbType = DateTime2), @p31='?' (Size = 50), @p32='?' (Size = 75), @p33='?' (Size = 50), @p34='?' (Size = 75), @p35='?' (Size = 7), @p36='?' (DbType = Int32), @p37='?' (Size = 1000), @p38='?' (Size = 100), @p39='?' (DbType = DateTime2), @p40='?' (Size = 50), @p41='?' (Size = 75), @p42='?' (Size = 50), @p43='?' (Size = 75), @p44='?' (Size = 7), @p45='?' (DbType = DateTime2), @p46='?' (Size = 30), @p47='?' (Size = 36), @p48='?' (Size = 160), @p49='?' (Size = 75), @p50='?' (Size = 75), @p51='?' (Size = 50), @p52='?' (Size = 13), @p53='?' (Size = 4), @p54='?' (DbType = DateTime2), @p55='?' (Size = 30), @p56='?' (Size = 36), @p57='?' (Size = 160), @p58='?' (Size = 75), @p59='?' (Size = 75), @p60='?' (Size = 50), @p61='?' (Size = 13), @p62='?' (Size = 4), @p63='?' (DbType = DateTime2), @p64='?' (Size = 30), @p65='?' (Size = 36), @p66='?' (Size = 160), @p67='?' (Size = 75), @p68='?' (Size = 75), @p69='?' (Size = 50), @p70='?' (Size = 13), @p71='?' (Size = 4), @p72='?' (DbType = DateTime2), @p73='?' (Size = 30), @p74='?' (Size = 36), @p75='?' (Size = 160), @p76='?' (Size = 75), @p77='?' (Size = 75), @p78='?' (Size = 50), @p79='?' (Size = 13), @p80='?' (Size = 4), @p81='?' (Size = 200), @p82='?' (Size = 200), @p83='?' (DbType = DateTime2), @p84='?' (DbType = Int32), @p85='?' (Size = 30), @p86='?' (Size = 36), @p87='?' (Size = 160), @p88='?' (Size = 75), @p89='?' (Size = 75), @p90='?' (Size = 13), @p91='?' (Size = 4), @p92='?' (Size = 75), @p93='?' (Size = 200), @p94='?' (Size = 200), @p95='?' (DbType = DateTime2), @p96='?' (DbType = Int32), @p97='?' (Size = 30), @p98='?' (Size = 36), @p99='?' (Size = 160), @p100='?' (Size = 75), @p101='?' (Size = 75), @p102='?' (Size = 13), @p103='?' (Size = 4), @p104='?' (Size = 75), @p105='?' (Size = 200), @p106='?' (Size = 200), @p107='?' (DbType = DateTime2), @p108='?' (DbType = Int32), @p109='?' (Size = 30), @p110='?' (Size = 36), @p111='?' (Size = 160), @p112='?' (Size = 75), @p113='?' (Size = 75), @p114='?' (Size = 13), @p115='?' (Size = 4), @p116='?' (Size = 75), @p117='?' (Size = 200), @p118='?' (Size = 200), @p119='?' (DbType = DateTime2), @p120='?' (DbType = Int32), @p121='?' (Size = 30), @p122='?' (Size = 36), @p123='?' (Size = 160), @p124='?' (Size = 75), @p125='?' (Size = 75), @p126='?' (Size = 13), @p127='?' (Size = 4), @p128='?' (Size = 75), @p129='?' (Size = 200), @p130='?' (Size = 200), @p131='?' (DbType = DateTime2), @p132='?' (DbType = Int32), @p133='?' (Size = 30), @p134='?' (Size = 36), @p135='?' (Size = 160), @p136='?' (Size = 75), @p137='?' (Size = 75), @p138='?' (Size = 13), @p139='?' (Size = 4), @p140='?' (Size = 75)"], CommandType='Text', CommandTimeout='30']"
+""SET NOCOUNT ON;
+DECLARE @inserted0 TABLE ([aiID] int, [_Position] [int]);
+MERGE [AnimalsIdentity] USING (
+VALUES (@p0, @p1, @p2, @p3, @p4, @p5, @p6, @p7, @p8, 0),
+(@p9, @p10, @p11, @p12, @p13, @p14, @p15, @p16, @p17, 1),
+(@p18, @p19, @p20, @p21, @p22, @p23, @p24, @p25, @p26, 2),
+(@p27, @p28, @p29, @p30, @p31, @p32, @p33, @p34, @p35, 3),
+(@p36, @p37, @p38, @p39, @p40, @p41, @p42, @p43, @p44, 4)) AS i ([age], [comments], [couleur], [dateEntree], [espece], [nom], [photo], [race], [sexe], _Position) ON 1=0
+WHEN NOT MATCHED THEN
+INSERT ([age], [comments], [couleur], [dateEntree], [espece], [nom], [photo], [race], [sexe])
+VALUES (i.[age], i.[comments], i.[couleur], i.[dateEntree], i.[espece], i.[nom], i.[photo], i.[race], i.[sexe])
+OUTPUT INSERTED.[aiID], i._Position
+INTO @inserted0;
+
+SELECT [t].[aiID] FROM [AnimalsIdentity] t
+INNER JOIN @inserted0 i ON ([t].[aiID] = [i].[aiID])
+ORDER BY [i].[_Position];
+
+DECLARE @inserted5 TABLE ([userID] int, [_Position] [int]);
+MERGE [AssoCompte] USING (
+VALUES (@p45, @p46, @p47, @p48, @p49, @p50, @p51, @p52, @p53, 0),
+(@p54, @p55, @p56, @p57, @p58, @p59, @p60, @p61, @p62, 1),
+(@p63, @p64, @p65, @p66, @p67, @p68, @p69, @p70, @p71, 2),
+(@p72, @p73, @p74, @p75, @p76, @p77, @p78, @p79, @p80, 3)) AS i ([birthDate], [connectIdent], [connectPwd], [eMail], [nom], [prenom], [role], [telephone], [titre], _Position) ON 1=0
+WHEN NOT MATCHED THEN
+INSERT ([birthDate], [connectIdent], [connectPwd], [eMail], [nom], [prenom], [role], [telephone], [titre])
+VALUES (i.[birthDate], i.[connectIdent], i.[connectPwd], i.[eMail], i.[nom], i.[prenom], i.[role], i.[telephone], i.[titre])
+OUTPUT INSERTED.[userID], i._Position
+INTO @inserted5;
+
+SELECT [t].[userID] FROM [AssoCompte] t
+INNER JOIN @inserted5 i ON ([t].[userID] = [i].[userID])
+ORDER BY [i].[_Position];
+
+DECLARE @inserted9 TABLE ([clientID] int, [_Position] [int]);
+MERGE [ClientCompte] USING (
+VALUES (@p81, @p82, @p83, @p84, @p85, @p86, @p87, @p88, @p89, @p90, @p91, @p92, 0),
+(@p93, @p94, @p95, @p96, @p97, @p98, @p99, @p100, @p101, @p102, @p103, @p104, 1),
+(@p105, @p106, @p107, @p108, @p109, @p110, @p111, @p112, @p113, @p114, @p115, @p116, 2),
+(@p117, @p118, @p119, @p120, @p121, @p122, @p123, @p124, @p125, @p126, @p127, @p128, 3),
+(@p129, @p130, @p131, @p132, @p133, @p134, @p135, @p136, @p137, @p138, @p139, @p140, 4)) AS i ([adresse1], [adresse2], [birthDate], [codePostal], [connectIdent], [connectPwd], [eMail], [nom], [prenom], [telephone], [titre], [ville], _Position) ON 1=0
+WHEN NOT MATCHED THEN
+INSERT ([adresse1], [adresse2], [birthDate], [codePostal], [connectIdent], [connectPwd], [eMail], [nom], [prenom], [telephone], [titre], [ville])
+VALUES (i.[adresse1], i.[adresse2], i.[birthDate], i.[codePostal], i.[connectIdent], i.[connectPwd], i.[eMail], i.[nom], i.[prenom], i.[telephone], i.[titre], i.[ville])
+OUTPUT INSERTED.[clientID], i._Position
+INTO @inserted9;
+
+SELECT [t].[clientID] FROM [ClientCompte] t
+INNER JOIN @inserted9 i ON ([t].[clientID] = [i].[clientID])
+ORDER BY [i].[_Position];"
+2022-01-01 18:41:23.767 +01:00 [Information] Executed DbCommand ("89"ms) [Parameters=["@p0='?' (DbType = Int32), @p1='?' (Size = 1000), @p2='?' (Size = 100), @p3='?' (DbType = DateTime2), @p4='?' (Size = 50), @p5='?' (Size = 75), @p6='?' (Size = 50), @p7='?' (Size = 75), @p8='?' (Size = 7), @p9='?' (DbType = Int32), @p10='?' (Size = 1000), @p11='?' (Size = 100), @p12='?' (DbType = DateTime2), @p13='?' (Size = 50), @p14='?' (Size = 75), @p15='?' (Size = 50), @p16='?' (Size = 75), @p17='?' (Size = 7), @p18='?' (DbType = Int32), @p19='?' (Size = 1000), @p20='?' (Size = 100), @p21='?' (DbType = DateTime2), @p22='?' (Size = 50), @p23='?' (Size = 75), @p24='?' (Size = 50), @p25='?' (Size = 75), @p26='?' (Size = 7), @p27='?' (DbType = Int32), @p28='?' (Size = 1000), @p29='?' (Size = 100), @p30='?' (DbType = DateTime2), @p31='?' (Size = 50), @p32='?' (Size = 75), @p33='?' (Size = 50), @p34='?' (Size = 75), @p35='?' (Size = 7), @p36='?' (DbType = Int32), @p37='?' (Size = 1000), @p38='?' (Size = 100), @p39='?' (DbType = DateTime2), @p40='?' (Size = 50), @p41='?' (Size = 75), @p42='?' (Size = 50), @p43='?' (Size = 75), @p44='?' (Size = 7), @p45='?' (DbType = DateTime2), @p46='?' (Size = 30), @p47='?' (Size = 36), @p48='?' (Size = 160), @p49='?' (Size = 75), @p50='?' (Size = 75), @p51='?' (Size = 50), @p52='?' (Size = 13), @p53='?' (Size = 4), @p54='?' (DbType = DateTime2), @p55='?' (Size = 30), @p56='?' (Size = 36), @p57='?' (Size = 160), @p58='?' (Size = 75), @p59='?' (Size = 75), @p60='?' (Size = 50), @p61='?' (Size = 13), @p62='?' (Size = 4), @p63='?' (DbType = DateTime2), @p64='?' (Size = 30), @p65='?' (Size = 36), @p66='?' (Size = 160), @p67='?' (Size = 75), @p68='?' (Size = 75), @p69='?' (Size = 50), @p70='?' (Size = 13), @p71='?' (Size = 4), @p72='?' (DbType = DateTime2), @p73='?' (Size = 30), @p74='?' (Size = 36), @p75='?' (Size = 160), @p76='?' (Size = 75), @p77='?' (Size = 75), @p78='?' (Size = 50), @p79='?' (Size = 13), @p80='?' (Size = 4), @p81='?' (Size = 200), @p82='?' (Size = 200), @p83='?' (DbType = DateTime2), @p84='?' (DbType = Int32), @p85='?' (Size = 30), @p86='?' (Size = 36), @p87='?' (Size = 160), @p88='?' (Size = 75), @p89='?' (Size = 75), @p90='?' (Size = 13), @p91='?' (Size = 4), @p92='?' (Size = 75), @p93='?' (Size = 200), @p94='?' (Size = 200), @p95='?' (DbType = DateTime2), @p96='?' (DbType = Int32), @p97='?' (Size = 30), @p98='?' (Size = 36), @p99='?' (Size = 160), @p100='?' (Size = 75), @p101='?' (Size = 75), @p102='?' (Size = 13), @p103='?' (Size = 4), @p104='?' (Size = 75), @p105='?' (Size = 200), @p106='?' (Size = 200), @p107='?' (DbType = DateTime2), @p108='?' (DbType = Int32), @p109='?' (Size = 30), @p110='?' (Size = 36), @p111='?' (Size = 160), @p112='?' (Size = 75), @p113='?' (Size = 75), @p114='?' (Size = 13), @p115='?' (Size = 4), @p116='?' (Size = 75), @p117='?' (Size = 200), @p118='?' (Size = 200), @p119='?' (DbType = DateTime2), @p120='?' (DbType = Int32), @p121='?' (Size = 30), @p122='?' (Size = 36), @p123='?' (Size = 160), @p124='?' (Size = 75), @p125='?' (Size = 75), @p126='?' (Size = 13), @p127='?' (Size = 4), @p128='?' (Size = 75), @p129='?' (Size = 200), @p130='?' (Size = 200), @p131='?' (DbType = DateTime2), @p132='?' (DbType = Int32), @p133='?' (Size = 30), @p134='?' (Size = 36), @p135='?' (Size = 160), @p136='?' (Size = 75), @p137='?' (Size = 75), @p138='?' (Size = 13), @p139='?' (Size = 4), @p140='?' (Size = 75)"], CommandType='Text', CommandTimeout='30']"
+""SET NOCOUNT ON;
+DECLARE @inserted0 TABLE ([aiID] int, [_Position] [int]);
+MERGE [AnimalsIdentity] USING (
+VALUES (@p0, @p1, @p2, @p3, @p4, @p5, @p6, @p7, @p8, 0),
+(@p9, @p10, @p11, @p12, @p13, @p14, @p15, @p16, @p17, 1),
+(@p18, @p19, @p20, @p21, @p22, @p23, @p24, @p25, @p26, 2),
+(@p27, @p28, @p29, @p30, @p31, @p32, @p33, @p34, @p35, 3),
+(@p36, @p37, @p38, @p39, @p40, @p41, @p42, @p43, @p44, 4)) AS i ([age], [comments], [couleur], [dateEntree], [espece], [nom], [photo], [race], [sexe], _Position) ON 1=0
+WHEN NOT MATCHED THEN
+INSERT ([age], [comments], [couleur], [dateEntree], [espece], [nom], [photo], [race], [sexe])
+VALUES (i.[age], i.[comments], i.[couleur], i.[dateEntree], i.[espece], i.[nom], i.[photo], i.[race], i.[sexe])
+OUTPUT INSERTED.[aiID], i._Position
+INTO @inserted0;
+
+SELECT [t].[aiID] FROM [AnimalsIdentity] t
+INNER JOIN @inserted0 i ON ([t].[aiID] = [i].[aiID])
+ORDER BY [i].[_Position];
+
+DECLARE @inserted5 TABLE ([userID] int, [_Position] [int]);
+MERGE [AssoCompte] USING (
+VALUES (@p45, @p46, @p47, @p48, @p49, @p50, @p51, @p52, @p53, 0),
+(@p54, @p55, @p56, @p57, @p58, @p59, @p60, @p61, @p62, 1),
+(@p63, @p64, @p65, @p66, @p67, @p68, @p69, @p70, @p71, 2),
+(@p72, @p73, @p74, @p75, @p76, @p77, @p78, @p79, @p80, 3)) AS i ([birthDate], [connectIdent], [connectPwd], [eMail], [nom], [prenom], [role], [telephone], [titre], _Position) ON 1=0
+WHEN NOT MATCHED THEN
+INSERT ([birthDate], [connectIdent], [connectPwd], [eMail], [nom], [prenom], [role], [telephone], [titre])
+VALUES (i.[birthDate], i.[connectIdent], i.[connectPwd], i.[eMail], i.[nom], i.[prenom], i.[role], i.[telephone], i.[titre])
+OUTPUT INSERTED.[userID], i._Position
+INTO @inserted5;
+
+SELECT [t].[userID] FROM [AssoCompte] t
+INNER JOIN @inserted5 i ON ([t].[userID] = [i].[userID])
+ORDER BY [i].[_Position];
+
+DECLARE @inserted9 TABLE ([clientID] int, [_Position] [int]);
+MERGE [ClientCompte] USING (
+VALUES (@p81, @p82, @p83, @p84, @p85, @p86, @p87, @p88, @p89, @p90, @p91, @p92, 0),
+(@p93, @p94, @p95, @p96, @p97, @p98, @p99, @p100, @p101, @p102, @p103, @p104, 1),
+(@p105, @p106, @p107, @p108, @p109, @p110, @p111, @p112, @p113, @p114, @p115, @p116, 2),
+(@p117, @p118, @p119, @p120, @p121, @p122, @p123, @p124, @p125, @p126, @p127, @p128, 3),
+(@p129, @p130, @p131, @p132, @p133, @p134, @p135, @p136, @p137, @p138, @p139, @p140, 4)) AS i ([adresse1], [adresse2], [birthDate], [codePostal], [connectIdent], [connectPwd], [eMail], [nom], [prenom], [telephone], [titre], [ville], _Position) ON 1=0
+WHEN NOT MATCHED THEN
+INSERT ([adresse1], [adresse2], [birthDate], [codePostal], [connectIdent], [connectPwd], [eMail], [nom], [prenom], [telephone], [titre], [ville])
+VALUES (i.[adresse1], i.[adresse2], i.[birthDate], i.[codePostal], i.[connectIdent], i.[connectPwd], i.[eMail], i.[nom], i.[prenom], i.[telephone], i.[titre], i.[ville])
+OUTPUT INSERTED.[clientID], i._Position
+INTO @inserted9;
+
+SELECT [t].[clientID] FROM [ClientCompte] t
+INNER JOIN @inserted9 i ON ([t].[clientID] = [i].[clientID])
+ORDER BY [i].[_Position];"
+2022-01-01 18:41:23.775 +01:00 [Debug] The foreign key property '"AnimalsIdentity"."aiID"' was detected as changed. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see property values.
+2022-01-01 18:41:23.777 +01:00 [Debug] The foreign key property '"AnimalsIdentity"."aiID"' was detected as changed. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see property values.
+2022-01-01 18:41:23.777 +01:00 [Debug] The foreign key property '"AnimalsIdentity"."aiID"' was detected as changed. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see property values.
+2022-01-01 18:41:23.777 +01:00 [Debug] The foreign key property '"AnimalsIdentity"."aiID"' was detected as changed. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see property values.
+2022-01-01 18:41:23.777 +01:00 [Debug] The foreign key property '"AnimalsIdentity"."aiID"' was detected as changed. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see property values.
+2022-01-01 18:41:23.779 +01:00 [Debug] The foreign key property '"AssoCompte"."userID"' was detected as changed. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see property values.
+2022-01-01 18:41:23.779 +01:00 [Debug] The foreign key property '"AssoCompte"."userID"' was detected as changed. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see property values.
+2022-01-01 18:41:23.779 +01:00 [Debug] The foreign key property '"AssoCompte"."userID"' was detected as changed. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see property values.
+2022-01-01 18:41:23.779 +01:00 [Debug] The foreign key property '"AssoCompte"."userID"' was detected as changed. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see property values.
+2022-01-01 18:41:23.780 +01:00 [Debug] The foreign key property '"ClientCompte"."clientID"' was detected as changed. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see property values.
+2022-01-01 18:41:23.780 +01:00 [Debug] The foreign key property '"ClientCompte"."clientID"' was detected as changed. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see property values.
+2022-01-01 18:41:23.780 +01:00 [Debug] The foreign key property '"ClientCompte"."clientID"' was detected as changed. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see property values.
+2022-01-01 18:41:23.780 +01:00 [Debug] The foreign key property '"ClientCompte"."clientID"' was detected as changed. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see property values.
+2022-01-01 18:41:23.780 +01:00 [Debug] The foreign key property '"ClientCompte"."clientID"' was detected as changed. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see property values.
+2022-01-01 18:41:23.781 +01:00 [Debug] A data reader was disposed.
+2022-01-01 18:41:23.781 +01:00 [Debug] Committing transaction.
+2022-01-01 18:41:23.803 +01:00 [Debug] Committed transaction.
+2022-01-01 18:41:23.803 +01:00 [Debug] Closing connection to database '"band_apa"' on server '"tdb-dotnet.synology.me,1435"'.
+2022-01-01 18:41:23.803 +01:00 [Debug] Closed connection to database '"band_apa"' on server '"tdb-dotnet.synology.me,1435"'.
+2022-01-01 18:41:23.803 +01:00 [Debug] Disposing transaction.
+2022-01-01 18:41:23.809 +01:00 [Debug] An entity of type '"AssoCompte"' tracked by '"ApplicationContext"' changed state from 'Added' to 'Unchanged'. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2022-01-01 18:41:23.809 +01:00 [Debug] An entity of type '"AssoCompte"' tracked by '"ApplicationContext"' changed state from 'Added' to 'Unchanged'. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2022-01-01 18:41:23.809 +01:00 [Debug] An entity of type '"AssoCompte"' tracked by '"ApplicationContext"' changed state from 'Added' to 'Unchanged'. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2022-01-01 18:41:23.809 +01:00 [Debug] An entity of type '"AssoCompte"' tracked by '"ApplicationContext"' changed state from 'Added' to 'Unchanged'. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2022-01-01 18:41:23.810 +01:00 [Debug] An entity of type '"AnimalsIdentity"' tracked by '"ApplicationContext"' changed state from 'Added' to 'Unchanged'. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2022-01-01 18:41:23.810 +01:00 [Debug] An entity of type '"AnimalsIdentity"' tracked by '"ApplicationContext"' changed state from 'Added' to 'Unchanged'. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2022-01-01 18:41:23.810 +01:00 [Debug] An entity of type '"AnimalsIdentity"' tracked by '"ApplicationContext"' changed state from 'Added' to 'Unchanged'. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2022-01-01 18:41:23.810 +01:00 [Debug] An entity of type '"AnimalsIdentity"' tracked by '"ApplicationContext"' changed state from 'Added' to 'Unchanged'. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2022-01-01 18:41:23.810 +01:00 [Debug] An entity of type '"AnimalsIdentity"' tracked by '"ApplicationContext"' changed state from 'Added' to 'Unchanged'. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2022-01-01 18:41:23.810 +01:00 [Debug] An entity of type '"ClientCompte"' tracked by '"ApplicationContext"' changed state from 'Added' to 'Unchanged'. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2022-01-01 18:41:23.810 +01:00 [Debug] An entity of type '"ClientCompte"' tracked by '"ApplicationContext"' changed state from 'Added' to 'Unchanged'. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2022-01-01 18:41:23.810 +01:00 [Debug] An entity of type '"ClientCompte"' tracked by '"ApplicationContext"' changed state from 'Added' to 'Unchanged'. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2022-01-01 18:41:23.810 +01:00 [Debug] An entity of type '"ClientCompte"' tracked by '"ApplicationContext"' changed state from 'Added' to 'Unchanged'. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2022-01-01 18:41:23.810 +01:00 [Debug] An entity of type '"ClientCompte"' tracked by '"ApplicationContext"' changed state from 'Added' to 'Unchanged'. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2022-01-01 18:41:23.811 +01:00 [Debug] SaveChanges completed for '"ApplicationContext"' with 14 entities written to the database.
+2022-01-01 18:41:23.812 +01:00 [Debug] '"ApplicationContext"' disposed.
+2022-01-01 18:41:23.814 +01:00 [Debug] Hosting starting
+2022-01-01 18:41:23.840 +01:00 [Information] User profile is available. Using '"C:\Users\d_wal\AppData\Local\ASP.NET\DataProtection-Keys"' as key repository and Windows DPAPI to encrypt keys at rest.
+2022-01-01 18:41:23.844 +01:00 [Debug] Reading data from file '"C:\Users\d_wal\AppData\Local\ASP.NET\DataProtection-Keys\key-c5c2c863-95ab-4ec4-9f95-2a0dbea0d7a0.xml"'.
+2022-01-01 18:41:23.848 +01:00 [Debug] Found key {c5c2c863-95ab-4ec4-9f95-2a0dbea0d7a0}.
+2022-01-01 18:41:23.856 +01:00 [Debug] Considering key {c5c2c863-95ab-4ec4-9f95-2a0dbea0d7a0} with expiration date 2022-03-16 07:30:50Z as default key.
+2022-01-01 18:41:23.862 +01:00 [Debug] Forwarded activator type request from "Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor, Microsoft.AspNetCore.DataProtection, Version=5.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60" to "Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor, Microsoft.AspNetCore.DataProtection, Culture=neutral, PublicKeyToken=adb9793829ddae60"
+2022-01-01 18:41:23.862 +01:00 [Debug] Decrypting secret element using Windows DPAPI.
+2022-01-01 18:41:23.863 +01:00 [Debug] Forwarded activator type request from "Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ConfigurationModel.AuthenticatedEncryptorDescriptorDeserializer, Microsoft.AspNetCore.DataProtection, Version=5.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60" to "Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ConfigurationModel.AuthenticatedEncryptorDescriptorDeserializer, Microsoft.AspNetCore.DataProtection, Culture=neutral, PublicKeyToken=adb9793829ddae60"
+2022-01-01 18:41:23.864 +01:00 [Debug] Opening CNG algorithm '"AES"' from provider 'null' with chaining mode CBC.
+2022-01-01 18:41:23.865 +01:00 [Debug] Opening CNG algorithm '"SHA256"' from provider 'null' with HMAC.
+2022-01-01 18:41:23.867 +01:00 [Debug] Using key {c5c2c863-95ab-4ec4-9f95-2a0dbea0d7a0} as the default key.
+2022-01-01 18:41:23.867 +01:00 [Debug] Key ring with default key {c5c2c863-95ab-4ec4-9f95-2a0dbea0d7a0} was loaded during application startup.
+2022-01-01 18:41:24.008 +01:00 [Debug] Loaded hosting startup assembly "band_apa_api"
+2022-01-01 18:41:24.008 +01:00 [Debug] Loaded hosting startup assembly "Microsoft.AspNetCore.Watch.BrowserRefresh"
+2022-01-01 18:41:24.008 +01:00 [Debug] Loaded hosting startup assembly "Microsoft.WebTools.BrowserLink.Net"
+2022-01-01 18:41:24.008 +01:00 [Information] Application started. Press Ctrl+C to shut down.
+2022-01-01 18:41:24.009 +01:00 [Information] Hosting environment: "Development"
+2022-01-01 18:41:24.009 +01:00 [Information] Content root path: "C:\Users\d_wal\source\repos\BAND_APA_API\BAND_APA_API"
+2022-01-01 18:41:24.009 +01:00 [Debug] Hosting started
+2022-01-01 18:41:24.037 +01:00 [Information] Request starting HTTP/2 GET https://localhost:44356/swagger/index.html - -
+2022-01-01 18:41:24.056 +01:00 [Debug] Wildcard detected, all requests with hosts will be allowed.
+2022-01-01 18:41:24.101 +01:00 [Debug] Response markup is scheduled to include browser refresh script injection.
+2022-01-01 18:41:24.195 +01:00 [Debug] Response markup was updated to include browser refresh script injection.
+2022-01-01 18:41:24.200 +01:00 [Debug] Connection ID ""18014398571222138881"" disconnecting.
+2022-01-01 18:41:24.200 +01:00 [Information] Request finished HTTP/2 GET https://localhost:44356/swagger/index.html - - - 200 - text/html;charset=utf-8 164.3855ms
+2022-01-01 18:41:24.245 +01:00 [Information] Request starting HTTP/2 GET https://localhost:44356/swagger/swagger-ui.css - -
+2022-01-01 18:41:24.245 +01:00 [Debug] Connection ID ""18374686558591647760"" disconnecting.
+2022-01-01 18:41:24.250 +01:00 [Information] Request starting HTTP/2 GET https://localhost:44356/_framework/aspnetcore-browser-refresh.js - -
+2022-01-01 18:41:24.257 +01:00 [Debug] Connection ID ""18374686554296680451"" disconnecting.
+2022-01-01 18:41:24.258 +01:00 [Information] Request finished HTTP/2 GET https://localhost:44356/_framework/aspnetcore-browser-refresh.js - - - 200 11946 application/javascript;+charset=utf-8 7.2510ms
+2022-01-01 18:41:24.255 +01:00 [Debug] The file transmission was cancelled
+System.OperationCanceledException: The operation was canceled.
+   at System.Threading.CancellationToken.ThrowOperationCanceledException()
+   at System.Threading.CancellationToken.ThrowIfCancellationRequested()
+   at Microsoft.AspNetCore.Http.SendFileResponseExtensions.SendFileAsyncCore(HttpResponse response, IFileInfo file, Int64 offset, Nullable`1 count, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.StaticFiles.StaticFileContext.SendAsync()
+2022-01-01 18:41:24.284 +01:00 [Information] Sending file. Request path: '"/swagger-ui.css"'. Physical path: '"N/A"'
+2022-01-01 18:41:24.285 +01:00 [Information] Request finished HTTP/2 GET https://localhost:44356/swagger/swagger-ui.css - - - 0 142933 text/css 39.5820ms
+2022-01-01 18:41:24.310 +01:00 [Information] Request starting HTTP/2 GET https://localhost:44356/swagger/favicon-16x16.png - -
+2022-01-01 18:41:24.310 +01:00 [Debug] Connection ID ""18302628964553719814"" disconnecting.
+2022-01-01 18:41:24.311 +01:00 [Debug] The file transmission was cancelled
+System.OperationCanceledException: The operation was canceled.
+   at System.Threading.CancellationToken.ThrowOperationCanceledException()
+   at System.Threading.CancellationToken.ThrowIfCancellationRequested()
+   at Microsoft.AspNetCore.Http.SendFileResponseExtensions.SendFileAsyncCore(HttpResponse response, IFileInfo file, Int64 offset, Nullable`1 count, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.StaticFiles.StaticFileContext.SendAsync()
+2022-01-01 18:41:24.311 +01:00 [Information] Sending file. Request path: '"/favicon-16x16.png"'. Physical path: '"N/A"'
+2022-01-01 18:41:24.311 +01:00 [Information] Request finished HTTP/2 GET https://localhost:44356/swagger/favicon-16x16.png - - - 0 665 image/png 1.7668ms
+2022-01-01 18:41:24.366 +01:00 [Information] Request starting HTTP/2 GET https://localhost:44356/swagger/v1/swagger.json - -
+2022-01-01 18:41:24.423 +01:00 [Debug] Connection ID ""18374686481282236434"" disconnecting.
+2022-01-01 18:41:24.423 +01:00 [Information] Request finished HTTP/2 GET https://localhost:44356/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 57.8672ms
+2022-01-01 18:41:50.470 +01:00 [Information] Request starting HTTP/2 DELETE https://localhost:44356/api/v1/ClientComptes/via/n2p2/connectPwd?connectPwd=n2p2123 - -
+2022-01-01 18:41:50.473 +01:00 [Debug] "DELETE" requests are not supported
+2022-01-01 18:41:50.478 +01:00 [Debug] Initializing Razor view compiler with no compiled views.
+2022-01-01 18:41:50.498 +01:00 [Debug] 1 candidate(s) found for the request path '"/api/v1/ClientComptes/via/n2p2/connectPwd"'
+2022-01-01 18:41:50.498 +01:00 [Debug] Endpoint '"band_apa_api.Controllers.ClientComptesController.DeleteByIdent (band_apa_api)"' with route pattern '"api/v1/ClientComptes/via/{connectIdent}/connectPwd"' is valid for the request path '"/api/v1/ClientComptes/via/n2p2/connectPwd"'
+2022-01-01 18:41:50.498 +01:00 [Debug] Request matched endpoint '"band_apa_api.Controllers.ClientComptesController.DeleteByIdent (band_apa_api)"'
+2022-01-01 18:41:50.500 +01:00 [Debug] The request has an origin header: '"https://localhost:44356"'.
+2022-01-01 18:41:50.500 +01:00 [Information] CORS policy execution successful.
+2022-01-01 18:41:50.500 +01:00 [Information] Executing endpoint '"band_apa_api.Controllers.ClientComptesController.DeleteByIdent (band_apa_api)"'
+2022-01-01 18:41:50.505 +01:00 [Debug] Registered model binder providers, in the following order: ["Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BinderTypeModelBinderProvider", "Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ServicesModelBinderProvider", "Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinderProvider", "Microsoft.AspNetCore.Mvc.ModelBinding.Binders.HeaderModelBinderProvider", "Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FloatingPointTypeModelBinderProvider", "Microsoft.AspNetCore.Mvc.ModelBinding.Binders.EnumTypeModelBinderProvider", "Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DateTimeModelBinderProvider", "Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinderProvider", "Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CancellationTokenModelBinderProvider", "Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ByteArrayModelBinderProvider", "Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormFileModelBinderProvider", "Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormCollectionModelBinderProvider", "Microsoft.AspNetCore.Mvc.ModelBinding.Binders.KeyValuePairModelBinderProvider", "Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DictionaryModelBinderProvider", "Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ArrayModelBinderProvider", "Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider", "Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexObjectModelBinderProvider"]
+2022-01-01 18:41:50.521 +01:00 [Information] Route matched with "{action = \"DeleteByIdent\", controller = \"ClientComptes\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult DeleteByIdent(System.String, System.String)" on controller "band_apa_api.Controllers.ClientComptesController" ("band_apa_api").
+2022-01-01 18:41:50.521 +01:00 [Debug] Execution plan of "authorization" filters (in the following order): ["None"]
+2022-01-01 18:41:50.521 +01:00 [Debug] Execution plan of "resource" filters (in the following order): ["Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter"]
+2022-01-01 18:41:50.521 +01:00 [Debug] Execution plan of "action" filters (in the following order): ["Microsoft.AspNetCore.Mvc.Filters.ControllerActionFilter (Order: -2147483648)", "Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000)", "Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter (Order: -2000)"]
+2022-01-01 18:41:50.521 +01:00 [Debug] Execution plan of "exception" filters (in the following order): ["None"]
+2022-01-01 18:41:50.521 +01:00 [Debug] Execution plan of "result" filters (in the following order): ["Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter", "Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter (Order: -2000)"]
+2022-01-01 18:41:50.522 +01:00 [Debug] Executing controller factory for controller "band_apa_api.Controllers.ClientComptesController" ("band_apa_api")
+2022-01-01 18:41:50.523 +01:00 [Debug] Executed controller factory for controller "band_apa_api.Controllers.ClientComptesController" ("band_apa_api")
+2022-01-01 18:41:50.526 +01:00 [Debug] Attempting to bind parameter '"connectIdent"' of type '"System.String"' ...
+2022-01-01 18:41:50.527 +01:00 [Debug] Attempting to bind parameter '"connectIdent"' of type '"System.String"' using the name '"connectIdent"' in request data ...
+2022-01-01 18:41:50.527 +01:00 [Debug] Done attempting to bind parameter '"connectIdent"' of type '"System.String"'.
+2022-01-01 18:41:50.527 +01:00 [Debug] Done attempting to bind parameter '"connectIdent"' of type '"System.String"'.
+2022-01-01 18:41:50.527 +01:00 [Debug] Attempting to validate the bound parameter '"connectIdent"' of type '"System.String"' ...
+2022-01-01 18:41:50.528 +01:00 [Debug] Done attempting to validate the bound parameter '"connectIdent"' of type '"System.String"'.
+2022-01-01 18:41:50.529 +01:00 [Debug] Attempting to bind parameter '"connectPwd"' of type '"System.String"' ...
+2022-01-01 18:41:50.530 +01:00 [Debug] Attempting to bind parameter '"connectPwd"' of type '"System.String"' using the name '"connectPwd"' in request data ...
+2022-01-01 18:41:50.530 +01:00 [Debug] Done attempting to bind parameter '"connectPwd"' of type '"System.String"'.
+2022-01-01 18:41:50.530 +01:00 [Debug] Done attempting to bind parameter '"connectPwd"' of type '"System.String"'.
+2022-01-01 18:41:50.530 +01:00 [Debug] Attempting to validate the bound parameter '"connectPwd"' of type '"System.String"' ...
+2022-01-01 18:41:50.530 +01:00 [Debug] Done attempting to validate the bound parameter '"connectPwd"' of type '"System.String"'.
+2022-01-01 18:41:50.532 +01:00 [Information] Entity Framework Core "5.0.13" initialized '"ApplicationContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer"' with options: "None"
+2022-01-01 18:41:50.545 +01:00 [Debug] Compiling query expression: "
+"'"DbSet<ClientCompte>()
+    .Single(cc => cc.connectIdent == __connectIdent_0 && cc.connectPwd == __connectPwd_1)"'
+2022-01-01 18:41:50.571 +01:00 [Debug] Generated query execution expression: "
+"'"queryContext => new SingleQueryingEnumerable<ClientCompte>(
+    (RelationalQueryContext)queryContext, 
+    RelationalCommandCache.SelectExpression(
+        Projection Mapping:
+            EmptyProjectionMember -> Dictionary<IProperty, int> { [Property: ClientCompte.clientID (int) Required PK AfterSave:Throw ValueGenerated.OnAdd, 0], [Property: ClientCompte.adresse1 (string) Required MaxLength(200), 1], [Property: ClientCompte.adresse2 (string) MaxLength(200), 2], [Property: ClientCompte.birthDate (DateTime) Required, 3], [Property: ClientCompte.codePostal (int) Required, 4], [Property: ClientCompte.connectIdent (string) Required MaxLength(30), 5], [Property: ClientCompte.connectPwd (string) Required MaxLength(36), 6], [Property: ClientCompte.eMail (string) Required MaxLength(160), 7], [Property: ClientCompte.nom (string) Required MaxLength(75), 8], [Property: ClientCompte.prenom (string) Required MaxLength(75), 9], [Property: ClientCompte.telephone (string) Required MaxLength(13), 10], [Property: ClientCompte.titre (string) MaxLength(4), 11], [Property: ClientCompte.ville (string) Required MaxLength(75), 12], }
+        SELECT TOP(2) c.clientID, c.adresse1, c.adresse2, c.birthDate, c.codePostal, c.connectIdent, c.connectPwd, c.eMail, c.nom, c.prenom, c.telephone, c.titre, c.ville
+        FROM ClientCompte AS c
+        WHERE (c.connectIdent == @__connectIdent_0) && (c.connectPwd == @__connectPwd_1)), 
+    Func<QueryContext, DbDataReader, ResultContext, SingleQueryResultCoordinator, ClientCompte>, 
+    band_apa_api.Data.ApplicationContext, 
+    False, 
+    False
+)
+    .Single()"'
+2022-01-01 18:41:50.574 +01:00 [Debug] Creating DbCommand for '"ExecuteReader"'.
+2022-01-01 18:41:50.575 +01:00 [Debug] Created DbCommand for '"ExecuteReader"' (0ms).
+2022-01-01 18:41:50.575 +01:00 [Debug] Opening connection to database '"band_apa"' on server '"tdb-dotnet.synology.me,1435"'.
+2022-01-01 18:41:50.575 +01:00 [Debug] Opened connection to database '"band_apa"' on server '"tdb-dotnet.synology.me,1435"'.
+2022-01-01 18:41:50.575 +01:00 [Debug] Executing DbCommand [Parameters=["@__connectIdent_0='?' (Size = 30), @__connectPwd_1='?' (Size = 36)"], CommandType='Text', CommandTimeout='30']"
+""SELECT TOP(2) [c].[clientID], [c].[adresse1], [c].[adresse2], [c].[birthDate], [c].[codePostal], [c].[connectIdent], [c].[connectPwd], [c].[eMail], [c].[nom], [c].[prenom], [c].[telephone], [c].[titre], [c].[ville]
+FROM [ClientCompte] AS [c]
+WHERE ([c].[connectIdent] = @__connectIdent_0) AND ([c].[connectPwd] = @__connectPwd_1)"
+2022-01-01 18:41:50.723 +01:00 [Information] Executed DbCommand ("148"ms) [Parameters=["@__connectIdent_0='?' (Size = 30), @__connectPwd_1='?' (Size = 36)"], CommandType='Text', CommandTimeout='30']"
+""SELECT TOP(2) [c].[clientID], [c].[adresse1], [c].[adresse2], [c].[birthDate], [c].[codePostal], [c].[connectIdent], [c].[connectPwd], [c].[eMail], [c].[nom], [c].[prenom], [c].[telephone], [c].[titre], [c].[ville]
+FROM [ClientCompte] AS [c]
+WHERE ([c].[connectIdent] = @__connectIdent_0) AND ([c].[connectPwd] = @__connectPwd_1)"
+2022-01-01 18:41:50.725 +01:00 [Debug] Context '"ApplicationContext"' started tracking '"ClientCompte"' entity. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2022-01-01 18:41:50.725 +01:00 [Debug] A data reader was disposed.
+2022-01-01 18:41:50.725 +01:00 [Debug] Closing connection to database '"band_apa"' on server '"tdb-dotnet.synology.me,1435"'.
+2022-01-01 18:41:50.725 +01:00 [Debug] Closed connection to database '"band_apa"' on server '"tdb-dotnet.synology.me,1435"'.
+2022-01-01 18:41:50.726 +01:00 [Debug] An entity of type '"ClientCompte"' tracked by '"ApplicationContext"' changed state from 'Unchanged' to 'Deleted'. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2022-01-01 18:41:50.727 +01:00 [Debug] SaveChanges starting for '"ApplicationContext"'.
+2022-01-01 18:41:50.727 +01:00 [Debug] DetectChanges starting for '"ApplicationContext"'.
+2022-01-01 18:41:50.727 +01:00 [Debug] DetectChanges completed for '"ApplicationContext"'.
+2022-01-01 18:41:50.727 +01:00 [Debug] Opening connection to database '"band_apa"' on server '"tdb-dotnet.synology.me,1435"'.
+2022-01-01 18:41:50.728 +01:00 [Debug] Opened connection to database '"band_apa"' on server '"tdb-dotnet.synology.me,1435"'.
+2022-01-01 18:41:50.728 +01:00 [Debug] Beginning transaction with isolation level '"Unspecified"'.
+2022-01-01 18:41:50.743 +01:00 [Debug] Began transaction with isolation level '"ReadCommitted"'.
+2022-01-01 18:41:50.745 +01:00 [Debug] Creating DbCommand for '"ExecuteReader"'.
+2022-01-01 18:41:50.745 +01:00 [Debug] Created DbCommand for '"ExecuteReader"' (0ms).
+2022-01-01 18:41:50.745 +01:00 [Debug] Executing DbCommand [Parameters=["@p0='?' (DbType = Int32)"], CommandType='Text', CommandTimeout='30']"
+""SET NOCOUNT ON;
+DELETE FROM [ClientCompte]
+WHERE [clientID] = @p0;
+SELECT @@ROWCOUNT;"
+2022-01-01 18:41:50.758 +01:00 [Information] Executed DbCommand ("13"ms) [Parameters=["@p0='?' (DbType = Int32)"], CommandType='Text', CommandTimeout='30']"
+""SET NOCOUNT ON;
+DELETE FROM [ClientCompte]
+WHERE [clientID] = @p0;
+SELECT @@ROWCOUNT;"
+2022-01-01 18:41:50.759 +01:00 [Debug] A data reader was disposed.
+2022-01-01 18:41:50.759 +01:00 [Debug] Committing transaction.
+2022-01-01 18:41:50.774 +01:00 [Debug] Committed transaction.
+2022-01-01 18:41:50.774 +01:00 [Debug] Closing connection to database '"band_apa"' on server '"tdb-dotnet.synology.me,1435"'.
+2022-01-01 18:41:50.774 +01:00 [Debug] Closed connection to database '"band_apa"' on server '"tdb-dotnet.synology.me,1435"'.
+2022-01-01 18:41:50.775 +01:00 [Debug] Disposing transaction.
+2022-01-01 18:41:50.776 +01:00 [Debug] An entity of type '"ClientCompte"' tracked by '"ApplicationContext"' changed state from 'Deleted' to 'Detached'. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2022-01-01 18:41:50.776 +01:00 [Debug] SaveChanges completed for '"ApplicationContext"' with 1 entities written to the database.
+2022-01-01 18:41:50.777 +01:00 [Debug] List of registered output formatters, in the following order: ["Microsoft.AspNetCore.Mvc.Formatters.HttpNoContentOutputFormatter", "Microsoft.AspNetCore.Mvc.Formatters.StringOutputFormatter", "Microsoft.AspNetCore.Mvc.Formatters.StreamOutputFormatter", "Microsoft.AspNetCore.Mvc.Formatters.NewtonsoftJsonOutputFormatter"]
+2022-01-01 18:41:50.778 +01:00 [Debug] No information found on request to perform content negotiation.
+2022-01-01 18:41:50.778 +01:00 [Debug] Attempting to select an output formatter without using a content type as no explicit content types were specified for the response.
+2022-01-01 18:41:50.778 +01:00 [Debug] Attempting to select the first formatter in the output formatters list which can write the result.
+2022-01-01 18:41:50.779 +01:00 [Debug] Selected output formatter '"Microsoft.AspNetCore.Mvc.Formatters.NewtonsoftJsonOutputFormatter"' and content type '"application/json"' to write the response.
+2022-01-01 18:41:50.779 +01:00 [Information] Executing "OkObjectResult", writing value of type '"System.Boolean"'.
+2022-01-01 18:41:50.829 +01:00 [Information] Executed action "band_apa_api.Controllers.ClientComptesController.DeleteByIdent (band_apa_api)" in 305.5623ms
+2022-01-01 18:41:50.830 +01:00 [Information] Executed endpoint '"band_apa_api.Controllers.ClientComptesController.DeleteByIdent (band_apa_api)"'
+2022-01-01 18:41:50.830 +01:00 [Debug] Connection ID ""18302628904424177669"" disconnecting.
+2022-01-01 18:41:50.830 +01:00 [Debug] '"ApplicationContext"' disposed.
+2022-01-01 18:41:50.831 +01:00 [Information] Request finished HTTP/2 DELETE https://localhost:44356/api/v1/ClientComptes/via/n2p2/connectPwd?connectPwd=n2p2123 - - - 200 4 application/json;+charset=utf-8 361.4304ms
+2022-01-01 23:53:11.916 +01:00 [Information] Starting web host
+2022-01-01 23:53:12.784 +01:00 [Debug] An 'IServiceProvider' was created for internal use by Entity Framework.
+2022-01-01 23:53:13.084 +01:00 [Information] Entity Framework Core "5.0.13" initialized '"ApplicationContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer"' with options: "None"
+2022-01-01 23:53:13.130 +01:00 [Debug] Opening connection to database '"band_apa"' on server '"tdb-dotnet.synology.me,1435"'.
+2022-01-01 23:53:13.412 +01:00 [Debug] Opened connection to database '"band_apa"' on server '"tdb-dotnet.synology.me,1435"'.
+2022-01-01 23:53:13.416 +01:00 [Debug] Creating DbCommand for '"ExecuteNonQuery"'.
+2022-01-01 23:53:13.420 +01:00 [Debug] Created DbCommand for '"ExecuteNonQuery"' (2ms).
+2022-01-01 23:53:13.425 +01:00 [Debug] Executing DbCommand [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT 1"
+2022-01-01 23:53:13.452 +01:00 [Information] Executed DbCommand ("27"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT 1"
+2022-01-01 23:53:13.453 +01:00 [Debug] Closing connection to database '"band_apa"' on server '"tdb-dotnet.synology.me,1435"'.
+2022-01-01 23:53:13.455 +01:00 [Debug] Closed connection to database '"band_apa"' on server '"tdb-dotnet.synology.me,1435"'.
+2022-01-01 23:53:13.472 +01:00 [Debug] Opening connection to database '"master"' on server '"tdb-dotnet.synology.me,1435"'.
+2022-01-01 23:53:13.553 +01:00 [Debug] Opened connection to database '"master"' on server '"tdb-dotnet.synology.me,1435"'.
+2022-01-01 23:53:13.553 +01:00 [Debug] Creating DbCommand for '"ExecuteNonQuery"'.
+2022-01-01 23:53:13.553 +01:00 [Debug] Created DbCommand for '"ExecuteNonQuery"' (0ms).
+2022-01-01 23:53:13.553 +01:00 [Debug] Executing DbCommand [Parameters=[""], CommandType='Text', CommandTimeout='60']"
+""IF SERVERPROPERTY('EngineEdition') <> 5
+BEGIN
+    ALTER DATABASE [band_apa] SET SINGLE_USER WITH ROLLBACK IMMEDIATE;
+END;"
+2022-01-01 23:53:13.633 +01:00 [Information] Executed DbCommand ("80"ms) [Parameters=[""], CommandType='Text', CommandTimeout='60']"
+""IF SERVERPROPERTY('EngineEdition') <> 5
+BEGIN
+    ALTER DATABASE [band_apa] SET SINGLE_USER WITH ROLLBACK IMMEDIATE;
+END;"
+2022-01-01 23:53:13.633 +01:00 [Debug] Creating DbCommand for '"ExecuteNonQuery"'.
+2022-01-01 23:53:13.634 +01:00 [Debug] Created DbCommand for '"ExecuteNonQuery"' (0ms).
+2022-01-01 23:53:13.634 +01:00 [Debug] Executing DbCommand [Parameters=[""], CommandType='Text', CommandTimeout='60']"
+""DROP DATABASE [band_apa];"
+2022-01-01 23:53:13.745 +01:00 [Information] Executed DbCommand ("111"ms) [Parameters=[""], CommandType='Text', CommandTimeout='60']"
+""DROP DATABASE [band_apa];"
+2022-01-01 23:53:13.745 +01:00 [Debug] Closing connection to database '"master"' on server '"tdb-dotnet.synology.me,1435"'.
+2022-01-01 23:53:13.745 +01:00 [Debug] Closed connection to database '"master"' on server '"tdb-dotnet.synology.me,1435"'.
+2022-01-01 23:53:13.745 +01:00 [Debug] Opening connection to database '"band_apa"' on server '"tdb-dotnet.synology.me,1435"'.
+2022-01-01 23:53:13.832 +01:00 [Debug] An error occurred using the connection to database '"band_apa"' on server '"tdb-dotnet.synology.me,1435"'.
+2022-01-01 23:53:13.833 +01:00 [Debug] Opening connection to database '"master"' on server '"tdb-dotnet.synology.me,1435"'.
+2022-01-01 23:53:13.834 +01:00 [Debug] Opened connection to database '"master"' on server '"tdb-dotnet.synology.me,1435"'.
+2022-01-01 23:53:13.834 +01:00 [Debug] Creating DbCommand for '"ExecuteNonQuery"'.
+2022-01-01 23:53:13.834 +01:00 [Debug] Created DbCommand for '"ExecuteNonQuery"' (0ms).
+2022-01-01 23:53:13.834 +01:00 [Debug] Executing DbCommand [Parameters=[""], CommandType='Text', CommandTimeout='60']"
+""CREATE DATABASE [band_apa];"
+2022-01-01 23:53:15.020 +01:00 [Information] Executed DbCommand ("1,186"ms) [Parameters=[""], CommandType='Text', CommandTimeout='60']"
+""CREATE DATABASE [band_apa];"
+2022-01-01 23:53:15.020 +01:00 [Debug] Creating DbCommand for '"ExecuteNonQuery"'.
+2022-01-01 23:53:15.020 +01:00 [Debug] Created DbCommand for '"ExecuteNonQuery"' (0ms).
+2022-01-01 23:53:15.020 +01:00 [Debug] Executing DbCommand [Parameters=[""], CommandType='Text', CommandTimeout='60']"
+""IF SERVERPROPERTY('EngineEdition') <> 5
+BEGIN
+    ALTER DATABASE [band_apa] SET READ_COMMITTED_SNAPSHOT ON;
+END;"
+2022-01-01 23:53:15.628 +01:00 [Information] Executed DbCommand ("608"ms) [Parameters=[""], CommandType='Text', CommandTimeout='60']"
+""IF SERVERPROPERTY('EngineEdition') <> 5
+BEGIN
+    ALTER DATABASE [band_apa] SET READ_COMMITTED_SNAPSHOT ON;
+END;"
+2022-01-01 23:53:15.628 +01:00 [Debug] Closing connection to database '"master"' on server '"tdb-dotnet.synology.me,1435"'.
+2022-01-01 23:53:15.628 +01:00 [Debug] Closed connection to database '"master"' on server '"tdb-dotnet.synology.me,1435"'.
+2022-01-01 23:53:15.629 +01:00 [Debug] Opening connection to database '"band_apa"' on server '"tdb-dotnet.synology.me,1435"'.
+2022-01-01 23:53:15.707 +01:00 [Debug] Opened connection to database '"band_apa"' on server '"tdb-dotnet.synology.me,1435"'.
+2022-01-01 23:53:15.708 +01:00 [Debug] Creating DbCommand for '"ExecuteNonQuery"'.
+2022-01-01 23:53:15.708 +01:00 [Debug] Created DbCommand for '"ExecuteNonQuery"' (0ms).
+2022-01-01 23:53:15.708 +01:00 [Debug] Executing DbCommand [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT 1"
+2022-01-01 23:53:15.723 +01:00 [Information] Executed DbCommand ("16"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT 1"
+2022-01-01 23:53:15.723 +01:00 [Debug] Closing connection to database '"band_apa"' on server '"tdb-dotnet.synology.me,1435"'.
+2022-01-01 23:53:15.723 +01:00 [Debug] Closed connection to database '"band_apa"' on server '"tdb-dotnet.synology.me,1435"'.
+2022-01-01 23:53:15.765 +01:00 [Debug] DetectChanges starting for '"ApplicationContext"'.
+2022-01-01 23:53:15.767 +01:00 [Debug] DetectChanges completed for '"ApplicationContext"'.
+2022-01-01 23:53:15.772 +01:00 [Debug] Opening connection to database '"band_apa"' on server '"tdb-dotnet.synology.me,1435"'.
+2022-01-01 23:53:15.772 +01:00 [Debug] Opened connection to database '"band_apa"' on server '"tdb-dotnet.synology.me,1435"'.
+2022-01-01 23:53:15.773 +01:00 [Debug] Beginning transaction with isolation level '"Unspecified"'.
+2022-01-01 23:53:15.788 +01:00 [Debug] Began transaction with isolation level '"ReadCommitted"'.
+2022-01-01 23:53:15.789 +01:00 [Debug] Creating DbCommand for '"ExecuteNonQuery"'.
+2022-01-01 23:53:15.789 +01:00 [Debug] Created DbCommand for '"ExecuteNonQuery"' (0ms).
+2022-01-01 23:53:15.789 +01:00 [Debug] Executing DbCommand [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""CREATE SEQUENCE [Animals_Identity_id_seq] AS int START WITH 1 INCREMENT BY 1 NO MINVALUE NO MAXVALUE NO CYCLE;"
+2022-01-01 23:53:15.803 +01:00 [Information] Executed DbCommand ("14"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""CREATE SEQUENCE [Animals_Identity_id_seq] AS int START WITH 1 INCREMENT BY 1 NO MINVALUE NO MAXVALUE NO CYCLE;"
+2022-01-01 23:53:15.803 +01:00 [Debug] Creating DbCommand for '"ExecuteNonQuery"'.
+2022-01-01 23:53:15.804 +01:00 [Debug] Created DbCommand for '"ExecuteNonQuery"' (0ms).
+2022-01-01 23:53:15.804 +01:00 [Debug] Executing DbCommand [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""CREATE SEQUENCE [Asso_Compte_id_seq] AS int START WITH 1 INCREMENT BY 1 NO MINVALUE NO MAXVALUE NO CYCLE;"
+2022-01-01 23:53:15.820 +01:00 [Information] Executed DbCommand ("16"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""CREATE SEQUENCE [Asso_Compte_id_seq] AS int START WITH 1 INCREMENT BY 1 NO MINVALUE NO MAXVALUE NO CYCLE;"
+2022-01-01 23:53:15.820 +01:00 [Debug] Creating DbCommand for '"ExecuteNonQuery"'.
+2022-01-01 23:53:15.820 +01:00 [Debug] Created DbCommand for '"ExecuteNonQuery"' (0ms).
+2022-01-01 23:53:15.820 +01:00 [Debug] Executing DbCommand [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""CREATE SEQUENCE [Client_Compte_id_seq] AS int START WITH 1 INCREMENT BY 1 NO MINVALUE NO MAXVALUE NO CYCLE;"
+2022-01-01 23:53:15.835 +01:00 [Information] Executed DbCommand ("16"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""CREATE SEQUENCE [Client_Compte_id_seq] AS int START WITH 1 INCREMENT BY 1 NO MINVALUE NO MAXVALUE NO CYCLE;"
+2022-01-01 23:53:15.836 +01:00 [Debug] Creating DbCommand for '"ExecuteNonQuery"'.
+2022-01-01 23:53:15.836 +01:00 [Debug] Created DbCommand for '"ExecuteNonQuery"' (0ms).
+2022-01-01 23:53:15.836 +01:00 [Debug] Executing DbCommand [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""CREATE TABLE [AnimalsIdentity] (
+    [aiID] int NOT NULL DEFAULT (NEXT VALUE FOR Animals_Identity_id_seq),
+    [dateEntree] datetime2 NOT NULL,
+    [nom] nvarchar(75) NOT NULL,
+    [espece] nvarchar(50) NOT NULL,
+    [race] nvarchar(75) NOT NULL,
+    [sexe] nvarchar(7) NULL,
+    [couleur] nvarchar(100) NOT NULL,
+    [age] int NOT NULL,
+    [comments] nvarchar(1000) NOT NULL,
+    [photo] nvarchar(50) NOT NULL,
+    CONSTRAINT [PK_AnimalsIdentity] PRIMARY KEY ([aiID])
+);"
+2022-01-01 23:53:15.860 +01:00 [Information] Executed DbCommand ("24"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""CREATE TABLE [AnimalsIdentity] (
+    [aiID] int NOT NULL DEFAULT (NEXT VALUE FOR Animals_Identity_id_seq),
+    [dateEntree] datetime2 NOT NULL,
+    [nom] nvarchar(75) NOT NULL,
+    [espece] nvarchar(50) NOT NULL,
+    [race] nvarchar(75) NOT NULL,
+    [sexe] nvarchar(7) NULL,
+    [couleur] nvarchar(100) NOT NULL,
+    [age] int NOT NULL,
+    [comments] nvarchar(1000) NOT NULL,
+    [photo] nvarchar(50) NOT NULL,
+    CONSTRAINT [PK_AnimalsIdentity] PRIMARY KEY ([aiID])
+);"
+2022-01-01 23:53:15.860 +01:00 [Debug] Creating DbCommand for '"ExecuteNonQuery"'.
+2022-01-01 23:53:15.860 +01:00 [Debug] Created DbCommand for '"ExecuteNonQuery"' (0ms).
+2022-01-01 23:53:15.860 +01:00 [Debug] Executing DbCommand [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""CREATE TABLE [AssoCompte] (
+    [userID] int NOT NULL DEFAULT (NEXT VALUE FOR Asso_Compte_id_seq),
+    [role] nvarchar(50) NOT NULL,
+    [titre] nvarchar(4) NULL,
+    [nom] nvarchar(75) NOT NULL,
+    [prenom] nvarchar(75) NOT NULL,
+    [birthDate] datetime2 NOT NULL,
+    [eMail] nvarchar(160) NOT NULL,
+    [telephone] nvarchar(13) NOT NULL,
+    [connectIdent] nvarchar(30) NOT NULL,
+    [connectPwd] nvarchar(36) NOT NULL,
+    CONSTRAINT [PK_AssoCompte] PRIMARY KEY ([userID])
+);"
+2022-01-01 23:53:15.875 +01:00 [Information] Executed DbCommand ("15"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""CREATE TABLE [AssoCompte] (
+    [userID] int NOT NULL DEFAULT (NEXT VALUE FOR Asso_Compte_id_seq),
+    [role] nvarchar(50) NOT NULL,
+    [titre] nvarchar(4) NULL,
+    [nom] nvarchar(75) NOT NULL,
+    [prenom] nvarchar(75) NOT NULL,
+    [birthDate] datetime2 NOT NULL,
+    [eMail] nvarchar(160) NOT NULL,
+    [telephone] nvarchar(13) NOT NULL,
+    [connectIdent] nvarchar(30) NOT NULL,
+    [connectPwd] nvarchar(36) NOT NULL,
+    CONSTRAINT [PK_AssoCompte] PRIMARY KEY ([userID])
+);"
+2022-01-01 23:53:15.875 +01:00 [Debug] Creating DbCommand for '"ExecuteNonQuery"'.
+2022-01-01 23:53:15.875 +01:00 [Debug] Created DbCommand for '"ExecuteNonQuery"' (0ms).
+2022-01-01 23:53:15.876 +01:00 [Debug] Executing DbCommand [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""CREATE TABLE [ClientCompte] (
+    [clientID] int NOT NULL DEFAULT (NEXT VALUE FOR Client_Compte_id_seq),
+    [titre] nvarchar(4) NULL,
+    [nom] nvarchar(75) NOT NULL,
+    [prenom] nvarchar(75) NOT NULL,
+    [birthDate] datetime2 NOT NULL,
+    [eMail] nvarchar(160) NOT NULL,
+    [adresse1] nvarchar(200) NOT NULL,
+    [adresse2] nvarchar(200) NULL,
+    [codePostal] int NOT NULL,
+    [ville] nvarchar(75) NOT NULL,
+    [telephone] nvarchar(13) NOT NULL,
+    [connectIdent] nvarchar(30) NOT NULL,
+    [connectPwd] nvarchar(36) NOT NULL,
+    CONSTRAINT [PK_ClientCompte] PRIMARY KEY ([clientID])
+);"
+2022-01-01 23:53:15.892 +01:00 [Information] Executed DbCommand ("16"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""CREATE TABLE [ClientCompte] (
+    [clientID] int NOT NULL DEFAULT (NEXT VALUE FOR Client_Compte_id_seq),
+    [titre] nvarchar(4) NULL,
+    [nom] nvarchar(75) NOT NULL,
+    [prenom] nvarchar(75) NOT NULL,
+    [birthDate] datetime2 NOT NULL,
+    [eMail] nvarchar(160) NOT NULL,
+    [adresse1] nvarchar(200) NOT NULL,
+    [adresse2] nvarchar(200) NULL,
+    [codePostal] int NOT NULL,
+    [ville] nvarchar(75) NOT NULL,
+    [telephone] nvarchar(13) NOT NULL,
+    [connectIdent] nvarchar(30) NOT NULL,
+    [connectPwd] nvarchar(36) NOT NULL,
+    CONSTRAINT [PK_ClientCompte] PRIMARY KEY ([clientID])
+);"
+2022-01-01 23:53:15.893 +01:00 [Debug] Committing transaction.
+2022-01-01 23:53:15.912 +01:00 [Debug] Committed transaction.
+2022-01-01 23:53:15.913 +01:00 [Debug] Disposing transaction.
+2022-01-01 23:53:15.913 +01:00 [Debug] Closing connection to database '"band_apa"' on server '"tdb-dotnet.synology.me,1435"'.
+2022-01-01 23:53:15.913 +01:00 [Debug] Closed connection to database '"band_apa"' on server '"tdb-dotnet.synology.me,1435"'.
+2022-01-01 23:53:15.931 +01:00 [Debug] Compiling query expression: "
+"'"DbSet<AnimalsIdentity>()
+    .Any()"'
+2022-01-01 23:53:16.006 +01:00 [Debug] Generated query execution expression: "
+"'"queryContext => new SingleQueryingEnumerable<bool>(
+    (RelationalQueryContext)queryContext, 
+    RelationalCommandCache.SelectExpression(
+        Projection Mapping:
+            EmptyProjectionMember -> 0
+        SELECT EXISTS (
+            Projection Mapping:
+            SELECT 1
+            FROM AnimalsIdentity AS a)), 
+    Func<QueryContext, DbDataReader, ResultContext, SingleQueryResultCoordinator, bool>, 
+    band_apa_api.Data.ApplicationContext, 
+    False, 
+    False
+)
+    .Single()"'
+2022-01-01 23:53:16.021 +01:00 [Debug] Creating DbCommand for '"ExecuteReader"'.
+2022-01-01 23:53:16.021 +01:00 [Debug] Created DbCommand for '"ExecuteReader"' (0ms).
+2022-01-01 23:53:16.021 +01:00 [Debug] Opening connection to database '"band_apa"' on server '"tdb-dotnet.synology.me,1435"'.
+2022-01-01 23:53:16.021 +01:00 [Debug] Opened connection to database '"band_apa"' on server '"tdb-dotnet.synology.me,1435"'.
+2022-01-01 23:53:16.021 +01:00 [Debug] Executing DbCommand [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [AnimalsIdentity] AS [a]) THEN CAST(1 AS bit)
+    ELSE CAST(0 AS bit)
+END"
+2022-01-01 23:53:16.040 +01:00 [Information] Executed DbCommand ("19"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [AnimalsIdentity] AS [a]) THEN CAST(1 AS bit)
+    ELSE CAST(0 AS bit)
+END"
+2022-01-01 23:53:16.046 +01:00 [Debug] A data reader was disposed.
+2022-01-01 23:53:16.046 +01:00 [Debug] Closing connection to database '"band_apa"' on server '"tdb-dotnet.synology.me,1435"'.
+2022-01-01 23:53:16.046 +01:00 [Debug] Closed connection to database '"band_apa"' on server '"tdb-dotnet.synology.me,1435"'.
+2022-01-01 23:53:16.066 +01:00 [Debug] '"ApplicationContext"' generated a temporary value for the property '"userID"."AssoCompte"'. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2022-01-01 23:53:16.097 +01:00 [Debug] Context '"ApplicationContext"' started tracking '"AssoCompte"' entity. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2022-01-01 23:53:16.098 +01:00 [Debug] '"ApplicationContext"' generated a temporary value for the property '"userID"."AssoCompte"'. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2022-01-01 23:53:16.098 +01:00 [Debug] Context '"ApplicationContext"' started tracking '"AssoCompte"' entity. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2022-01-01 23:53:16.098 +01:00 [Debug] '"ApplicationContext"' generated a temporary value for the property '"userID"."AssoCompte"'. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2022-01-01 23:53:16.098 +01:00 [Debug] Context '"ApplicationContext"' started tracking '"AssoCompte"' entity. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2022-01-01 23:53:16.098 +01:00 [Debug] '"ApplicationContext"' generated a temporary value for the property '"userID"."AssoCompte"'. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2022-01-01 23:53:16.098 +01:00 [Debug] Context '"ApplicationContext"' started tracking '"AssoCompte"' entity. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2022-01-01 23:53:16.098 +01:00 [Debug] '"ApplicationContext"' generated a temporary value for the property '"aiID"."AnimalsIdentity"'. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2022-01-01 23:53:16.108 +01:00 [Debug] Context '"ApplicationContext"' started tracking '"AnimalsIdentity"' entity. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2022-01-01 23:53:16.108 +01:00 [Debug] '"ApplicationContext"' generated a temporary value for the property '"aiID"."AnimalsIdentity"'. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2022-01-01 23:53:16.108 +01:00 [Debug] Context '"ApplicationContext"' started tracking '"AnimalsIdentity"' entity. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2022-01-01 23:53:16.108 +01:00 [Debug] '"ApplicationContext"' generated a temporary value for the property '"aiID"."AnimalsIdentity"'. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2022-01-01 23:53:16.108 +01:00 [Debug] Context '"ApplicationContext"' started tracking '"AnimalsIdentity"' entity. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2022-01-01 23:53:16.108 +01:00 [Debug] '"ApplicationContext"' generated a temporary value for the property '"aiID"."AnimalsIdentity"'. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2022-01-01 23:53:16.108 +01:00 [Debug] Context '"ApplicationContext"' started tracking '"AnimalsIdentity"' entity. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2022-01-01 23:53:16.108 +01:00 [Debug] '"ApplicationContext"' generated a temporary value for the property '"aiID"."AnimalsIdentity"'. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2022-01-01 23:53:16.108 +01:00 [Debug] Context '"ApplicationContext"' started tracking '"AnimalsIdentity"' entity. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2022-01-01 23:53:16.109 +01:00 [Debug] '"ApplicationContext"' generated a temporary value for the property '"clientID"."ClientCompte"'. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2022-01-01 23:53:16.121 +01:00 [Debug] Context '"ApplicationContext"' started tracking '"ClientCompte"' entity. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2022-01-01 23:53:16.121 +01:00 [Debug] '"ApplicationContext"' generated a temporary value for the property '"clientID"."ClientCompte"'. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2022-01-01 23:53:16.121 +01:00 [Debug] Context '"ApplicationContext"' started tracking '"ClientCompte"' entity. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2022-01-01 23:53:16.121 +01:00 [Debug] '"ApplicationContext"' generated a temporary value for the property '"clientID"."ClientCompte"'. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2022-01-01 23:53:16.121 +01:00 [Debug] Context '"ApplicationContext"' started tracking '"ClientCompte"' entity. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2022-01-01 23:53:16.121 +01:00 [Debug] '"ApplicationContext"' generated a temporary value for the property '"clientID"."ClientCompte"'. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2022-01-01 23:53:16.121 +01:00 [Debug] Context '"ApplicationContext"' started tracking '"ClientCompte"' entity. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2022-01-01 23:53:16.121 +01:00 [Debug] '"ApplicationContext"' generated a temporary value for the property '"clientID"."ClientCompte"'. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2022-01-01 23:53:16.121 +01:00 [Debug] Context '"ApplicationContext"' started tracking '"ClientCompte"' entity. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2022-01-01 23:53:16.122 +01:00 [Debug] SaveChanges starting for '"ApplicationContext"'.
+2022-01-01 23:53:16.122 +01:00 [Debug] DetectChanges starting for '"ApplicationContext"'.
+2022-01-01 23:53:16.131 +01:00 [Debug] DetectChanges completed for '"ApplicationContext"'.
+2022-01-01 23:53:16.134 +01:00 [Debug] Opening connection to database '"band_apa"' on server '"tdb-dotnet.synology.me,1435"'.
+2022-01-01 23:53:16.135 +01:00 [Debug] Opened connection to database '"band_apa"' on server '"tdb-dotnet.synology.me,1435"'.
+2022-01-01 23:53:16.135 +01:00 [Debug] Beginning transaction with isolation level '"Unspecified"'.
+2022-01-01 23:53:16.148 +01:00 [Debug] Began transaction with isolation level '"ReadCommitted"'.
+2022-01-01 23:53:16.167 +01:00 [Debug] Executing 14 update commands as a batch.
+2022-01-01 23:53:16.174 +01:00 [Debug] Creating DbCommand for '"ExecuteReader"'.
+2022-01-01 23:53:16.174 +01:00 [Debug] Created DbCommand for '"ExecuteReader"' (0ms).
+2022-01-01 23:53:16.178 +01:00 [Debug] Executing DbCommand [Parameters=["@p0='?' (DbType = Int32), @p1='?' (Size = 1000), @p2='?' (Size = 100), @p3='?' (DbType = DateTime2), @p4='?' (Size = 50), @p5='?' (Size = 75), @p6='?' (Size = 50), @p7='?' (Size = 75), @p8='?' (Size = 7), @p9='?' (DbType = Int32), @p10='?' (Size = 1000), @p11='?' (Size = 100), @p12='?' (DbType = DateTime2), @p13='?' (Size = 50), @p14='?' (Size = 75), @p15='?' (Size = 50), @p16='?' (Size = 75), @p17='?' (Size = 7), @p18='?' (DbType = Int32), @p19='?' (Size = 1000), @p20='?' (Size = 100), @p21='?' (DbType = DateTime2), @p22='?' (Size = 50), @p23='?' (Size = 75), @p24='?' (Size = 50), @p25='?' (Size = 75), @p26='?' (Size = 7), @p27='?' (DbType = Int32), @p28='?' (Size = 1000), @p29='?' (Size = 100), @p30='?' (DbType = DateTime2), @p31='?' (Size = 50), @p32='?' (Size = 75), @p33='?' (Size = 50), @p34='?' (Size = 75), @p35='?' (Size = 7), @p36='?' (DbType = Int32), @p37='?' (Size = 1000), @p38='?' (Size = 100), @p39='?' (DbType = DateTime2), @p40='?' (Size = 50), @p41='?' (Size = 75), @p42='?' (Size = 50), @p43='?' (Size = 75), @p44='?' (Size = 7), @p45='?' (DbType = DateTime2), @p46='?' (Size = 30), @p47='?' (Size = 36), @p48='?' (Size = 160), @p49='?' (Size = 75), @p50='?' (Size = 75), @p51='?' (Size = 50), @p52='?' (Size = 13), @p53='?' (Size = 4), @p54='?' (DbType = DateTime2), @p55='?' (Size = 30), @p56='?' (Size = 36), @p57='?' (Size = 160), @p58='?' (Size = 75), @p59='?' (Size = 75), @p60='?' (Size = 50), @p61='?' (Size = 13), @p62='?' (Size = 4), @p63='?' (DbType = DateTime2), @p64='?' (Size = 30), @p65='?' (Size = 36), @p66='?' (Size = 160), @p67='?' (Size = 75), @p68='?' (Size = 75), @p69='?' (Size = 50), @p70='?' (Size = 13), @p71='?' (Size = 4), @p72='?' (DbType = DateTime2), @p73='?' (Size = 30), @p74='?' (Size = 36), @p75='?' (Size = 160), @p76='?' (Size = 75), @p77='?' (Size = 75), @p78='?' (Size = 50), @p79='?' (Size = 13), @p80='?' (Size = 4), @p81='?' (Size = 200), @p82='?' (Size = 200), @p83='?' (DbType = DateTime2), @p84='?' (DbType = Int32), @p85='?' (Size = 30), @p86='?' (Size = 36), @p87='?' (Size = 160), @p88='?' (Size = 75), @p89='?' (Size = 75), @p90='?' (Size = 13), @p91='?' (Size = 4), @p92='?' (Size = 75), @p93='?' (Size = 200), @p94='?' (Size = 200), @p95='?' (DbType = DateTime2), @p96='?' (DbType = Int32), @p97='?' (Size = 30), @p98='?' (Size = 36), @p99='?' (Size = 160), @p100='?' (Size = 75), @p101='?' (Size = 75), @p102='?' (Size = 13), @p103='?' (Size = 4), @p104='?' (Size = 75), @p105='?' (Size = 200), @p106='?' (Size = 200), @p107='?' (DbType = DateTime2), @p108='?' (DbType = Int32), @p109='?' (Size = 30), @p110='?' (Size = 36), @p111='?' (Size = 160), @p112='?' (Size = 75), @p113='?' (Size = 75), @p114='?' (Size = 13), @p115='?' (Size = 4), @p116='?' (Size = 75), @p117='?' (Size = 200), @p118='?' (Size = 200), @p119='?' (DbType = DateTime2), @p120='?' (DbType = Int32), @p121='?' (Size = 30), @p122='?' (Size = 36), @p123='?' (Size = 160), @p124='?' (Size = 75), @p125='?' (Size = 75), @p126='?' (Size = 13), @p127='?' (Size = 4), @p128='?' (Size = 75), @p129='?' (Size = 200), @p130='?' (Size = 200), @p131='?' (DbType = DateTime2), @p132='?' (DbType = Int32), @p133='?' (Size = 30), @p134='?' (Size = 36), @p135='?' (Size = 160), @p136='?' (Size = 75), @p137='?' (Size = 75), @p138='?' (Size = 13), @p139='?' (Size = 4), @p140='?' (Size = 75)"], CommandType='Text', CommandTimeout='30']"
+""SET NOCOUNT ON;
+DECLARE @inserted0 TABLE ([aiID] int, [_Position] [int]);
+MERGE [AnimalsIdentity] USING (
+VALUES (@p0, @p1, @p2, @p3, @p4, @p5, @p6, @p7, @p8, 0),
+(@p9, @p10, @p11, @p12, @p13, @p14, @p15, @p16, @p17, 1),
+(@p18, @p19, @p20, @p21, @p22, @p23, @p24, @p25, @p26, 2),
+(@p27, @p28, @p29, @p30, @p31, @p32, @p33, @p34, @p35, 3),
+(@p36, @p37, @p38, @p39, @p40, @p41, @p42, @p43, @p44, 4)) AS i ([age], [comments], [couleur], [dateEntree], [espece], [nom], [photo], [race], [sexe], _Position) ON 1=0
+WHEN NOT MATCHED THEN
+INSERT ([age], [comments], [couleur], [dateEntree], [espece], [nom], [photo], [race], [sexe])
+VALUES (i.[age], i.[comments], i.[couleur], i.[dateEntree], i.[espece], i.[nom], i.[photo], i.[race], i.[sexe])
+OUTPUT INSERTED.[aiID], i._Position
+INTO @inserted0;
+
+SELECT [t].[aiID] FROM [AnimalsIdentity] t
+INNER JOIN @inserted0 i ON ([t].[aiID] = [i].[aiID])
+ORDER BY [i].[_Position];
+
+DECLARE @inserted5 TABLE ([userID] int, [_Position] [int]);
+MERGE [AssoCompte] USING (
+VALUES (@p45, @p46, @p47, @p48, @p49, @p50, @p51, @p52, @p53, 0),
+(@p54, @p55, @p56, @p57, @p58, @p59, @p60, @p61, @p62, 1),
+(@p63, @p64, @p65, @p66, @p67, @p68, @p69, @p70, @p71, 2),
+(@p72, @p73, @p74, @p75, @p76, @p77, @p78, @p79, @p80, 3)) AS i ([birthDate], [connectIdent], [connectPwd], [eMail], [nom], [prenom], [role], [telephone], [titre], _Position) ON 1=0
+WHEN NOT MATCHED THEN
+INSERT ([birthDate], [connectIdent], [connectPwd], [eMail], [nom], [prenom], [role], [telephone], [titre])
+VALUES (i.[birthDate], i.[connectIdent], i.[connectPwd], i.[eMail], i.[nom], i.[prenom], i.[role], i.[telephone], i.[titre])
+OUTPUT INSERTED.[userID], i._Position
+INTO @inserted5;
+
+SELECT [t].[userID] FROM [AssoCompte] t
+INNER JOIN @inserted5 i ON ([t].[userID] = [i].[userID])
+ORDER BY [i].[_Position];
+
+DECLARE @inserted9 TABLE ([clientID] int, [_Position] [int]);
+MERGE [ClientCompte] USING (
+VALUES (@p81, @p82, @p83, @p84, @p85, @p86, @p87, @p88, @p89, @p90, @p91, @p92, 0),
+(@p93, @p94, @p95, @p96, @p97, @p98, @p99, @p100, @p101, @p102, @p103, @p104, 1),
+(@p105, @p106, @p107, @p108, @p109, @p110, @p111, @p112, @p113, @p114, @p115, @p116, 2),
+(@p117, @p118, @p119, @p120, @p121, @p122, @p123, @p124, @p125, @p126, @p127, @p128, 3),
+(@p129, @p130, @p131, @p132, @p133, @p134, @p135, @p136, @p137, @p138, @p139, @p140, 4)) AS i ([adresse1], [adresse2], [birthDate], [codePostal], [connectIdent], [connectPwd], [eMail], [nom], [prenom], [telephone], [titre], [ville], _Position) ON 1=0
+WHEN NOT MATCHED THEN
+INSERT ([adresse1], [adresse2], [birthDate], [codePostal], [connectIdent], [connectPwd], [eMail], [nom], [prenom], [telephone], [titre], [ville])
+VALUES (i.[adresse1], i.[adresse2], i.[birthDate], i.[codePostal], i.[connectIdent], i.[connectPwd], i.[eMail], i.[nom], i.[prenom], i.[telephone], i.[titre], i.[ville])
+OUTPUT INSERTED.[clientID], i._Position
+INTO @inserted9;
+
+SELECT [t].[clientID] FROM [ClientCompte] t
+INNER JOIN @inserted9 i ON ([t].[clientID] = [i].[clientID])
+ORDER BY [i].[_Position];"
+2022-01-01 23:53:16.296 +01:00 [Information] Executed DbCommand ("120"ms) [Parameters=["@p0='?' (DbType = Int32), @p1='?' (Size = 1000), @p2='?' (Size = 100), @p3='?' (DbType = DateTime2), @p4='?' (Size = 50), @p5='?' (Size = 75), @p6='?' (Size = 50), @p7='?' (Size = 75), @p8='?' (Size = 7), @p9='?' (DbType = Int32), @p10='?' (Size = 1000), @p11='?' (Size = 100), @p12='?' (DbType = DateTime2), @p13='?' (Size = 50), @p14='?' (Size = 75), @p15='?' (Size = 50), @p16='?' (Size = 75), @p17='?' (Size = 7), @p18='?' (DbType = Int32), @p19='?' (Size = 1000), @p20='?' (Size = 100), @p21='?' (DbType = DateTime2), @p22='?' (Size = 50), @p23='?' (Size = 75), @p24='?' (Size = 50), @p25='?' (Size = 75), @p26='?' (Size = 7), @p27='?' (DbType = Int32), @p28='?' (Size = 1000), @p29='?' (Size = 100), @p30='?' (DbType = DateTime2), @p31='?' (Size = 50), @p32='?' (Size = 75), @p33='?' (Size = 50), @p34='?' (Size = 75), @p35='?' (Size = 7), @p36='?' (DbType = Int32), @p37='?' (Size = 1000), @p38='?' (Size = 100), @p39='?' (DbType = DateTime2), @p40='?' (Size = 50), @p41='?' (Size = 75), @p42='?' (Size = 50), @p43='?' (Size = 75), @p44='?' (Size = 7), @p45='?' (DbType = DateTime2), @p46='?' (Size = 30), @p47='?' (Size = 36), @p48='?' (Size = 160), @p49='?' (Size = 75), @p50='?' (Size = 75), @p51='?' (Size = 50), @p52='?' (Size = 13), @p53='?' (Size = 4), @p54='?' (DbType = DateTime2), @p55='?' (Size = 30), @p56='?' (Size = 36), @p57='?' (Size = 160), @p58='?' (Size = 75), @p59='?' (Size = 75), @p60='?' (Size = 50), @p61='?' (Size = 13), @p62='?' (Size = 4), @p63='?' (DbType = DateTime2), @p64='?' (Size = 30), @p65='?' (Size = 36), @p66='?' (Size = 160), @p67='?' (Size = 75), @p68='?' (Size = 75), @p69='?' (Size = 50), @p70='?' (Size = 13), @p71='?' (Size = 4), @p72='?' (DbType = DateTime2), @p73='?' (Size = 30), @p74='?' (Size = 36), @p75='?' (Size = 160), @p76='?' (Size = 75), @p77='?' (Size = 75), @p78='?' (Size = 50), @p79='?' (Size = 13), @p80='?' (Size = 4), @p81='?' (Size = 200), @p82='?' (Size = 200), @p83='?' (DbType = DateTime2), @p84='?' (DbType = Int32), @p85='?' (Size = 30), @p86='?' (Size = 36), @p87='?' (Size = 160), @p88='?' (Size = 75), @p89='?' (Size = 75), @p90='?' (Size = 13), @p91='?' (Size = 4), @p92='?' (Size = 75), @p93='?' (Size = 200), @p94='?' (Size = 200), @p95='?' (DbType = DateTime2), @p96='?' (DbType = Int32), @p97='?' (Size = 30), @p98='?' (Size = 36), @p99='?' (Size = 160), @p100='?' (Size = 75), @p101='?' (Size = 75), @p102='?' (Size = 13), @p103='?' (Size = 4), @p104='?' (Size = 75), @p105='?' (Size = 200), @p106='?' (Size = 200), @p107='?' (DbType = DateTime2), @p108='?' (DbType = Int32), @p109='?' (Size = 30), @p110='?' (Size = 36), @p111='?' (Size = 160), @p112='?' (Size = 75), @p113='?' (Size = 75), @p114='?' (Size = 13), @p115='?' (Size = 4), @p116='?' (Size = 75), @p117='?' (Size = 200), @p118='?' (Size = 200), @p119='?' (DbType = DateTime2), @p120='?' (DbType = Int32), @p121='?' (Size = 30), @p122='?' (Size = 36), @p123='?' (Size = 160), @p124='?' (Size = 75), @p125='?' (Size = 75), @p126='?' (Size = 13), @p127='?' (Size = 4), @p128='?' (Size = 75), @p129='?' (Size = 200), @p130='?' (Size = 200), @p131='?' (DbType = DateTime2), @p132='?' (DbType = Int32), @p133='?' (Size = 30), @p134='?' (Size = 36), @p135='?' (Size = 160), @p136='?' (Size = 75), @p137='?' (Size = 75), @p138='?' (Size = 13), @p139='?' (Size = 4), @p140='?' (Size = 75)"], CommandType='Text', CommandTimeout='30']"
+""SET NOCOUNT ON;
+DECLARE @inserted0 TABLE ([aiID] int, [_Position] [int]);
+MERGE [AnimalsIdentity] USING (
+VALUES (@p0, @p1, @p2, @p3, @p4, @p5, @p6, @p7, @p8, 0),
+(@p9, @p10, @p11, @p12, @p13, @p14, @p15, @p16, @p17, 1),
+(@p18, @p19, @p20, @p21, @p22, @p23, @p24, @p25, @p26, 2),
+(@p27, @p28, @p29, @p30, @p31, @p32, @p33, @p34, @p35, 3),
+(@p36, @p37, @p38, @p39, @p40, @p41, @p42, @p43, @p44, 4)) AS i ([age], [comments], [couleur], [dateEntree], [espece], [nom], [photo], [race], [sexe], _Position) ON 1=0
+WHEN NOT MATCHED THEN
+INSERT ([age], [comments], [couleur], [dateEntree], [espece], [nom], [photo], [race], [sexe])
+VALUES (i.[age], i.[comments], i.[couleur], i.[dateEntree], i.[espece], i.[nom], i.[photo], i.[race], i.[sexe])
+OUTPUT INSERTED.[aiID], i._Position
+INTO @inserted0;
+
+SELECT [t].[aiID] FROM [AnimalsIdentity] t
+INNER JOIN @inserted0 i ON ([t].[aiID] = [i].[aiID])
+ORDER BY [i].[_Position];
+
+DECLARE @inserted5 TABLE ([userID] int, [_Position] [int]);
+MERGE [AssoCompte] USING (
+VALUES (@p45, @p46, @p47, @p48, @p49, @p50, @p51, @p52, @p53, 0),
+(@p54, @p55, @p56, @p57, @p58, @p59, @p60, @p61, @p62, 1),
+(@p63, @p64, @p65, @p66, @p67, @p68, @p69, @p70, @p71, 2),
+(@p72, @p73, @p74, @p75, @p76, @p77, @p78, @p79, @p80, 3)) AS i ([birthDate], [connectIdent], [connectPwd], [eMail], [nom], [prenom], [role], [telephone], [titre], _Position) ON 1=0
+WHEN NOT MATCHED THEN
+INSERT ([birthDate], [connectIdent], [connectPwd], [eMail], [nom], [prenom], [role], [telephone], [titre])
+VALUES (i.[birthDate], i.[connectIdent], i.[connectPwd], i.[eMail], i.[nom], i.[prenom], i.[role], i.[telephone], i.[titre])
+OUTPUT INSERTED.[userID], i._Position
+INTO @inserted5;
+
+SELECT [t].[userID] FROM [AssoCompte] t
+INNER JOIN @inserted5 i ON ([t].[userID] = [i].[userID])
+ORDER BY [i].[_Position];
+
+DECLARE @inserted9 TABLE ([clientID] int, [_Position] [int]);
+MERGE [ClientCompte] USING (
+VALUES (@p81, @p82, @p83, @p84, @p85, @p86, @p87, @p88, @p89, @p90, @p91, @p92, 0),
+(@p93, @p94, @p95, @p96, @p97, @p98, @p99, @p100, @p101, @p102, @p103, @p104, 1),
+(@p105, @p106, @p107, @p108, @p109, @p110, @p111, @p112, @p113, @p114, @p115, @p116, 2),
+(@p117, @p118, @p119, @p120, @p121, @p122, @p123, @p124, @p125, @p126, @p127, @p128, 3),
+(@p129, @p130, @p131, @p132, @p133, @p134, @p135, @p136, @p137, @p138, @p139, @p140, 4)) AS i ([adresse1], [adresse2], [birthDate], [codePostal], [connectIdent], [connectPwd], [eMail], [nom], [prenom], [telephone], [titre], [ville], _Position) ON 1=0
+WHEN NOT MATCHED THEN
+INSERT ([adresse1], [adresse2], [birthDate], [codePostal], [connectIdent], [connectPwd], [eMail], [nom], [prenom], [telephone], [titre], [ville])
+VALUES (i.[adresse1], i.[adresse2], i.[birthDate], i.[codePostal], i.[connectIdent], i.[connectPwd], i.[eMail], i.[nom], i.[prenom], i.[telephone], i.[titre], i.[ville])
+OUTPUT INSERTED.[clientID], i._Position
+INTO @inserted9;
+
+SELECT [t].[clientID] FROM [ClientCompte] t
+INNER JOIN @inserted9 i ON ([t].[clientID] = [i].[clientID])
+ORDER BY [i].[_Position];"
+2022-01-01 23:53:16.303 +01:00 [Debug] The foreign key property '"AnimalsIdentity"."aiID"' was detected as changed. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see property values.
+2022-01-01 23:53:16.305 +01:00 [Debug] The foreign key property '"AnimalsIdentity"."aiID"' was detected as changed. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see property values.
+2022-01-01 23:53:16.305 +01:00 [Debug] The foreign key property '"AnimalsIdentity"."aiID"' was detected as changed. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see property values.
+2022-01-01 23:53:16.305 +01:00 [Debug] The foreign key property '"AnimalsIdentity"."aiID"' was detected as changed. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see property values.
+2022-01-01 23:53:16.305 +01:00 [Debug] The foreign key property '"AnimalsIdentity"."aiID"' was detected as changed. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see property values.
+2022-01-01 23:53:16.307 +01:00 [Debug] The foreign key property '"AssoCompte"."userID"' was detected as changed. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see property values.
+2022-01-01 23:53:16.307 +01:00 [Debug] The foreign key property '"AssoCompte"."userID"' was detected as changed. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see property values.
+2022-01-01 23:53:16.307 +01:00 [Debug] The foreign key property '"AssoCompte"."userID"' was detected as changed. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see property values.
+2022-01-01 23:53:16.307 +01:00 [Debug] The foreign key property '"AssoCompte"."userID"' was detected as changed. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see property values.
+2022-01-01 23:53:16.308 +01:00 [Debug] The foreign key property '"ClientCompte"."clientID"' was detected as changed. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see property values.
+2022-01-01 23:53:16.308 +01:00 [Debug] The foreign key property '"ClientCompte"."clientID"' was detected as changed. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see property values.
+2022-01-01 23:53:16.308 +01:00 [Debug] The foreign key property '"ClientCompte"."clientID"' was detected as changed. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see property values.
+2022-01-01 23:53:16.308 +01:00 [Debug] The foreign key property '"ClientCompte"."clientID"' was detected as changed. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see property values.
+2022-01-01 23:53:16.308 +01:00 [Debug] The foreign key property '"ClientCompte"."clientID"' was detected as changed. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see property values.
+2022-01-01 23:53:16.309 +01:00 [Debug] A data reader was disposed.
+2022-01-01 23:53:16.309 +01:00 [Debug] Committing transaction.
+2022-01-01 23:53:16.323 +01:00 [Debug] Committed transaction.
+2022-01-01 23:53:16.323 +01:00 [Debug] Closing connection to database '"band_apa"' on server '"tdb-dotnet.synology.me,1435"'.
+2022-01-01 23:53:16.324 +01:00 [Debug] Closed connection to database '"band_apa"' on server '"tdb-dotnet.synology.me,1435"'.
+2022-01-01 23:53:16.324 +01:00 [Debug] Disposing transaction.
+2022-01-01 23:53:16.330 +01:00 [Debug] An entity of type '"AssoCompte"' tracked by '"ApplicationContext"' changed state from 'Added' to 'Unchanged'. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2022-01-01 23:53:16.330 +01:00 [Debug] An entity of type '"AssoCompte"' tracked by '"ApplicationContext"' changed state from 'Added' to 'Unchanged'. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2022-01-01 23:53:16.330 +01:00 [Debug] An entity of type '"AssoCompte"' tracked by '"ApplicationContext"' changed state from 'Added' to 'Unchanged'. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2022-01-01 23:53:16.330 +01:00 [Debug] An entity of type '"AssoCompte"' tracked by '"ApplicationContext"' changed state from 'Added' to 'Unchanged'. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2022-01-01 23:53:16.330 +01:00 [Debug] An entity of type '"AnimalsIdentity"' tracked by '"ApplicationContext"' changed state from 'Added' to 'Unchanged'. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2022-01-01 23:53:16.330 +01:00 [Debug] An entity of type '"AnimalsIdentity"' tracked by '"ApplicationContext"' changed state from 'Added' to 'Unchanged'. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2022-01-01 23:53:16.330 +01:00 [Debug] An entity of type '"AnimalsIdentity"' tracked by '"ApplicationContext"' changed state from 'Added' to 'Unchanged'. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2022-01-01 23:53:16.330 +01:00 [Debug] An entity of type '"AnimalsIdentity"' tracked by '"ApplicationContext"' changed state from 'Added' to 'Unchanged'. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2022-01-01 23:53:16.330 +01:00 [Debug] An entity of type '"AnimalsIdentity"' tracked by '"ApplicationContext"' changed state from 'Added' to 'Unchanged'. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2022-01-01 23:53:16.331 +01:00 [Debug] An entity of type '"ClientCompte"' tracked by '"ApplicationContext"' changed state from 'Added' to 'Unchanged'. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2022-01-01 23:53:16.331 +01:00 [Debug] An entity of type '"ClientCompte"' tracked by '"ApplicationContext"' changed state from 'Added' to 'Unchanged'. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2022-01-01 23:53:16.331 +01:00 [Debug] An entity of type '"ClientCompte"' tracked by '"ApplicationContext"' changed state from 'Added' to 'Unchanged'. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2022-01-01 23:53:16.331 +01:00 [Debug] An entity of type '"ClientCompte"' tracked by '"ApplicationContext"' changed state from 'Added' to 'Unchanged'. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2022-01-01 23:53:16.331 +01:00 [Debug] An entity of type '"ClientCompte"' tracked by '"ApplicationContext"' changed state from 'Added' to 'Unchanged'. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2022-01-01 23:53:16.332 +01:00 [Debug] SaveChanges completed for '"ApplicationContext"' with 14 entities written to the database.
+2022-01-01 23:53:16.332 +01:00 [Debug] '"ApplicationContext"' disposed.
+2022-01-01 23:53:16.334 +01:00 [Debug] Hosting starting
+2022-01-01 23:53:16.361 +01:00 [Information] User profile is available. Using '"C:\Users\d_wal\AppData\Local\ASP.NET\DataProtection-Keys"' as key repository and Windows DPAPI to encrypt keys at rest.
+2022-01-01 23:53:16.365 +01:00 [Debug] Reading data from file '"C:\Users\d_wal\AppData\Local\ASP.NET\DataProtection-Keys\key-c5c2c863-95ab-4ec4-9f95-2a0dbea0d7a0.xml"'.
+2022-01-01 23:53:16.369 +01:00 [Debug] Found key {c5c2c863-95ab-4ec4-9f95-2a0dbea0d7a0}.
+2022-01-01 23:53:16.377 +01:00 [Debug] Considering key {c5c2c863-95ab-4ec4-9f95-2a0dbea0d7a0} with expiration date 2022-03-16 07:30:50Z as default key.
+2022-01-01 23:53:16.383 +01:00 [Debug] Forwarded activator type request from "Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor, Microsoft.AspNetCore.DataProtection, Version=5.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60" to "Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor, Microsoft.AspNetCore.DataProtection, Culture=neutral, PublicKeyToken=adb9793829ddae60"
+2022-01-01 23:53:16.383 +01:00 [Debug] Decrypting secret element using Windows DPAPI.
+2022-01-01 23:53:16.384 +01:00 [Debug] Forwarded activator type request from "Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ConfigurationModel.AuthenticatedEncryptorDescriptorDeserializer, Microsoft.AspNetCore.DataProtection, Version=5.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60" to "Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ConfigurationModel.AuthenticatedEncryptorDescriptorDeserializer, Microsoft.AspNetCore.DataProtection, Culture=neutral, PublicKeyToken=adb9793829ddae60"
+2022-01-01 23:53:16.384 +01:00 [Debug] Opening CNG algorithm '"AES"' from provider 'null' with chaining mode CBC.
+2022-01-01 23:53:16.385 +01:00 [Debug] Opening CNG algorithm '"SHA256"' from provider 'null' with HMAC.
+2022-01-01 23:53:16.387 +01:00 [Debug] Using key {c5c2c863-95ab-4ec4-9f95-2a0dbea0d7a0} as the default key.
+2022-01-01 23:53:16.387 +01:00 [Debug] Key ring with default key {c5c2c863-95ab-4ec4-9f95-2a0dbea0d7a0} was loaded during application startup.
+2022-01-01 23:53:16.542 +01:00 [Debug] Loaded hosting startup assembly "band_apa_api"
+2022-01-01 23:53:16.542 +01:00 [Debug] Loaded hosting startup assembly "Microsoft.AspNetCore.Watch.BrowserRefresh"
+2022-01-01 23:53:16.542 +01:00 [Debug] Loaded hosting startup assembly "Microsoft.WebTools.BrowserLink.Net"
+2022-01-01 23:53:16.542 +01:00 [Information] Application started. Press Ctrl+C to shut down.
+2022-01-01 23:53:16.542 +01:00 [Information] Hosting environment: "Development"
+2022-01-01 23:53:16.543 +01:00 [Information] Content root path: "C:\Users\d_wal\source\repos\BAND_APA_API\BAND_APA_API"
+2022-01-01 23:53:16.543 +01:00 [Debug] Hosting started
+2022-01-01 23:53:16.571 +01:00 [Information] Request starting HTTP/2 GET https://localhost:44356/swagger/index.html - -
+2022-01-01 23:53:16.591 +01:00 [Debug] Wildcard detected, all requests with hosts will be allowed.
+2022-01-01 23:53:16.635 +01:00 [Debug] Response markup is scheduled to include browser refresh script injection.
+2022-01-01 23:53:16.756 +01:00 [Debug] Response markup was updated to include browser refresh script injection.
+2022-01-01 23:53:16.761 +01:00 [Debug] Connection ID ""18374686571476549636"" disconnecting.
+2022-01-01 23:53:16.761 +01:00 [Information] Request finished HTTP/2 GET https://localhost:44356/swagger/index.html - - - 200 - text/html;charset=utf-8 191.8832ms
+2022-01-01 23:53:16.803 +01:00 [Information] Request starting HTTP/2 GET https://localhost:44356/swagger/swagger-ui.css - -
+2022-01-01 23:53:16.804 +01:00 [Debug] Connection ID ""18374686537116811266"" disconnecting.
+2022-01-01 23:53:16.811 +01:00 [Information] Request starting HTTP/2 GET https://localhost:44356/_framework/aspnetcore-browser-refresh.js - -
+2022-01-01 23:53:16.818 +01:00 [Debug] Connection ID ""18230571353335922690"" disconnecting.
+2022-01-01 23:53:16.818 +01:00 [Information] Request finished HTTP/2 GET https://localhost:44356/_framework/aspnetcore-browser-refresh.js - - - 200 11946 application/javascript;+charset=utf-8 7.6033ms
+2022-01-01 23:53:16.810 +01:00 [Debug] The file transmission was cancelled
+System.OperationCanceledException: The operation was canceled.
+   at System.Threading.CancellationToken.ThrowOperationCanceledException()
+   at System.Threading.CancellationToken.ThrowIfCancellationRequested()
+   at Microsoft.AspNetCore.Http.SendFileResponseExtensions.SendFileAsyncCore(HttpResponse response, IFileInfo file, Int64 offset, Nullable`1 count, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.StaticFiles.StaticFileContext.SendAsync()
+2022-01-01 23:53:16.842 +01:00 [Information] Sending file. Request path: '"/swagger-ui.css"'. Physical path: '"N/A"'
+2022-01-01 23:53:16.842 +01:00 [Information] Request finished HTTP/2 GET https://localhost:44356/swagger/swagger-ui.css - - - 0 142933 text/css 39.3216ms
+2022-01-01 23:53:16.877 +01:00 [Information] Request starting HTTP/2 GET https://localhost:44356/swagger/favicon-16x16.png - -
+2022-01-01 23:53:16.878 +01:00 [Debug] Connection ID ""18374686567181582341"" disconnecting.
+2022-01-01 23:53:16.878 +01:00 [Debug] The file transmission was cancelled
+System.OperationCanceledException: The operation was canceled.
+   at System.Threading.CancellationToken.ThrowOperationCanceledException()
+   at System.Threading.CancellationToken.ThrowIfCancellationRequested()
+   at Microsoft.AspNetCore.Http.SendFileResponseExtensions.SendFileAsyncCore(HttpResponse response, IFileInfo file, Int64 offset, Nullable`1 count, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.StaticFiles.StaticFileContext.SendAsync()
+2022-01-01 23:53:16.879 +01:00 [Information] Sending file. Request path: '"/favicon-16x16.png"'. Physical path: '"N/A"'
+2022-01-01 23:53:16.879 +01:00 [Information] Request finished HTTP/2 GET https://localhost:44356/swagger/favicon-16x16.png - - - 0 665 image/png 1.6952ms
+2022-01-01 23:53:16.931 +01:00 [Information] Request starting HTTP/2 GET https://localhost:44356/swagger/v1/swagger.json - -
+2022-01-01 23:53:16.987 +01:00 [Debug] Connection ID ""18302628913014112267"" disconnecting.
+2022-01-01 23:53:16.987 +01:00 [Information] Request finished HTTP/2 GET https://localhost:44356/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 55.7700ms
+2022-01-01 23:53:51.886 +01:00 [Information] Request starting HTTP/2 DELETE https://localhost:44356/api/v1/ClientComptes/via/n1p1/connectPwd?connectPwd=n1p1123 - -
+2022-01-01 23:53:51.888 +01:00 [Debug] "DELETE" requests are not supported
+2022-01-01 23:53:51.893 +01:00 [Debug] Initializing Razor view compiler with no compiled views.
+2022-01-01 23:53:51.913 +01:00 [Debug] 1 candidate(s) found for the request path '"/api/v1/ClientComptes/via/n1p1/connectPwd"'
+2022-01-01 23:53:51.913 +01:00 [Debug] Endpoint '"band_apa_api.Controllers.ClientComptesController.DeleteByIdent (band_apa_api)"' with route pattern '"api/v1/ClientComptes/via/{connectIdent}/connectPwd"' is valid for the request path '"/api/v1/ClientComptes/via/n1p1/connectPwd"'
+2022-01-01 23:53:51.913 +01:00 [Debug] Request matched endpoint '"band_apa_api.Controllers.ClientComptesController.DeleteByIdent (band_apa_api)"'
+2022-01-01 23:53:51.915 +01:00 [Debug] The request has an origin header: '"https://localhost:44356"'.
+2022-01-01 23:53:51.915 +01:00 [Information] CORS policy execution successful.
+2022-01-01 23:53:51.915 +01:00 [Information] Executing endpoint '"band_apa_api.Controllers.ClientComptesController.DeleteByIdent (band_apa_api)"'
+2022-01-01 23:53:51.919 +01:00 [Debug] Registered model binder providers, in the following order: ["Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BinderTypeModelBinderProvider", "Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ServicesModelBinderProvider", "Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinderProvider", "Microsoft.AspNetCore.Mvc.ModelBinding.Binders.HeaderModelBinderProvider", "Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FloatingPointTypeModelBinderProvider", "Microsoft.AspNetCore.Mvc.ModelBinding.Binders.EnumTypeModelBinderProvider", "Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DateTimeModelBinderProvider", "Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinderProvider", "Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CancellationTokenModelBinderProvider", "Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ByteArrayModelBinderProvider", "Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormFileModelBinderProvider", "Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormCollectionModelBinderProvider", "Microsoft.AspNetCore.Mvc.ModelBinding.Binders.KeyValuePairModelBinderProvider", "Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DictionaryModelBinderProvider", "Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ArrayModelBinderProvider", "Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider", "Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexObjectModelBinderProvider"]
+2022-01-01 23:53:51.935 +01:00 [Information] Route matched with "{action = \"DeleteByIdent\", controller = \"ClientComptes\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult DeleteByIdent(System.String, System.String)" on controller "band_apa_api.Controllers.ClientComptesController" ("band_apa_api").
+2022-01-01 23:53:51.935 +01:00 [Debug] Execution plan of "authorization" filters (in the following order): ["None"]
+2022-01-01 23:53:51.935 +01:00 [Debug] Execution plan of "resource" filters (in the following order): ["Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter"]
+2022-01-01 23:53:51.936 +01:00 [Debug] Execution plan of "action" filters (in the following order): ["Microsoft.AspNetCore.Mvc.Filters.ControllerActionFilter (Order: -2147483648)", "Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000)", "Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter (Order: -2000)"]
+2022-01-01 23:53:51.936 +01:00 [Debug] Execution plan of "exception" filters (in the following order): ["None"]
+2022-01-01 23:53:51.936 +01:00 [Debug] Execution plan of "result" filters (in the following order): ["Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter", "Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter (Order: -2000)"]
+2022-01-01 23:53:51.936 +01:00 [Debug] Executing controller factory for controller "band_apa_api.Controllers.ClientComptesController" ("band_apa_api")
+2022-01-01 23:53:51.937 +01:00 [Debug] Executed controller factory for controller "band_apa_api.Controllers.ClientComptesController" ("band_apa_api")
+2022-01-01 23:53:51.940 +01:00 [Debug] Attempting to bind parameter '"connectIdent"' of type '"System.String"' ...
+2022-01-01 23:53:51.941 +01:00 [Debug] Attempting to bind parameter '"connectIdent"' of type '"System.String"' using the name '"connectIdent"' in request data ...
+2022-01-01 23:53:51.941 +01:00 [Debug] Done attempting to bind parameter '"connectIdent"' of type '"System.String"'.
+2022-01-01 23:53:51.941 +01:00 [Debug] Done attempting to bind parameter '"connectIdent"' of type '"System.String"'.
+2022-01-01 23:53:51.941 +01:00 [Debug] Attempting to validate the bound parameter '"connectIdent"' of type '"System.String"' ...
+2022-01-01 23:53:51.942 +01:00 [Debug] Done attempting to validate the bound parameter '"connectIdent"' of type '"System.String"'.
+2022-01-01 23:53:51.943 +01:00 [Debug] Attempting to bind parameter '"connectPwd"' of type '"System.String"' ...
+2022-01-01 23:53:51.944 +01:00 [Debug] Attempting to bind parameter '"connectPwd"' of type '"System.String"' using the name '"connectPwd"' in request data ...
+2022-01-01 23:53:51.944 +01:00 [Debug] Done attempting to bind parameter '"connectPwd"' of type '"System.String"'.
+2022-01-01 23:53:51.944 +01:00 [Debug] Done attempting to bind parameter '"connectPwd"' of type '"System.String"'.
+2022-01-01 23:53:51.944 +01:00 [Debug] Attempting to validate the bound parameter '"connectPwd"' of type '"System.String"' ...
+2022-01-01 23:53:51.944 +01:00 [Debug] Done attempting to validate the bound parameter '"connectPwd"' of type '"System.String"'.
+2022-01-01 23:53:51.946 +01:00 [Information] Entity Framework Core "5.0.13" initialized '"ApplicationContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer"' with options: "None"
+2022-01-01 23:53:51.955 +01:00 [Debug] Compiling query expression: "
+"'"DbSet<ClientCompte>()
+    .Single(cc => cc.connectIdent == __connectIdent_0 && cc.connectPwd == __connectPwd_1)"'
+2022-01-01 23:53:51.982 +01:00 [Debug] Generated query execution expression: "
+"'"queryContext => new SingleQueryingEnumerable<ClientCompte>(
+    (RelationalQueryContext)queryContext, 
+    RelationalCommandCache.SelectExpression(
+        Projection Mapping:
+            EmptyProjectionMember -> Dictionary<IProperty, int> { [Property: ClientCompte.clientID (int) Required PK AfterSave:Throw ValueGenerated.OnAdd, 0], [Property: ClientCompte.adresse1 (string) Required MaxLength(200), 1], [Property: ClientCompte.adresse2 (string) MaxLength(200), 2], [Property: ClientCompte.birthDate (DateTime) Required, 3], [Property: ClientCompte.codePostal (int) Required, 4], [Property: ClientCompte.connectIdent (string) Required MaxLength(30), 5], [Property: ClientCompte.connectPwd (string) Required MaxLength(36), 6], [Property: ClientCompte.eMail (string) Required MaxLength(160), 7], [Property: ClientCompte.nom (string) Required MaxLength(75), 8], [Property: ClientCompte.prenom (string) Required MaxLength(75), 9], [Property: ClientCompte.telephone (string) Required MaxLength(13), 10], [Property: ClientCompte.titre (string) MaxLength(4), 11], [Property: ClientCompte.ville (string) Required MaxLength(75), 12], }
+        SELECT TOP(2) c.clientID, c.adresse1, c.adresse2, c.birthDate, c.codePostal, c.connectIdent, c.connectPwd, c.eMail, c.nom, c.prenom, c.telephone, c.titre, c.ville
+        FROM ClientCompte AS c
+        WHERE (c.connectIdent == @__connectIdent_0) && (c.connectPwd == @__connectPwd_1)), 
+    Func<QueryContext, DbDataReader, ResultContext, SingleQueryResultCoordinator, ClientCompte>, 
+    band_apa_api.Data.ApplicationContext, 
+    False, 
+    False
+)
+    .Single()"'
+2022-01-01 23:53:51.985 +01:00 [Debug] Creating DbCommand for '"ExecuteReader"'.
+2022-01-01 23:53:51.985 +01:00 [Debug] Created DbCommand for '"ExecuteReader"' (0ms).
+2022-01-01 23:53:51.985 +01:00 [Debug] Opening connection to database '"band_apa"' on server '"tdb-dotnet.synology.me,1435"'.
+2022-01-01 23:53:51.986 +01:00 [Debug] Opened connection to database '"band_apa"' on server '"tdb-dotnet.synology.me,1435"'.
+2022-01-01 23:53:51.986 +01:00 [Debug] Executing DbCommand [Parameters=["@__connectIdent_0='?' (Size = 30), @__connectPwd_1='?' (Size = 36)"], CommandType='Text', CommandTimeout='30']"
+""SELECT TOP(2) [c].[clientID], [c].[adresse1], [c].[adresse2], [c].[birthDate], [c].[codePostal], [c].[connectIdent], [c].[connectPwd], [c].[eMail], [c].[nom], [c].[prenom], [c].[telephone], [c].[titre], [c].[ville]
+FROM [ClientCompte] AS [c]
+WHERE ([c].[connectIdent] = @__connectIdent_0) AND ([c].[connectPwd] = @__connectPwd_1)"
+2022-01-01 23:53:52.068 +01:00 [Information] Executed DbCommand ("82"ms) [Parameters=["@__connectIdent_0='?' (Size = 30), @__connectPwd_1='?' (Size = 36)"], CommandType='Text', CommandTimeout='30']"
+""SELECT TOP(2) [c].[clientID], [c].[adresse1], [c].[adresse2], [c].[birthDate], [c].[codePostal], [c].[connectIdent], [c].[connectPwd], [c].[eMail], [c].[nom], [c].[prenom], [c].[telephone], [c].[titre], [c].[ville]
+FROM [ClientCompte] AS [c]
+WHERE ([c].[connectIdent] = @__connectIdent_0) AND ([c].[connectPwd] = @__connectPwd_1)"
+2022-01-01 23:53:52.070 +01:00 [Debug] Context '"ApplicationContext"' started tracking '"ClientCompte"' entity. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2022-01-01 23:53:52.070 +01:00 [Debug] A data reader was disposed.
+2022-01-01 23:53:52.070 +01:00 [Debug] Closing connection to database '"band_apa"' on server '"tdb-dotnet.synology.me,1435"'.
+2022-01-01 23:53:52.070 +01:00 [Debug] Closed connection to database '"band_apa"' on server '"tdb-dotnet.synology.me,1435"'.
+2022-01-01 23:53:52.071 +01:00 [Debug] An entity of type '"ClientCompte"' tracked by '"ApplicationContext"' changed state from 'Unchanged' to 'Deleted'. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2022-01-01 23:53:52.072 +01:00 [Debug] SaveChanges starting for '"ApplicationContext"'.
+2022-01-01 23:53:52.072 +01:00 [Debug] DetectChanges starting for '"ApplicationContext"'.
+2022-01-01 23:53:52.072 +01:00 [Debug] DetectChanges completed for '"ApplicationContext"'.
+2022-01-01 23:53:52.072 +01:00 [Debug] Opening connection to database '"band_apa"' on server '"tdb-dotnet.synology.me,1435"'.
+2022-01-01 23:53:52.072 +01:00 [Debug] Opened connection to database '"band_apa"' on server '"tdb-dotnet.synology.me,1435"'.
+2022-01-01 23:53:52.072 +01:00 [Debug] Beginning transaction with isolation level '"Unspecified"'.
+2022-01-01 23:53:52.088 +01:00 [Debug] Began transaction with isolation level '"ReadCommitted"'.
+2022-01-01 23:53:52.090 +01:00 [Debug] Creating DbCommand for '"ExecuteReader"'.
+2022-01-01 23:53:52.090 +01:00 [Debug] Created DbCommand for '"ExecuteReader"' (0ms).
+2022-01-01 23:53:52.090 +01:00 [Debug] Executing DbCommand [Parameters=["@p0='?' (DbType = Int32)"], CommandType='Text', CommandTimeout='30']"
+""SET NOCOUNT ON;
+DELETE FROM [ClientCompte]
+WHERE [clientID] = @p0;
+SELECT @@ROWCOUNT;"
+2022-01-01 23:53:52.104 +01:00 [Information] Executed DbCommand ("14"ms) [Parameters=["@p0='?' (DbType = Int32)"], CommandType='Text', CommandTimeout='30']"
+""SET NOCOUNT ON;
+DELETE FROM [ClientCompte]
+WHERE [clientID] = @p0;
+SELECT @@ROWCOUNT;"
+2022-01-01 23:53:52.104 +01:00 [Debug] A data reader was disposed.
+2022-01-01 23:53:52.104 +01:00 [Debug] Committing transaction.
+2022-01-01 23:53:52.152 +01:00 [Debug] Committed transaction.
+2022-01-01 23:53:52.152 +01:00 [Debug] Closing connection to database '"band_apa"' on server '"tdb-dotnet.synology.me,1435"'.
+2022-01-01 23:53:52.152 +01:00 [Debug] Closed connection to database '"band_apa"' on server '"tdb-dotnet.synology.me,1435"'.
+2022-01-01 23:53:52.152 +01:00 [Debug] Disposing transaction.
+2022-01-01 23:53:52.154 +01:00 [Debug] An entity of type '"ClientCompte"' tracked by '"ApplicationContext"' changed state from 'Deleted' to 'Detached'. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2022-01-01 23:53:52.154 +01:00 [Debug] SaveChanges completed for '"ApplicationContext"' with 1 entities written to the database.
+2022-01-01 23:53:52.155 +01:00 [Debug] List of registered output formatters, in the following order: ["Microsoft.AspNetCore.Mvc.Formatters.HttpNoContentOutputFormatter", "Microsoft.AspNetCore.Mvc.Formatters.StringOutputFormatter", "Microsoft.AspNetCore.Mvc.Formatters.StreamOutputFormatter", "Microsoft.AspNetCore.Mvc.Formatters.NewtonsoftJsonOutputFormatter"]
+2022-01-01 23:53:52.156 +01:00 [Debug] No information found on request to perform content negotiation.
+2022-01-01 23:53:52.156 +01:00 [Debug] Attempting to select an output formatter without using a content type as no explicit content types were specified for the response.
+2022-01-01 23:53:52.156 +01:00 [Debug] Attempting to select the first formatter in the output formatters list which can write the result.
+2022-01-01 23:53:52.156 +01:00 [Debug] Selected output formatter '"Microsoft.AspNetCore.Mvc.Formatters.NewtonsoftJsonOutputFormatter"' and content type '"application/json"' to write the response.
+2022-01-01 23:53:52.156 +01:00 [Information] Executing "OkObjectResult", writing value of type '"System.Boolean"'.
+2022-01-01 23:53:52.204 +01:00 [Information] Executed action "band_apa_api.Controllers.ClientComptesController.DeleteByIdent (band_apa_api)" in 266.4177ms
+2022-01-01 23:53:52.205 +01:00 [Information] Executed endpoint '"band_apa_api.Controllers.ClientComptesController.DeleteByIdent (band_apa_api)"'
+2022-01-01 23:53:52.205 +01:00 [Debug] Connection ID ""18302628938783916041"" disconnecting.
+2022-01-01 23:53:52.205 +01:00 [Debug] '"ApplicationContext"' disposed.
+2022-01-01 23:53:52.206 +01:00 [Information] Request finished HTTP/2 DELETE https://localhost:44356/api/v1/ClientComptes/via/n1p1/connectPwd?connectPwd=n1p1123 - - - 200 4 application/json;+charset=utf-8 320.3400ms
