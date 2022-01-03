@@ -8961,9 +8961,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\DELL\\Documents\\Git\\projetfinal\\BAND_APA_API\\BAND_APA_API\\BAND_APA_API.csproj",
-      "projectName": "BAND_APA_API",
-      "projectPath": "C:\\Users\\DELL\\Documents\\Git\\projetfinal\\BAND_APA_API\\BAND_APA_API\\BAND_APA_API.csproj",
+      "projectUniqueName": "C:\\Users\\DELL\\Documents\\Git\\projetfinal\\BAND_APA_API\\BAND_APA_API\\band_apa_api.csproj",
+      "projectName": "band_apa_api",
+      "projectPath": "C:\\Users\\DELL\\Documents\\Git\\projetfinal\\BAND_APA_API\\BAND_APA_API\\band_apa_api.csproj",
       "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\DELL\\Documents\\Git\\projetfinal\\BAND_APA_API\\BAND_APA_API\\obj\\",
       "projectStyle": "PackageReference",
@@ -9076,5 +9076,13 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problème de lecture du fichier cache C:\\Users\\DELL\\Documents\\Git\\projetfinal\\BAND_APA_API\\BAND_APA_API\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }

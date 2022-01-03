@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "bvKIPB+7ml+S/uX2dd38jcF8EkOX9qKgdBOLQSCos76wQkPRGXNgxzE/AJKEBzn8QW1TrFdfwg98Gr0yhoEslA==",
+  "dgSpecHash": "VD1qKjKwhDY7P7Cfi48CEKNrekZHXt69owlsyXr0vQRfg0kftfAlVjjxB/axMVpIM2hf7bHVox3bG/LpPcR0Cw==",
   "success": true,
   "projectFilePath": "C:\\Users\\DELL\\Documents\\Git\\projetfinal\\BAND_APA_WEB_APP\\BAND_APA_WEB_APP\\BAND_APA_WEB_APP.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\DELL\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
   "logs": []
 }

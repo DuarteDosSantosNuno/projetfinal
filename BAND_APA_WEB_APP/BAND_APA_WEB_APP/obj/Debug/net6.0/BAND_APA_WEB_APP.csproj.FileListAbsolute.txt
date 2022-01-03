@@ -24,3 +24,5 @@ C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\obj\De
 C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\obj\Debug\net6.0\ref\BAND_APA_WEB_APP.dll
 C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\obj\Debug\net6.0\BAND_APA_WEB_APP.pdb
 C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\obj\Debug\net6.0\BAND_APA_WEB_APP.genruntimeconfig.cache
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\obj\Debug\net6.0\BAND_APA_WEB_APP.csproj.CopyComplete

@@ -1,14 +1,13 @@
-﻿
+﻿@model List<BAND_APA_WEB_APP.Models.Animal>
+
 @{
-    ViewData["Title"] = "Adopter animal";
-    //List<SelectListItem> pays = (List<SelectListItem>)ViewData["pays"];
-    //List<SelectListItem> villes = (List<SelectListItem>)ViewData["villes"];
+    ViewData["Title"] = "Adopter un animal";
+
     var imagePath = "";
     var newFileName = "";
 
     newFileName = "Woofy.jpg";
     imagePath = @Url.Content($"~/Ressources/ImagesAnimals/{newFileName}");
-    var animals = "fiekfgt";
 }
 
 <div class="text-left my-4">
@@ -23,28 +22,27 @@
         </div> 
     </div>
 
-    @foreach (var animal in animals)
+    @foreach (var animal in Model)
     {
         <div class="container d-flex mb-2 mt-2 border border-secondary bg-lightblue p-2">
             <div class="col-xl-4 d-flex flex-column">
                 <div class="row-1">
-                    <img src="@imagePath" runat="server" width="364" height="222"/>
+                    <img src="~/Ressources/ImagesAnimals/@animal.Photo" runat="server" width="364" height="222"/>
                 </div>                       
             </div>        
             <div class="col-8 d-flex flex-column ">
                 <div class="row-1 p-2">
-                    <h3>Woofy</h3>
+                    <h3>@animal.Nom</h3>
                 </div>
                 <div class="row-1 d-flex mx-2">
                     <h6>Espèce : </h6>
-                    <p>Chien</p>
+                    <p>@animal.Espece</p>
                 </div> 
                 <div class="row-1 d-flex mx-2">
                     <h6>Race : </h6>
-                    <p>Fox Terrier</p>
+                    <p>@animal.Race</p>
                 </div> 
                 <div class="row-1 mt-auto p-2">
-                    @*<input type="button" class="btn btn-primary" value="Detail"/>*@
                     <a class="btn btn-primary " asp-area="" asp-controller="Animal" asp-action="AnimalDetail">Detail</a>
                 </div> 
             </div>       

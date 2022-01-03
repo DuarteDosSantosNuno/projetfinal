@@ -10,4 +10,8 @@
     <None Include="wwwroot\Ressources\ImagesAnimals\Woofy.jpg" />
   </ItemGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+  </ItemGroup>
+
 </Project>

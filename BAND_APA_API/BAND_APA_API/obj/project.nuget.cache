@@ -1,14 +1,8 @@
 {
   "version": 2,
-<<<<<<< HEAD
-  "dgSpecHash": "raoLz32bgrCZADyv5dhbz+BV7318750Qu9cft7aL21bMZvE7vhRrFq+0Z/PsnZr8Zt6U8anNi7CC5O/FH1Iw0w==",
+  "dgSpecHash": "EwxRRsPRNHehObOrmrbMeBq994wVIDnaWb//9sQC3IowUASWJ7iQHigYVE+MBgw+nR0LqcFYty6tnz+HubMGlw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\DELL\\Documents\\Git\\projetfinal\\BAND_APA_API\\BAND_APA_API\\BAND_APA_API.csproj",
-=======
-  "dgSpecHash": "PPnfNDW9uWBjiyX80lwjcI/1L0CcoTA0CuUbc9gbsq0EJLMLV5LiAEzVbZfCRf/0pOFbnSmBMSeq72KSP5AxZA==",
-  "success": true,
-  "projectFilePath": "C:\\Users\\d_wal\\source\\repos\\BAND_APA_API\\BAND_APA_API\\band_apa_api.csproj",
->>>>>>> origin/didier_sprint1
+  "projectFilePath": "C:\\Users\\DELL\\Documents\\Git\\projetfinal\\BAND_APA_API\\BAND_APA_API\\band_apa_api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DELL\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.diagnostics.entityframeworkcore\\5.0.13\\microsoft.aspnetcore.diagnostics.entityframeworkcore.5.0.13.nupkg.sha512",
@@ -185,5 +179,12 @@
     "C:\\Users\\DELL\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
     "C:\\Users\\DELL\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problème de lecture du fichier cache C:\\Users\\DELL\\Documents\\Git\\projetfinal\\BAND_APA_API\\BAND_APA_API\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }

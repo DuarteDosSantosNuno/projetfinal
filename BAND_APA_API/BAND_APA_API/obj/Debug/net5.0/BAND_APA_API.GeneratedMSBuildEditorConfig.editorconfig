@@ -6,5 +6,5 @@ build_property.ProjectTypeGuids =
 build_property.InvariantGlobalization = 
 build_property.PlatformNeutralAssembly = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = BAND_APA_API
+build_property.RootNamespace = band_apa_api
 build_property.ProjectDir = C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_API\BAND_APA_API\
