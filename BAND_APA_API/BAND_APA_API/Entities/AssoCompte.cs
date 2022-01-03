@@ -22,11 +22,7 @@ namespace band_apa_api.Entities
         [StringLength(75)]
         public string prenom { get; set; }
         [Required]
-<<<<<<< HEAD:BAND_APA_API/BAND_APA_API/Entities/AssoCompte.cs
         //[Timestamp]
-=======
-        [Timestamp]
->>>>>>> d8e09df071b52ab39f2185d602cc3bf6cafa41e7:BAND_APA_API/BAND_APA_API/Entities/Asso_Compte.cs
         public DateTime birthDate { get; set; }
         [Required]
         [StringLength(160)]

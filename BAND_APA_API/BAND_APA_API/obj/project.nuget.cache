@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KSo3VoA2xtG7iMSNY9bn4XIKFVlB503tYHkF16FZ5TBRnpi3wWHJp4p6nOW4N4+kRbDCQ7cXfKw8MQLd5zdxxA==",
+  "dgSpecHash": "PPnfNDW9uWBjiyX80lwjcI/1L0CcoTA0CuUbc9gbsq0EJLMLV5LiAEzVbZfCRf/0pOFbnSmBMSeq72KSP5AxZA==",
   "success": true,
-  "projectFilePath": "F:\\Projet No 5\\BAND_APA\\projetfinal\\BAND_APA_API\\BAND_APA_API\\band_apa_api.csproj",
+  "projectFilePath": "C:\\Users\\d_wal\\source\\repos\\BAND_APA_API\\BAND_APA_API\\band_apa_api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\d_wal\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\d_wal\\.nuget\\packages\\microsoft.aspnetcore.diagnostics.entityframeworkcore\\5.0.13\\microsoft.aspnetcore.diagnostics.entityframeworkcore.5.0.13.nupkg.sha512",
@@ -180,12 +180,5 @@
     "C:\\Users\\d_wal\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512",
     "C:\\Users\\d_wal\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Problème de lecture du fichier cache F:\\Projet No 5\\BAND_APA\\projetfinal\\BAND_APA_API\\BAND_APA_API\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
-    }
-  ]
+  "logs": []
 }

@@ -28,14 +28,9 @@ namespace band_apa_api
             services.AddCors(); // Make sure you call this previous to AddMvc
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
             services.AddTransient<IAnimalsIdentityRepository, AnimalsIdentityRepository>();
-<<<<<<< HEAD
             services.AddTransient<IClientCompteRepository, ClientCompteRepository>();
             services.AddTransient<IAssoCompteRepository, AssoCompteRepository>();
             services.AddTransient<IDemandRepository, DemandRepository>();
-=======
-            //services.AddTransient<IVoitureRepository, VoitureRepository>();
-            //services.AddTransient<IPersonneRepository, PersonneRepository>();
->>>>>>> d8e09df071b52ab39f2185d602cc3bf6cafa41e7
 
 
             services.AddDbContext<ApplicationContext>(options =>

@@ -13,11 +13,7 @@ namespace band_apa_api.Data
             context.Database.EnsureCreated();
 
 
-<<<<<<< HEAD
             if (!context.AnimalsIdentities.Any())
-=======
-            if (!context.Animals_Identities.Any())
->>>>>>> d8e09df071b52ab39f2185d602cc3bf6cafa41e7
             {
                 var a_i1 = new AnimalsIdentity
                 {   dateEntree = DateTime.Parse("24-08-2018"),
@@ -27,12 +23,7 @@ namespace band_apa_api.Data
                     sexe = "", 
                     couleur = "Gris Blanc", 
                     age = 7, 
-<<<<<<< HEAD
                     comments = "le chat Maine Coon est le chat le plus imposant qui soit. Il peut atteindre tranquillement, sans être obèse, 10 kg et, malgré son aspect impressionnant, " +
-=======
-                    comments = 
-                    "le chat Maine Coon est le chat le plus imposant qui soit. Il peut atteindre tranquillement, sans être obèse, 10 kg et, malgré son aspect impressionnant, " +
->>>>>>> d8e09df071b52ab39f2185d602cc3bf6cafa41e7
                     "il donne une rassurante impression de grande confiance. Autonome parce qu’en mesure de prendre soin de lui - même dans n’importe quelle circonstance, " +
                     "c’est donc un grand chasseur, en réalité un bon mélange de douceur et de sauvagerie ; c’est un chat de travail, justement à cause de cet instinct prédateur " +
                     "bien développé.", 
@@ -94,22 +85,14 @@ namespace band_apa_api.Data
                     "s’adapte à une variété de cadres de vie, à condition de ne pas le laisser s’ennuyer. Depuis quelques années, cette race connaît un grand succès dans le coeur des Français.",
                     photo = "Photo4"
                 };
-<<<<<<< HEAD
 
-=======
-/*
->>>>>>> d8e09df071b52ab39f2185d602cc3bf6cafa41e7
                 var a_c1 = new AssoCompte
                 {
                     role = "Administrateur",
                     titre = "Mr",
                     nom = "Frin",
                     prenom = "Antoine",
-<<<<<<< HEAD
                     birthDate = DateTime.Parse("30-08-1988"),
-=======
-                    birthDate = DateTime.Parse("30/08/1988"),
->>>>>>> d8e09df071b52ab39f2185d602cc3bf6cafa41e7
                     eMail = "antoinefrindev@gmail.com",
                     telephone = "0600000001",
                     connectIdent = "af",
@@ -121,11 +104,7 @@ namespace band_apa_api.Data
                     titre = "Mr",
                     nom = "Walle",
                     prenom = "Didier",
-<<<<<<< HEAD
                     birthDate = DateTime.Parse("19-12-1963"),
-=======
-                    birthDate = DateTime.Parse("19/12/1963"),
->>>>>>> d8e09df071b52ab39f2185d602cc3bf6cafa41e7
                     eMail = "dwalle19@gmail.com",
                     telephone = "0600000002",
                     connectIdent = "dw",
@@ -137,11 +116,7 @@ namespace band_apa_api.Data
                     titre = "Mr",
                     nom = "Renault",
                     prenom = "Baptiste",
-<<<<<<< HEAD
                     birthDate = DateTime.Parse("25-06-1995"),
-=======
-                    birthDate = DateTime.Parse("25/06/1995"),
->>>>>>> d8e09df071b52ab39f2185d602cc3bf6cafa41e7
                     eMail = "bat.renault@orange.fr",
                     telephone = "0600000003",
                     connectIdent = "br",
@@ -153,25 +128,14 @@ namespace band_apa_api.Data
                     titre = "Mr",
                     nom = "Duarte",
                     prenom = "Nuno",
-<<<<<<< HEAD
                     birthDate = DateTime.Parse("30-08-1988"),
-=======
-                    birthDate = DateTime.Parse("30/08/1988"),
->>>>>>> d8e09df071b52ab39f2185d602cc3bf6cafa41e7
                     eMail = "nuno230400@gmail.com",
                     telephone = "0600000004",
                     connectIdent = "nd",
                     connectPwd = "nd123"
-<<<<<<< HEAD
                 };
 
                 var c_c1 = new ClientCompte
-=======
-                };*/
-
-                List<ClientCompte> client_Comptes = new List<ClientCompte> {
-                new ClientCompte
->>>>>>> d8e09df071b52ab39f2185d602cc3bf6cafa41e7
                 {
                     titre = "Mme",
                     nom = "Nom1",
@@ -185,13 +149,8 @@ namespace band_apa_api.Data
                     telephone = "0600000001",
                     connectIdent = "n1p1",
                     connectPwd = "n1p1123"
-<<<<<<< HEAD
                 };
                 var c_c2 = new ClientCompte
-=======
-                },
-                    new ClientCompte
->>>>>>> d8e09df071b52ab39f2185d602cc3bf6cafa41e7
                 {
                     titre = "Mr",
                     nom = "Nom2",
@@ -205,13 +164,8 @@ namespace band_apa_api.Data
                     telephone = "0600000002",
                     connectIdent = "n2p2",
                     connectPwd = "n2p2123"
-<<<<<<< HEAD
                 };
                 var c_c3 = new ClientCompte
-=======
-                },
-                    new ClientCompte
->>>>>>> d8e09df071b52ab39f2185d602cc3bf6cafa41e7
                 {
                     titre = "Mme",
                     nom = "Nom3",
@@ -225,13 +179,8 @@ namespace band_apa_api.Data
                     telephone = "0600000003",
                     connectIdent = "n3p3",
                     connectPwd = "n3p3123"
-<<<<<<< HEAD
                 };
                 var c_c4 = new ClientCompte
-=======
-                },
-                    new ClientCompte
->>>>>>> d8e09df071b52ab39f2185d602cc3bf6cafa41e7
                 {
                     titre = "Mme",
                     nom = "Nom4",
@@ -245,13 +194,8 @@ namespace band_apa_api.Data
                     telephone = "0600000004",
                     connectIdent = "n4p4",
                     connectPwd = "n4p4123"
-<<<<<<< HEAD
                 };
                 var c_c5 = new ClientCompte
-=======
-                },
-                    new ClientCompte
->>>>>>> d8e09df071b52ab39f2185d602cc3bf6cafa41e7
                 {
                     titre = "Mr",
                     nom = "Nom5",
@@ -265,7 +209,6 @@ namespace band_apa_api.Data
                     telephone = "0600000005",
                     connectIdent = "n5p5",
                     connectPwd = "n5p5123"
-<<<<<<< HEAD
                 };
 
                 List<Demand> demands = new List<Demand> {
@@ -288,22 +231,6 @@ namespace band_apa_api.Data
                 context.ClientComptes.Add(c_c4);
                 context.ClientComptes.Add(c_c5);
                 context.Demands.AddRange(demands);
-=======
-                }
-                };
-
-                /* List<Demand> demands = new List<Demand> {
-                     new Demand{ adoption = true, depot = false, statusSocial = "OK", animalsIdentity = a_i3, assoCompte = a_c2, client_compte = c_c4},
-                     new Demand{ adoption = true, depot = false, statusSocial = "OK", animalsIdentity = a_i5, assoCompte = a_c4, client_compte = c_c3},
-                     new Demand{ adoption = false, depot = true, statusSocial = "EA", animalsIdentity = a_i1, assoCompte = a_c4, client_compte = c_c1}
-                 };*/
-                context.Animals_Identities.Add(a_i1);
-                context.Animals_Identities.Add(a_i2);
-                context.Animals_Identities.Add(a_i3);
-                context.Animals_Identities.Add(a_i4);
-                context.Animals_Identities.Add(a_i5);
-                context.Client_Comptes.AddRange(client_Comptes);
->>>>>>> d8e09df071b52ab39f2185d602cc3bf6cafa41e7
                 context.SaveChanges();
 
             }
