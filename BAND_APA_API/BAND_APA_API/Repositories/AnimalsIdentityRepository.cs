@@ -17,51 +17,51 @@ namespace band_apa_api.Repositories
         public List<AnimalsIdentity> FindAll()
         {
             //_logger.LogInformation("Info : test");
-            return _applicationContext.Animals_Identities.ToList();
+            return _applicationContext.AnimalsIdentities.ToList();
         }
         public AnimalsIdentity FindById( int id)
         {
             //_logger.LogInformation("Info : test");
-            return _applicationContext.Animals_Identities.Single(ai => ai.aiID == id);
+            return _applicationContext.AnimalsIdentities.Single(ai => ai.aiID == id);
         }
         public List<AnimalsIdentity> FindBySexe(string sex)
         {
             //_logger.LogInformation("Info : test");
-            return _applicationContext.Animals_Identities.Where(ai => ai.sexe.Trim().ToUpper().Contains(sex.Trim().ToUpper())).ToList();
+            return _applicationContext.AnimalsIdentities.Where(ai => ai.sexe.Trim().ToUpper().Contains(sex.Trim().ToUpper())).ToList();
         }
         public List<AnimalsIdentity> FindByEspece(string espece)
         {
             //_logger.LogInformation("Info : test");
-            return _applicationContext.Animals_Identities.Where(ai => ai.espece.Trim().ToUpper().Contains(espece.Trim().ToUpper())).ToList();
+            return _applicationContext.AnimalsIdentities.Where(ai => ai.espece.Trim().ToUpper().Contains(espece.Trim().ToUpper())).ToList();
         }
         public List<AnimalsIdentity> FindByRace(string race)
         {
             //_logger.LogInformation("Info : test");
-            return _applicationContext.Animals_Identities.Where(ai => ai.race.Trim().ToUpper().Contains(race.Trim().ToUpper())).ToList();
+            return _applicationContext.AnimalsIdentities.Where(ai => ai.race.Trim().ToUpper().Contains(race.Trim().ToUpper())).ToList();
         }
         public List<AnimalsIdentity> FindByCouleur(string couleur)
         {
             //_logger.LogInformation("Info : test");
-            return _applicationContext.Animals_Identities.Where(ai => ai.couleur.Trim().ToUpper().Contains(couleur.Trim().ToUpper())).ToList();
+            return _applicationContext.AnimalsIdentities.Where(ai => ai.couleur.Trim().ToUpper().Contains(couleur.Trim().ToUpper())).ToList();
         }
         public AnimalsIdentity Create(AnimalsIdentity newAnimalsIdentity)
         {
-            _applicationContext.Animals_Identities.Add(newAnimalsIdentity);
+            _applicationContext.AnimalsIdentities.Add(newAnimalsIdentity);
             _applicationContext.SaveChanges();
             return newAnimalsIdentity;
         }
         public bool DeleteById(int id)
         {
-            AnimalsIdentity animalsIdentity = _applicationContext.Animals_Identities.Single(ai => ai.aiID == id);
+            AnimalsIdentity animalsIdentity = _applicationContext.AnimalsIdentities.Single(ai => ai.aiID == id);
             if (animalsIdentity == null)
                 return false;
-            _applicationContext.Animals_Identities.Remove(animalsIdentity);
+            _applicationContext.AnimalsIdentities.Remove(animalsIdentity);
             _applicationContext.SaveChanges();
             return true;
         }
         public bool Update(AnimalsIdentity newAnimalsIdentity)
         {
-            AnimalsIdentity animalsIdentity = _applicationContext.Animals_Identities.Single(ai => ai.aiID == newAnimalsIdentity.aiID);
+            AnimalsIdentity animalsIdentity = _applicationContext.AnimalsIdentities.Single(ai => ai.aiID == newAnimalsIdentity.aiID);
             if (animalsIdentity == null)
                 return false;
             animalsIdentity.dateEntree = newAnimalsIdentity.dateEntree;

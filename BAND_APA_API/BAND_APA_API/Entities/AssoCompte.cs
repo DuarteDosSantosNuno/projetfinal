@@ -22,7 +22,7 @@ namespace band_apa_api.Entities
         [StringLength(75)]
         public string prenom { get; set; }
         [Required]
-        [Timestamp]
+        //[Timestamp]
         public DateTime birthDate { get; set; }
         [Required]
         [StringLength(160)]
