@@ -72,6 +72,10 @@ namespace band_apa_api.Controllers
             OkObjectResult modifyResult = new OkObjectResult(_animalsIdentityRepository.Update(ai));
             return modifyResult;
         }
+<<<<<<< HEAD
+        
+
+=======
         // GET: Animals_IdentityControllers/Details/5
         /* public ActionResult Details(int id)
          {
@@ -140,5 +144,6 @@ namespace band_apa_api.Controllers
                  return View();
              }
          }*/
+>>>>>>> d8e09df071b52ab39f2185d602cc3bf6cafa41e7
     }
 }
