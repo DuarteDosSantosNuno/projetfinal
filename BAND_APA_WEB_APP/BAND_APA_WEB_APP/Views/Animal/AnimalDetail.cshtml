@@ -7,7 +7,7 @@
     newFileName = "Woofy.jpg";
     imagePath = @Url.Content($"~/Ressources/ImagesAnimals/{newFileName}");
 
-    ViewData["Title"] = $"Detail de {newFileName}";
+    ViewData["Title"] = $"Detail de {@Model.Nom}";
 }
 
 <div class="container d-flex mb-2 mt-2 p-2">
