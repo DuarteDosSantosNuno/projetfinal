@@ -8955,23 +8955,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\d_wal\\.nuget\\packages\\": {},
+    "C:\\Users\\DELL\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Projet No 5\\BAND_APA\\projetfinal\\BAND_APA_API\\BAND_APA_API\\band_apa_api.csproj",
+      "projectUniqueName": "C:\\Users\\DELL\\Documents\\Git\\projetfinal\\BAND_APA_API\\BAND_APA_API\\band_apa_api.csproj",
       "projectName": "band_apa_api",
-      "projectPath": "F:\\Projet No 5\\BAND_APA\\projetfinal\\BAND_APA_API\\BAND_APA_API\\band_apa_api.csproj",
-      "packagesPath": "C:\\Users\\d_wal\\.nuget\\packages\\",
-      "outputPath": "F:\\Projet No 5\\BAND_APA\\projetfinal\\BAND_APA_API\\BAND_APA_API\\obj\\",
+      "projectPath": "C:\\Users\\DELL\\Documents\\Git\\projetfinal\\BAND_APA_API\\BAND_APA_API\\band_apa_api.csproj",
+      "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\DELL\\Documents\\Git\\projetfinal\\BAND_APA_API\\BAND_APA_API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\d_wal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -9065,12 +9065,6 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.NETCore.App.Host.win-x64",
-            "version": "[5.0.13, 5.0.13]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.AspNetCore.App": {
             "privateAssets": "none"
@@ -9079,16 +9073,8 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
       }
     }
-  },
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Problème de lecture du fichier cache F:\\Projet No 5\\BAND_APA\\projetfinal\\BAND_APA_API\\BAND_APA_API\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
-    }
-  ]
+  }
 }

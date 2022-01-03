@@ -72,78 +72,7 @@ namespace band_apa_api.Controllers
             OkObjectResult modifyResult = new OkObjectResult(_animalsIdentityRepository.Update(ai));
             return modifyResult;
         }
-<<<<<<< HEAD
         
 
-=======
-        // GET: Animals_IdentityControllers/Details/5
-        /* public ActionResult Details(int id)
-         {
-             return View();
-         }
-
-         // GET: Animals_IdentityControllers/Create
-         public ActionResult Create()
-         {
-             return View();
-         }
-
-         // POST: Animals_IdentityControllers/Create
-         [HttpPost]
-         [ValidateAntiForgeryToken]
-         public ActionResult Create(IFormCollection collection)
-         {
-             try
-             {
-                 return RedirectToAction(nameof(Index));
-             }
-             catch
-             {
-                 return View();
-             }
-         }
-
-         // GET: Animals_IdentityControllers/Edit/5
-         public ActionResult Edit(int id)
-         {
-             return View();
-         }
-
-         // POST: Animals_IdentityControllers/Edit/5
-         [HttpPost]
-         [ValidateAntiForgeryToken]
-         public ActionResult Edit(int id, IFormCollection collection)
-         {
-             try
-             {
-                 return RedirectToAction(nameof(Index));
-             }
-             catch
-             {
-                 return View();
-             }
-         }
-
-         // GET: Animals_IdentityControllers/Delete/5
-         public ActionResult Delete(int id)
-         {
-             return View();
-         }
-
-         // POST: Animals_IdentityControllers/Delete/5
-         [HttpPost]
-         [ValidateAntiForgeryToken]
-         public ActionResult Delete(int id, IFormCollection collection)
-         {
-             try
-             {
-                 return RedirectToAction(nameof(Index));
-             }
-             catch
-             {
-                 return View();
-             }
-         }*/
->>>>>>> d8e09df071b52ab39f2185d602cc3bf6cafa41e7
     }
 }
