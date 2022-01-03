@@ -1,4 +1,6 @@
-﻿@{
+﻿@model BAND_APA_WEB_APP.Models.Animal
+
+@{
     var imagePath = "";
     var newFileName = "";
 
@@ -11,40 +13,40 @@
 <div class="container d-flex mb-2 mt-2 p-2">
             <div class="col-xl-4">
                 <div>
-                    <img src="@imagePath" runat="server" width="364" height="222"/>
+                    <img src="~/Ressources/ImagesAnimals/@Model.Photo" runat="server" width="364" height="222"/>
                 </div>                       
             </div>        
-            <div class="col-8 d-flex flex-column">
+            <div class="col-6 d-flex flex-column">
                 <div class="row-1 p-2">
-                    <h3>Woofy</h3>
+                    <h3>@Model.Nom</h3>
                 </div>
                 <div class="row-1 d-flex mx-2">
                     <h6>Espèce : </h6>
-                    <p>Chien</p>
+                    <p>@Model.Espece</p>
                 </div> 
                 <div class="row-1 d-flex mx-2">
                     <h6>Race : </h6>
-                    <p>Fox Terrier</p>
+                    <p>@Model.Race</p>
                 </div>
                 <div class="row-1 d-flex mx-2">
                     <h6>Date d'entrée : </h6>
-                    <p>19/02/2019</p>
+                    <p>@Model.DateEntree</p>
                 </div>
                 <div class="row-1 d-flex mx-2">
                     <h6>Age : </h6>
-                    <p>3 ans</p>
+                    <p>@Model.Age</p>
                 </div>
                 <div class="row-1 d-flex mx-2">
                     <h6>Sexe : </h6>
-                    <p>Mâle</p>
+                    <p>@Model.Sexe</p>
                 </div>
                 <div class="row-1 d-flex mx-2">
                     <h6>Couleur : </h6>
-                    <p>Blanc</p>
+                    <p>@Model.Couleur</p>
                 </div>
                 <div class="row-1 d-flex mx-2">
                     <h6>Description : </h6>
-                    <p>Chien affectueux et plein d'énergie, toujours prêt à jouer.</p>
+                    <p>@Model.Comments</p>
                 </div>
                 
                 <div class="row-1 mt-auto p-2">

@@ -17,7 +17,7 @@ namespace band_apa_api.Data
             {
                 var a_i1 = new AnimalsIdentity
                 {   dateEntree = DateTime.Parse("24-08-2018"),
-                    nom = "Nom1",
+                    nom = "Grigri",
                     espece = "Chat", 
                     race = "Maine Coon", 
                     sexe = "", 
@@ -28,12 +28,12 @@ namespace band_apa_api.Data
                     "il donne une rassurante impression de grande confiance. Autonome parce qu’en mesure de prendre soin de lui - même dans n’importe quelle circonstance, " +
                     "c’est donc un grand chasseur, en réalité un bon mélange de douceur et de sauvagerie ; c’est un chat de travail, justement à cause de cet instinct prédateur " +
                     "bien développé.", 
-                    photo = "photo1"
+                    photo = "Grigri.jpg"
                 };
                 var a_i2 = new AnimalsIdentity
                 {
                     dateEntree = DateTime.Parse("18-09-2010"),
-                    nom = "Nom2",
+                    nom = "Filou",
                     espece = "Chat",
                     race = "Persan",
                     sexe = "Femelle",
@@ -42,12 +42,12 @@ namespace band_apa_api.Data
                     comments = "Outre son poil long, la tête du Persan représente aussi une caractéristique typique de la race. Le crâne est rond et large, les oreilles présentent " +
                     "également une forme ronde, idéalement avec des touffes de poils sur les extrémités.Le museau des chats Persans doit être très court,.Le fameux « stop » ne doit " +
                     "être placé ni au-dessus des paupières supérieures ni en-dessous des paupières inférieures.Ce détail confère au Persan son apparence typique.",
-                    photo = "Photo2"
+                    photo = "Filou.jpg"
                 };
                 var a_i3 = new AnimalsIdentity
                 {
                     dateEntree = DateTime.Parse("17-09-2020"),
-                    nom = "Nom3",
+                    nom = "Saturne",
                     espece = "Chien",
                     race = "Rottweiler",
                     sexe = "Male",
@@ -56,12 +56,12 @@ namespace band_apa_api.Data
                     comments = "Le rottweiler est un chien solide, au corps bien musclé. C’est un chien ni pesant ni léger mais bien proportionné. Il évoque la force, la souplesse et " +
                     "l’endurance. La robe est formée par le poil de couverture et le sous - poil.Le poil de couverture est de longueur moyenne, dur au toucher, lisse et bien serré " +
                     "contre le corps.Le sous - poil ne doit pas dépasser le poil de couverture. Les poils sont un peu plus longs aux membres postérieurs.",
-                    photo = "Photo3"
+                    photo = "Saturne.jpg"
                 };
                 var a_i4 = new AnimalsIdentity
                 {
                     dateEntree = DateTime.Parse("06-12-2015"),
-                    nom = "Nom4",
+                    nom = "Ciel",
                     espece = "Chat",
                     race = "Bleu Russe",
                     sexe = "Male",
@@ -70,12 +70,12 @@ namespace band_apa_api.Data
                     comments = "Originaire de Russie comme l’indique son nom, le Bleu Russe a conquis, en quelques années, l’Europe de l’Ouest et du Nord avec son magnifique aspect, " +
                     "fait de lignes élégantes et d’un pelage aussi agréable à voir qu’à toucher. Côté caractère, il est connu pour son calme, son attachement envers son maître et son " +
                     "goût pour le jeu, sans toutefois être un chat excessivement actif.Il est aussi discret et n’est pas un grand miauleur.Il garde ses distances avec des individus étrangers.",
-                    photo = "Photo4"
+                    photo = "Ciel.jpg"
                 };
                 var a_i5 = new AnimalsIdentity
                 {
                     dateEntree = DateTime.Parse("08-11-2015"),
-                    nom = "Nom5",
+                    nom = "Sébastien",
                     espece = "Chien",
                     race = "Berger Australien",
                     sexe = "Femelle",
@@ -84,7 +84,7 @@ namespace band_apa_api.Data
                     comments = "Le Berger Australien est un chien affectueux qui ne manque pas de caractère. Chien bâti pour l’activité et le travail, le Berger Australien est doté de " +
                     "toutes les aptitudes physiques et mentales pour remplir diverses missions.De taille moyenne, agile et intelligent, il s’intègre parfaitement à la vie de famille et " +
                     "s’adapte à une variété de cadres de vie, à condition de ne pas le laisser s’ennuyer. Depuis quelques années, cette race connaît un grand succès dans le coeur des Français.",
-                    photo = "Photo4"
+                    photo = "Sébastien.jpg"
                 };
 /*
                 var a_c1 = new AssoCompte

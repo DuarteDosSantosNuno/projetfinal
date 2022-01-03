@@ -43,7 +43,10 @@
                     <p>@animal.Race</p>
                 </div> 
                 <div class="row-1 mt-auto p-2">
-                    <a class="btn btn-primary " asp-area="" asp-controller="Animal" asp-action="AnimalDetail">Detail</a>
+                    @using(Html.BeginForm("AnimalDetail"))
+                    {
+                        <a class="btn btn-primary " asp-area="" asp-controller="Animal" asp-action="AnimalDetail" asp-route-id="@animal.AiID">Detail</a>
+                    }
                 </div> 
             </div>       
         </div>

@@ -26,19 +26,34 @@ namespace ProjetFinalWebApp.Controllers
             return response;
         }
 
+            public async Task<Animal> GetAnimalById(int id)
+        {
+            var client = new HttpClient();
+            var result = await client.GetAsync($"{base_url}/api/v1/AnimalsIdentities/{id}");
+            Animal response = new Animal();
+
+            if (result.IsSuccessStatusCode)
+            {
+                var content = await result.Content.ReadAsStringAsync();
+                response = JsonConvert.DeserializeObject<Animal>(content);
+            }
+            return response;
+        }
+
         // GET: AnimalController
         public async Task<ActionResult> Index()
         {
             List<Animal> animals = new List<Animal>();
             animals = await GetAnimal();
-            //ViewBag.Animals = animals;
 
             return View(animals);
         }
 
-        public ActionResult AnimalDetail()
+        public async Task<ActionResult> AnimalDetail(int id)
         {
-            return View();
+            Animal animal = new Animal();
+            animal = await GetAnimalById(id);
+            return View(animal);
         }
 
         // GET: AnimalController/Details/5
