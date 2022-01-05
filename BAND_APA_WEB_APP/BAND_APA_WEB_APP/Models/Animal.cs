@@ -1,6 +1,4 @@
-﻿using System.Net.Http.Headers;
-
-namespace BAND_APA_WEB_APP.Models
+﻿namespace BAND_APA_WEB_APP.Models
 {
     public class Animal
     {
