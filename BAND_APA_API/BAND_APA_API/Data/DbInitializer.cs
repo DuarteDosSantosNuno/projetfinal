@@ -9,7 +9,7 @@ namespace band_apa_api.Data
     {
         public static void Initialize(ApplicationContext context)
         {
-            context.Database.EnsureDeleted();
+            //context.Database.EnsureDeleted();
             context.Database.EnsureCreated();
 
 

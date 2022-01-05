@@ -3,7 +3,7 @@ using band_apa_api.Entities;
 
 namespace band_apa_api.Data
 {
-    public class ApplicationContext : DbContext
+    public class ApplicationContext : /*Identity*/DbContext
     {
         public DbSet<AnimalsIdentity> AnimalsIdentities { get; set; }
         public DbSet<AssoCompte> AssoComptes { get; set; }

@@ -8,6 +8,7 @@ using Microsoft.OpenApi.Models;
 using band_apa_api.Data;
 using band_apa_api.Repositories;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.AspNetCore.Identity;
 
 namespace band_apa_api
 {
@@ -37,14 +38,21 @@ namespace band_apa_api
             options.UseSqlServer(Configuration.GetConnectionString("ApplicationContext")));
 
             services.AddLogging();
+           
+            
             services.AddControllers().AddNewtonsoftJson(options => options.SerializerSettings.ReferenceLoopHandling = Newtonsoft.Json.ReferenceLoopHandling.Ignore);
             services.AddDatabaseDeveloperPageExceptionFilter();
-
+            services.AddDefaultIdentity<IdentityUser>(options =>
+            {
+                //options.SignIn.RequireConfirmedEmail = true;
+                //options.SignIn.RequireConfirmedAccount = true;
+            }).AddRoles<IdentityRole>().AddEntityFrameworkStores<ApplicationContext>();
             services.AddControllers();
             services.AddSwaggerGen(c =>
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "band_apa_api", Version = "v1" });
             });
+            services.AddDirectoryBrowser();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -56,11 +64,12 @@ namespace band_apa_api
                 app.UseSwagger();
                 app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "band_apa_api v1"));
             }
-
+            app.UseAuthentication();
             app.UseHttpsRedirection();
 
             app.UseRouting();
 
+           
             app.UseAuthorization();
 
             app.UseCors(
