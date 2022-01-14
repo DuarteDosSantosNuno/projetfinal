@@ -1,0 +1,63 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "BAND_APA_WEB_APP/1.0.0": {
+        "dependencies": {
+          "Newtonsoft.Json": "13.0.1",
+          "jQuery": "3.6.0",
+          "jQuery.UI.Combined": "1.13.0"
+        },
+        "runtime": {
+          "BAND_APA_WEB_APP.dll": {}
+        }
+      },
+      "jQuery/3.6.0": {},
+      "jQuery.UI.Combined/1.13.0": {
+        "dependencies": {
+          "jQuery": "3.6.0"
+        }
+      },
+      "Newtonsoft.Json/13.0.1": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "13.0.0.0",
+            "fileVersion": "13.0.1.25517"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BAND_APA_WEB_APP/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "jQuery/3.6.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-sSzCTDWn15waSMjDrP21jjgG1j1pwISLaKiVCClwU4XGAmuZt+FScLkdyRvh9ppoIxAW/tJtJBYei+3CAwFQ7g==",
+      "path": "jquery/3.6.0",
+      "hashPath": "jquery.3.6.0.nupkg.sha512"
+    },
+    "jQuery.UI.Combined/1.13.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-qV/9Xqn3lGMYi7+WGCT0mFMvuWI9x3YldIY6gVWAT0qX64ww/lMw7O/5FOPHtM3oPQ5Nw9zo0hnNHUSZKEFCRQ==",
+      "path": "jquery.ui.combined/1.13.0",
+      "hashPath": "jquery.ui.combined.1.13.0.nupkg.sha512"
+    },
+    "Newtonsoft.Json/13.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ppPFpBcvxdsfUonNcvITKqLl3bqxWbDCZIzDWHzjpdAHRFfZe0Dw9HmA0+za13IdyrgJwpkDTDA9fHaxOrt20A==",
+      "path": "newtonsoft.json/13.0.1",
+      "hashPath": "newtonsoft.json.13.0.1.nupkg.sha512"
+    }
+  }
+}

@@ -23,8 +23,8 @@ namespace band_apa_api.Controllers
         {
             return _clientCompteRepository.FindById(id);
         }
-        [HttpGet("via/{connectIdent}/connectPwd")]
-        public ClientCompte GetByIdent(string connectIdent, string connectPwd)
+        [HttpGet("{connectIdent}/{connectPwd}")]
+        public ClientCompte GetByIdent( string connectIdent, string connectPwd)
         {
             return _clientCompteRepository.FindByIdent(connectIdent, connectPwd);
         }
@@ -40,12 +40,22 @@ namespace band_apa_api.Controllers
             OkObjectResult modifyResult = new OkObjectResult(_clientCompteRepository.Update(cl));
             return modifyResult;
         }
-        [HttpDelete("via/{connectIdent}/connectPwd")]
-        public IActionResult DeleteByIdent([FromRoute] string connectIdent, string connectPwd)
+        [HttpDelete("{connectIdent}/{connectPwd}")]
+        public IActionResult DeleteByIdent( string connectIdent, string connectPwd)
         {
             OkObjectResult deleteResult = new OkObjectResult(_clientCompteRepository.DeleteByIdent(connectIdent, connectPwd));
             return deleteResult;
         }
-       
+       [HttpGet("")]
+        public IActionResult GetAll()
+        {
+            _logger.LogDebug("Appel recu de ClientComptesController.GetAll");
+            List<ClientCompte> cc = _clientCompteRepository.FindAll();
+            _logger.LogDebug(cc.ToString());
+            if (cc == null)
+                return NotFound();
+            else
+                return Ok(cc);
+        }
     }
 }
