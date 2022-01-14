@@ -13,4 +13,8 @@
     <SourceRoot Include="C:\Users\DELL\.nuget\packages\" />
     <SourceRoot Include="C:\Program Files (x86)\Microsoft Visual Studio\Shared\NuGetPackages\" />
   </ItemGroup>
+  <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <PkgjQuery Condition=" '$(PkgjQuery)' == '' ">C:\Users\DELL\.nuget\packages\jquery\3.6.0</PkgjQuery>
+    <PkgjQuery_UI_Combined Condition=" '$(PkgjQuery_UI_Combined)' == '' ">C:\Users\DELL\.nuget\packages\jquery.ui.combined\1.13.0</PkgjQuery_UI_Combined>
+  </PropertyGroup>
 </Project>

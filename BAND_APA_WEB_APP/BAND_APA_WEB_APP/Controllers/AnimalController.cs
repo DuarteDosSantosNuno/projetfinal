@@ -37,11 +37,51 @@ namespace ProjetFinalWebApp.Controllers
             return response;
         }
 
+        public async Task<List<Animal>> FilterAnimalBySpecie(string espece)
+        {
+            var client = new HttpClient();
+            var result = await client.GetAsync($"{base_url}/api/v1/AnimalsIdentities/FindEspece/{espece}");
+            List<Animal> response = new List<Animal>();
+
+            if (result.IsSuccessStatusCode)
+            {
+                var content = await result.Content.ReadAsStringAsync();
+                response = JsonConvert.DeserializeObject<List<Animal>>(content);
+            }
+            return response;
+        }
+
         // GET: AnimalController
-        public async Task<ActionResult> Index()
+        public async Task<ActionResult> Index(string myVar)
         {
             List<Animal> animals = new List<Animal>();
-            animals = await GetAnimal();
+
+            switch(myVar)
+            {
+                case "all":
+                    animals = await GetAnimal();
+                    break;
+
+                case "specie":
+                    animals = await FilterAnimalBySpecie(myVar);
+                    break;
+
+                case "race":
+                    animals = await GetAnimal();
+                    break;
+
+                case "color":
+                    animals = await GetAnimal();
+                    break;
+
+                case "gender":
+                    animals = await GetAnimal();
+                    break;
+                
+                default:
+                    animals = await GetAnimal();
+                    break;
+            }
 
             return View(animals);
         }
@@ -51,6 +91,12 @@ namespace ProjetFinalWebApp.Controllers
             Animal animal = new Animal();
             animal = await GetAnimalById(id);
             return View(animal);
+        }
+
+        public async Task<ActionResult> Filter()
+        {
+           
+            return View();
         }
 
         // GET: AnimalController/Details/5

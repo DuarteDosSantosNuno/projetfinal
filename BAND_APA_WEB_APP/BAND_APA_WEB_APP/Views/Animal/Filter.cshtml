@@ -1,0 +1,206 @@
+﻿@model List<BAND_APA_WEB_APP.Models.Animal>
+
+
+<script type="text/javascript">
+
+    $(document).ready(function() {
+        console.log("Bonjour");
+
+        var allSpeciesCheckbox = $('div#SpeciesDropdown input[type=checkbox]');
+
+        $('div#SpeciesDropdown input[type=checkbox]').on().change(function(){
+
+            if ($(this).is(":checked")) 
+                console.log((this).id + " coché");
+            else
+                console.log((this).id + " décoché");
+
+            $('div#RacesDropdown .form-check').hide();
+            
+
+            $('div#SpeciesDropdown input[type=checkbox]:checked').each(function(){
+                var specieId = this.id;
+                $($('div#RacesDropdown .form-check')).each(function(){
+                    if(this.id == specieId)
+                        $('div#RacesDropdown div#'+specieId).show();
+                });
+            });
+            
+            if (allSpeciesCheckbox.filter(":checked").length == 0)
+            {
+                $('div#RacesDropdown .form-check').show();
+            }
+        });
+    });
+
+</script>
+
+
+<button class="btn btn-light mx-1 " type="button" data-bs-toggle="modal" data-bs-target="#filterModal">
+    <i class="fas fa-filter text-primary text-opacity-75 fa-border-none"></i>
+</button>
+
+<div class="modal fade" id="filterModal" tabindex="-1" aria-labelledby="filterModalLabel" aria-hidden="true">
+    <div class="modal-dialog ">
+        <div class="modal-content" style="font-family:Arial, Helvetica, sans-serif;">
+
+            <div class="modal-header bg-primary bg-opacity-75">
+                <h5 class="modal-title" id="filterModalLabel">Paramètres de filtrage</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+
+            @using (Html.BeginForm())
+            {
+                <div class="modal-body bg-primary bg-opacity-10 d-flex">
+
+                    @*===================================  BODY  =====================================*@
+
+                    <div id="SpeciesDropdown" class="dropdown m-1 row-1 mt-auto">
+                        <button class="btn btn-light border border-dark dropdown-toggle filterBtnHover " type="button" id="dropdownFilterSpecieButton" data-bs-toggle="dropdown" aria-expanded="false">
+                            Espèces
+                        </button>
+
+                        <ul  class="dropdown-menu" aria-labelledby="dropdownFilterSpecieButton">
+                            @foreach (var animal in Model.OrderBy(x => x.Espece).DistinctBy(i => i.Espece))
+                            {
+                                @*<li><a class="dropdown-item" asp-area="" asp-controller="Animal"
+                                    asp-action="Index" asp-route-specie="@animal.Espece.ToLower()">@animal.Espece</a></li>*@
+                                <div class="form-check m-1">
+                                    <input id="@animal.Espece" class="form-check-input" type="checkbox" value="@animal.Espece.ToLower()" id="flexCheckDefault" CssClass="specie">
+                                    <label class="form-check-label" for="flexCheckDefault">
+                                        @animal.Espece
+                                    </label>
+                                </div>
+                            }
+                        </ul>
+                    </div>
+
+                    <div id="RacesDropdown" class="dropdown m-1 row-1 mt-auto">
+                        <button class="btn btn-light border border-dark dropdown-toggle filterBtnHover" type="button" id="dropdownFilterRaceButton" data-bs-toggle="dropdown" aria-expanded="false">
+                            Races
+                        </button>
+                        <ul class="dropdown-menu" aria-labelledby="dropdownFilterRaceButton">
+                            @foreach (var animal in Model.OrderBy(x => x.Race).DistinctBy(i => i.Race))
+                            {
+                                @*<li><a class="dropdown-item" asp-area="" asp-controller="Animal"
+                                    asp-action="Index" asp-route-specie="@animal.Race.ToLower()">@animal.Race</a></li>*@
+                                <div id="@animal.Espece" class="form-check m-1">
+                                    <input class="form-check-input" type="checkbox" value="@animal.Race.ToLower()" id="flexCheckDefault">
+                                    <label class="form-check-label" for="flexCheckDefault">
+                                        @animal.Race
+                                    </label>
+                                </div>
+                            }
+                        </ul>
+                    </div>
+
+                    <div class="dropdown m-1 row-1 mt-auto">
+                        <button class="btn btn-light border border-dark dropdown-toggle filterBtnHover" type="button" id="dropdownFilterGenderButton" data-bs-toggle="dropdown" aria-expanded="false">
+                            Sexe
+                        </button>
+                        <ul class="dropdown-menu" aria-labelledby="dropdownFilterRaceButton">
+                            @foreach (var animal in Model.OrderBy(x => x.Sexe).DistinctBy(i => i.Sexe))
+                            {
+                                @*<li><a class="dropdown-item" asp-area="" asp-controller="Animal"
+                                    asp-action="Index" asp-route-specie="@animal.Race.ToLower()">@animal.Race</a></li>*@
+                                <div class="form-check m-1">
+                                    <input class="form-check-input" type="checkbox" value="@animal.Sexe.ToLower()" id="flexCheckDefault">
+                                    <label class="form-check-label" for="flexCheckDefault">
+                                        @animal.Sexe
+                                    </label>
+                                </div>
+                            }
+                        </ul>
+                    </div>
+
+                    <div class="dropdown m-1 row-1 mt-auto">
+                        <button class="btn btn-light border border-dark dropdown-toggle filterBtnHover" type="button" id="dropdownFilterColorButton" data-bs-toggle="dropdown" aria-expanded="false">
+                            Couleurs
+                        </button>
+                        <ul class="dropdown-menu dropdown-menu-large" aria-labelledby="dropdownFilterRaceButton">
+                            @foreach (var animal in Model.OrderBy(x => x.Couleur).DistinctBy(i => i.Couleur))
+                            {
+                                @*<li><a class="dropdown-item" asp-area="" asp-controller="Animal"
+                                    asp-action="Index" asp-route-specie="@animal.Race.ToLower()">@animal.Race</a></li>*@
+
+                                <div class="form-check m-1">
+                                    <input class="form-check-input" type="checkbox" value="@animal.Couleur.ToLower()" id="flexCheckDefault">
+                                    <label class="form-check-label" for="flexCheckDefault">
+                                        @animal.Couleur
+                                    </label>
+                                </div>
+
+                            }
+                        </ul>
+                    </div>
+
+                    @*=================================  END BODY  ===================================*@
+
+                </div>
+
+                <div class="modal-footer bg-primary bg-opacity-10">
+                    @using (Html.BeginForm("Index"))
+                    {
+                        <button class="btn btn-light btn-outline-success " type="submit" data-bs-dismiss="modal"
+                        @*asp-area="" asp-controller="Animal" asp-action="Index" asp-route-submit="send"*@>
+                            Valider
+                        </button>
+                    }
+                </div>
+            }
+        </div>
+    </div>
+</div>
+
+
+<button class="btn btn-light dropdown-toggle mx-1" type="button" id="dropdownSortSpecieButton" data-bs-toggle="dropdown" aria-expanded="false">
+    <i class="fas fa-sort text-primary text-opacity-75 fa-border-none"></i>
+</button>
+
+<ul class="dropdown-menu" aria-labelledby="dropdownSortSpecieButton" style="font-family:Arial, Helvetica, sans-serif;">
+    <li>
+        <a class="dropdown-item" asp-area="" asp-controller="Animal"
+           asp-action="Index" asp-route-sort="nomUp">Nom(&#129045;)</a>
+    </li>
+    <li><hr class="dropdown-divider" /></li>
+    <li>
+        <a class="dropdown-item" asp-area="" asp-controller="Animal"
+           asp-action="Index" asp-route-sort="nomDown">Nom(&#129047;)</a>
+    </li>
+    <li><hr class="dropdown-divider" /></li>
+    <li>
+        <a class="dropdown-item" asp-area="" asp-controller="Animal"
+           asp-action="Index" asp-route-sort="dateUp">Date(&#129045;)</a>
+    </li>
+    <li><hr class="dropdown-divider" /></li>
+    <li>
+        <a class="dropdown-item" asp-area="" asp-controller="Animal"
+           asp-action="Index" asp-route-sort="dateDown">Date(&#129047;)</a>
+    </li>
+    <li><hr class="dropdown-divider" /></li>
+    <li>
+        <a class="dropdown-item" asp-area="" asp-controller="Animal"
+           asp-action="Index" asp-route-sort="ageUp">Age(&#129045;)</a>
+    </li>
+    <li><hr class="dropdown-divider" /></li>
+    <li>
+        <a class="dropdown-item" asp-area="" asp-controller="Animal"
+           asp-action="Index" asp-route-sort="ageDown">Age(&#129047;)</a>
+    </li>
+</ul>
+
+
+
+@*<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+    <script type="text/javascript">
+    $(function () {
+    $('.specie').on('click', function () {
+    if ($('#Chien').is(":checked") || $('#Chat').is(":checked")) {
+    $('[id*=dropdownFilterRaceButton]').removeAttr("disabled");
+    }
+    else {
+    $('[id*=dropdownFilterRaceButton]').attr("disabled", "disabled");
+    }
+    });
+    });
+    </script>*@

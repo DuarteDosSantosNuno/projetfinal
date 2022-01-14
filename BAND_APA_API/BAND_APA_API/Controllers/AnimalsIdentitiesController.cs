@@ -19,7 +19,7 @@ namespace band_apa_api.Controllers
         }
         // GET: Animals_IdentityControllers
         [HttpGet("")]
-        public IActionResult GetAll()
+        public IActionResult GetAll(/*string tri = null, string filtre = null*/)
         {
             _logger.LogDebug("Appel recu de AnimalsIdentitiesController.GetAll");
             List<AnimalsIdentity> ai = _animalsIdentityRepository.FindAll();

@@ -10,7 +10,7 @@ using band_apa_api.Data;
 namespace BAND_APA_API.Migrations
 {
     [DbContext(typeof(ApplicationContext))]
-    [Migration("20220105074446_init")]
+    [Migration("20220110071859_init")]
     partial class init
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
