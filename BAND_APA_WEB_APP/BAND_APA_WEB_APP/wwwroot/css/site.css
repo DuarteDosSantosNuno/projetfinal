@@ -16,3 +16,16 @@ html {
 body {
   margin-bottom: 60px;
 }
+
+.filterBtnHover:hover {
+    background: #DDDDDD;
+    box-shadow: black 1px 1px;
+}
+
+.dropdown-menu-large{
+    width: 300px;
+}
+
+/*fas{
+    border: none;
+}*/
