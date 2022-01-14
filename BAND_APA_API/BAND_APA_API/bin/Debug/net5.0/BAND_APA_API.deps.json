@@ -31,7 +31,7 @@
   },
   "targets": {
     ".NETCoreApp,Version=v5.0": {
-      "BAND_APA_API/1.0.0": {
+      "band_apa_api/1.0.0": {
         "dependencies": {
           "Microsoft.AspNetCore.Authentication.JwtBearer": "5.0.13",
           "Microsoft.AspNetCore.Cors": "2.2.0",
@@ -328,10 +328,10 @@
           "WindowsBase": "4.0.0.0"
         },
         "runtime": {
-          "BAND_APA_API.dll": {}
+          "band_apa_api.dll": {}
         },
         "compile": {
-          "BAND_APA_API.dll": {}
+          "band_apa_api.dll": {}
         }
       },
       "Humanizer.Core/2.8.26": {
@@ -4243,7 +4243,7 @@
     }
   },
   "libraries": {
-    "BAND_APA_API/1.0.0": {
+    "band_apa_api/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

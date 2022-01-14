@@ -1,0 +1,83 @@
+﻿@model BAND_APA_WEB_APP.Models.Animal
+
+@{
+    var imagePath = "";
+    var newFileName = "";
+
+    newFileName = "Woofy.jpg";
+    imagePath = @Url.Content($"~/Ressources/ImagesAnimals/{newFileName}");
+    
+    ViewData["Title"] = $"Detail de {@Model.Nom}";
+}
+<div class="text-center">
+    <br />
+    <h2 class="display-5">BAND APA</h2>
+    <br/>
+    <h3 class="display-5">Carctéristiques de l'animal</h3>
+</div>
+<nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
+    <div class="container-fluid">
+        <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index"></a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+            <ul class="navbar-nav d-flex justify-content-end">
+                <li class="nav-item btn-sm">
+                    <a class="nav-link text-light btn btn-primary p-1" asp-area="" asp-controller="Animal" asp-action="Index">Adoter un animal</a>
+                </li>
+            </ul>
+            <ul class="navbar-nav d-flex justify-content-end">
+                <li class="nav-item btn-sm">
+                    <a class="nav-link text-light btn btn-primary p-1 " asp-area="" asp-controller="User" asp-action="Index">Profil</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</nav>
+<div class="container d-flex mb-2 mt-2 p-2">
+            <div class="col-xl-4">
+                <div>
+                    <img src="~/Ressources/ImagesAnimals/@Model.Photo" runat="server" width="364" height="222"/>
+                </div>                       
+            </div>        
+            <div class="col-6 d-flex flex-column">
+                <div class="row-1 p-2">
+                    <h3>@Model.Nom</h3>
+                </div>
+                <div class="row-1 d-flex mx-2">
+                    <h6>Espèce : </h6>
+                    <p>@Model.Espece</p>
+                </div> 
+                <div class="row-1 d-flex mx-2">
+                    <h6>Race : </h6>
+                    <p>@Model.Race</p>
+                </div>
+                <div class="row-1 d-flex mx-2">
+                    <h6>Date d'entrée : </h6>
+                    <p>@Model.DateEntree</p>
+                </div>
+                <div class="row-1 d-flex mx-2">
+                    <h6>Age : </h6>
+                    <p>@Model.Age</p>
+                </div>
+                <div class="row-1 d-flex mx-2">
+                    <h6>Sexe : </h6>
+                    <p>@Model.Sexe</p>
+                </div>
+                <div class="row-1 d-flex mx-2">
+                    <h6>Couleur : </h6>
+                    <p>@Model.Couleur</p>
+                </div>
+                <div class="row-1 d-flex mx-2">
+                    <h6>Description : </h6>
+                    <p>@Model.Comments</p>
+                </div>
+                
+                <div class="row-1 mt-auto p-2">
+                    <a class="btn btn-primary " asp-area="" asp-controller="Animal" asp-action="FormulaireAdoption" asp-route-id="@Model.AiID">Adopter</a>
+                    <a class="btn btn-primary " asp-area="" asp-controller="Animal" asp-action="Index">Retour</a>
+                </div> 
+            </div>       
+        </div>

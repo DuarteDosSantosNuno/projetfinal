@@ -1,0 +1,43 @@
+﻿@model List<BAND_APA_WEB_APP.Models.User>
+
+@{
+    ViewData["Title"] = "Menu Utilisateur";
+    List<User> users = (List<User>)ViewData["users"];
+}
+
+<div class="text-center">
+    <h1 class="display-4">Menu Utilisateurs</h1>
+   @if (Model.Count > 0)
+        {
+            <table class="table table-striped">
+                <thead>
+                    <tr>
+                        <th>Id</th>
+                        <th>Nom</th>
+                        <th>Prenom</th>
+                        <th>eMail</th>
+                        <th>Téléphone</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (User cc in Model)
+                    {
+                        <tr>
+                            <td><a asp-controller="User" asp-action="Details" asp-route-id="@cc.clientID">@cc.clientID</a></td>
+                            <td>@cc.nom</td>
+                            <td>@cc.prenom</td>
+                            <td>@cc.eMail</td>
+                            <td>@cc.telephone</td>
+                            <td><a asp-controller="User" asp-action="Delete" asp-route-id="@cc.clientID"><i class="fas fa-trash"></i></a></td>
+                            <td><a asp-controller="User" asp-action="Edit" asp-route-id="@cc.clientID"><i class="fas fa-edit"></i></a></td>
+                        </tr>
+                    }
+                    <a asp-controller="User" asp-action="UserIdentification">Identification</a>
+                </tbody>
+            </table>
+        }
+        else
+        {
+            <h3>pas de données</h3>
+        }
+</div>

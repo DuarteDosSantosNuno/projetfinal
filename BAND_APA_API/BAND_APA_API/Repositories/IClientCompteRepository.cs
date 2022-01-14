@@ -10,5 +10,6 @@ namespace band_apa_api.Repositories
         public ClientCompte Create(ClientCompte newClientCompte);
         public bool Update(ClientCompte newClientCompte);
         public bool DeleteByIdent(string connectIdent, string connectPwd);
+        public List<ClientCompte> FindAll();
     }
 }

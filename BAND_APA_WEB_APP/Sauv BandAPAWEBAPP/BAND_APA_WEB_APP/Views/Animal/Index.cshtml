@@ -1,0 +1,56 @@
+﻿@model List<BAND_APA_WEB_APP.Models.Animal>
+
+@{
+    ViewData["Title"] = "Adopter un animal";
+
+    var imagePath = "";
+    var newFileName = "";
+
+    newFileName = "Woofy.jpg";
+    imagePath = @Url.Content($"~/Ressources/ImagesAnimals/{newFileName}");
+}
+
+<div class="text-left my-4">
+    <h1 class="display-4">Adopter un Animal</h1>
+</div>
+
+<div>
+    <div class="p-1 bg-primary text-light" >
+        <div class="row-1 mt-auto p-2 d-flex justify-content-end">
+            <input type="button" class="btn btn-light mx-1" value="Trier"/>
+            <input type="button" class="btn btn-light mx-1" value="Organiser"/>
+        </div> 
+    </div>
+
+    @foreach (var animal in Model)
+    {
+        <div class="container d-flex mb-2 mt-2 border border-secondary bg-lightblue p-2">
+            <div class="col-xl-4 d-flex flex-column">
+                <div class="row-1">
+                    <img src="~/Ressources/ImagesAnimals/@animal.Photo" runat="server" width="364" height="222"/>
+                </div>                       
+            </div>        
+            <div class="col-8 d-flex flex-column ">
+                <div class="row-1 p-2">
+                    <h3>@animal.Nom</h3>
+                </div>
+                <div class="row-1 d-flex mx-2">
+                    <h6>Espèce : </h6>
+                    <p>@animal.Espece</p>
+                </div> 
+                <div class="row-1 d-flex mx-2">
+                    <h6>Race : </h6>
+                    <p>@animal.Race</p>
+                </div> 
+                <div class="row-1 mt-auto p-2">
+                    @using(Html.BeginForm("AnimalDetail"))
+                    {
+                        <a class="btn btn-primary " asp-area="" asp-controller="Animal" asp-action="AnimalDetail" asp-route-id="@animal.AiID">Detail</a>
+                    }
+                </div> 
+            </div>       
+        </div>
+    }
+    
+    
+</div>

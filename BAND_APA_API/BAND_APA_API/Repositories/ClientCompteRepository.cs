@@ -58,6 +58,10 @@ namespace band_apa_api.Repositories
             _applicationContext.SaveChanges();
             return true;
         }
-
+        public List<ClientCompte> FindAll()
+        {
+            //_logger.LogInformation("Info : test");
+            return _applicationContext.ClientComptes.ToList();
+        }
     }
 }

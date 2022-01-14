@@ -1,0 +1,43 @@
+﻿@model BAND_APA_WEB_APP.Models.User
+
+@{
+    ViewData["Title"] = "Authentification";
+
+}
+<div class="text-center">
+    <br />
+    <h2 class="display-5">BAND APA</h2>
+    <br />
+    <h3 class="display-5">Authentification</h3>
+</div>
+
+<hr />
+<br />
+<br />
+<div class="row flex-column align-content-center">
+    <div class="col-md-4">
+        <form asp-controller="User" asp-action="UserConnection" method="get">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+            <div class="form-group">
+                <label asp-for="connectIdent" class="control-label">Identifiant</label>
+                <input asp-for="connectIdent" class="form-control" />
+                <span asp-validation-for="connectIdent" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+
+                <label asp-for="connectPwd" class="control-label">Password</label>
+                <input asp-for="connectPwd" class="form-control" />
+                <span asp-validation-for="connectPwd" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="UserConnection" class="btn btn-primary" />
+            </div>
+            <br />
+            <a asp-controller="User" asp-action="Create">Création de compte</a>
+            <br />
+            <a asp-controller="Home" asp-action="Index">Back</a>
+        </form>
+    </div>
+</div>
+
