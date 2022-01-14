@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HUVOec13G16omayjUPA7IYJI+GMOthCeBZsJqwXkETcmo4GUW46Eim0V3sIGjsUTp4t7AWv6q6x+T+edLl1y0g==",
+  "dgSpecHash": "3R2Pfixiw9ZyAv5nMQmyKDHnEsm+Hkvt1Y4mYK+5AV8FrmS6z7oM9XbDQCr+RNIzzDAk7zk7QHJTOlthlp88VA==",
   "success": true,
-  "projectFilePath": "C:\\EnvDev\\.net\\WorkSpaces\\projetfinal\\BAND_APA_API\\BAND_APA_API\\band_apa_api.csproj",
+  "projectFilePath": "F:\\ProjetNo5bis\\projetfinal\\BAND_APA_API\\BAND_APA_API\\band_apa_api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\d_wal\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\d_wal\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\5.0.13\\microsoft.aspnetcore.authentication.jwtbearer.5.0.13.nupkg.sha512",

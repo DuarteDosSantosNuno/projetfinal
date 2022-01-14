@@ -15,6 +15,54 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = F:\ProjetNo5bis\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP
 build_property._RazorSourceGeneratorDebug = 
 
+[F:/ProjetNo5bis/projetfinal/BAND_APA_WEB_APP/BAND_APA_WEB_APP/BAND_APA_WEB_APP/Views/Animal/AnimalDetail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QkFORF9BUEFfV0VCX0FQUFxWaWV3c1xBbmltYWxcQW5pbWFsRGV0YWlsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/ProjetNo5bis/projetfinal/BAND_APA_WEB_APP/BAND_APA_WEB_APP/BAND_APA_WEB_APP/Views/Animal/FormulaireAdoption.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QkFORF9BUEFfV0VCX0FQUFxWaWV3c1xBbmltYWxcRm9ybXVsYWlyZUFkb3B0aW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/ProjetNo5bis/projetfinal/BAND_APA_WEB_APP/BAND_APA_WEB_APP/BAND_APA_WEB_APP/Views/Animal/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QkFORF9BUEFfV0VCX0FQUFxWaWV3c1xBbmltYWxcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/ProjetNo5bis/projetfinal/BAND_APA_WEB_APP/BAND_APA_WEB_APP/BAND_APA_WEB_APP/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QkFORF9BUEFfV0VCX0FQUFxWaWV3c1xIb21lXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/ProjetNo5bis/projetfinal/BAND_APA_WEB_APP/BAND_APA_WEB_APP/BAND_APA_WEB_APP/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QkFORF9BUEFfV0VCX0FQUFxWaWV3c1xIb21lXFByaXZhY3kuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/ProjetNo5bis/projetfinal/BAND_APA_WEB_APP/BAND_APA_WEB_APP/BAND_APA_WEB_APP/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QkFORF9BUEFfV0VCX0FQUFxWaWV3c1xTaGFyZWRcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/ProjetNo5bis/projetfinal/BAND_APA_WEB_APP/BAND_APA_WEB_APP/BAND_APA_WEB_APP/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QkFORF9BUEFfV0VCX0FQUFxWaWV3c1xTaGFyZWRcX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/ProjetNo5bis/projetfinal/BAND_APA_WEB_APP/BAND_APA_WEB_APP/BAND_APA_WEB_APP/Views/User/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QkFORF9BUEFfV0VCX0FQUFxWaWV3c1xVc2VyXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/ProjetNo5bis/projetfinal/BAND_APA_WEB_APP/BAND_APA_WEB_APP/BAND_APA_WEB_APP/Views/User/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QkFORF9BUEFfV0VCX0FQUFxWaWV3c1xVc2VyXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/ProjetNo5bis/projetfinal/BAND_APA_WEB_APP/BAND_APA_WEB_APP/BAND_APA_WEB_APP/Views/User/UserConnection.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QkFORF9BUEFfV0VCX0FQUFxWaWV3c1xVc2VyXFVzZXJDb25uZWN0aW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/ProjetNo5bis/projetfinal/BAND_APA_WEB_APP/BAND_APA_WEB_APP/BAND_APA_WEB_APP/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QkFORF9BUEFfV0VCX0FQUFxWaWV3c1xfVmlld0ltcG9ydHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/ProjetNo5bis/projetfinal/BAND_APA_WEB_APP/BAND_APA_WEB_APP/BAND_APA_WEB_APP/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QkFORF9BUEFfV0VCX0FQUFxWaWV3c1xfVmlld1N0YXJ0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [F:/ProjetNo5bis/projetfinal/BAND_APA_WEB_APP/BAND_APA_WEB_APP/Views/Animal/AnimalDetail.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQW5pbWFsXEFuaW1hbERldGFpbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
@@ -50,6 +98,10 @@ build_metadata.AdditionalFiles.CssScope =
 [F:/ProjetNo5bis/projetfinal/BAND_APA_WEB_APP/BAND_APA_WEB_APP/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
+
+[F:/ProjetNo5bis/projetfinal/BAND_APA_WEB_APP/BAND_APA_WEB_APP/BAND_APA_WEB_APP/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QkFORF9BUEFfV0VCX0FQUFxWaWV3c1xTaGFyZWRcX0xheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = b-sthqyi4qwp
 
 [F:/ProjetNo5bis/projetfinal/BAND_APA_WEB_APP/BAND_APA_WEB_APP/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\EnvDev\\.net\\WorkSpaces\\projetfinal\\BAND_APA_API\\BAND_APA_API\\band_apa_api.csproj": {}
+    "F:\\ProjetNo5bis\\projetfinal\\BAND_APA_API\\BAND_APA_API\\band_apa_api.csproj": {}
   },
   "projects": {
-    "C:\\EnvDev\\.net\\WorkSpaces\\projetfinal\\BAND_APA_API\\BAND_APA_API\\band_apa_api.csproj": {
+    "F:\\ProjetNo5bis\\projetfinal\\BAND_APA_API\\BAND_APA_API\\band_apa_api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\EnvDev\\.net\\WorkSpaces\\projetfinal\\BAND_APA_API\\BAND_APA_API\\band_apa_api.csproj",
+        "projectUniqueName": "F:\\ProjetNo5bis\\projetfinal\\BAND_APA_API\\BAND_APA_API\\band_apa_api.csproj",
         "projectName": "band_apa_api",
-        "projectPath": "C:\\EnvDev\\.net\\WorkSpaces\\projetfinal\\BAND_APA_API\\BAND_APA_API\\band_apa_api.csproj",
+        "projectPath": "F:\\ProjetNo5bis\\projetfinal\\BAND_APA_API\\BAND_APA_API\\band_apa_api.csproj",
         "packagesPath": "C:\\Users\\d_wal\\.nuget\\packages\\",
-        "outputPath": "C:\\EnvDev\\.net\\WorkSpaces\\projetfinal\\BAND_APA_API\\BAND_APA_API\\obj\\",
+        "outputPath": "F:\\ProjetNo5bis\\projetfinal\\BAND_APA_API\\BAND_APA_API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
