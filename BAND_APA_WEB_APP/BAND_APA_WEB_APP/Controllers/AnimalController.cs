@@ -1,29 +1,58 @@
 ﻿using BAND_APA_WEB_APP.Models;
 using Microsoft.AspNetCore.Mvc;
 using Newtonsoft.Json;
+using System.Collections.Generic;
+using System.Diagnostics;
+using System.Text;
 
 namespace ProjetFinalWebApp.Controllers
 {
     public class AnimalController : Controller
     {
         private static string base_url = "https://localhost:44356";
-        
 
-        public async Task<List<Animal>> GetAnimal()
+        public async Task<List<Animal>> GetAnimal(Dictionary<string, List<string>> filter = null)
         {
             var client = new HttpClient();
-            var result = await client.GetAsync($"{base_url}/api/v1/AnimalsIdentities");
             List<Animal> response = new List<Animal>();
 
-            if (result.IsSuccessStatusCode)
+            if (filter["especes"].Count == 0 && filter["races"].Count == 0 && filter["sexes"].Count == 0 && filter["couleurs"].Count == 0)
             {
-                var content = await result.Content.ReadAsStringAsync();
-                response = JsonConvert.DeserializeObject<List<Animal>>(content);
+                var result = await client.GetAsync($"{base_url}/api/v1/AnimalsIdentities");
+
+                if (result.IsSuccessStatusCode)
+                {
+                    var content = await result.Content.ReadAsStringAsync();
+                    response = JsonConvert.DeserializeObject<List<Animal>>(content);
+                }
+
+                return response;
+            }               
+            else
+            {
+                if (filter["especes"].Count == 0)
+                    filter.Remove("especes");
+                if (filter["races"].Count == 0)
+                    filter.Remove("races");
+                if (filter["sexes"].Count == 0)
+                    filter.Remove("sexes");
+                if (filter["couleurs"].Count == 0)
+                    filter.Remove("couleurs");
+
+                var json = JsonConvert.SerializeObject(filter);
+                var result = await client.PostAsync($"{base_url}/api/v1/AnimalsIdentities/FindWithFilter", new StringContent(json, Encoding.UTF8, "application/json"));
+
+                if (result.IsSuccessStatusCode)
+                {
+                    var content = await result.Content.ReadAsStringAsync();
+                    response = JsonConvert.DeserializeObject<List<Animal>>(content);
+                }
+
+                return response;
             }
-            return response;
         }
 
-            public async Task<Animal> GetAnimalById(int id)
+        public async Task<Animal> GetAnimalById(int id)
         {
             var client = new HttpClient();
             var result = await client.GetAsync($"{base_url}/api/v1/AnimalsIdentities/{id}");
@@ -37,66 +66,71 @@ namespace ProjetFinalWebApp.Controllers
             return response;
         }
 
-        public async Task<List<Animal>> FilterAnimalBySpecie(string espece)
+        //public async Task<List<Animal>> FilterAnimalBySpecie(string espece)
+        //{
+        //    var client = new HttpClient();
+        //    var result = await client.GetAsync($"{base_url}/api/v1/AnimalsIdentities/FindEspece/{espece}");
+        //    List<Animal> response = new List<Animal>();
+
+        //    if (result.IsSuccessStatusCode)
+        //    {
+        //        var content = await result.Content.ReadAsStringAsync();
+        //        response = JsonConvert.DeserializeObject<List<Animal>>(content);
+        //    }
+
+        //    return response;
+        //}
+
+        public async Task<List<Animal>> GetFiltersSelectors()
         {
             var client = new HttpClient();
-            var result = await client.GetAsync($"{base_url}/api/v1/AnimalsIdentities/FindEspece/{espece}");
             List<Animal> response = new List<Animal>();
+            var result = await client.GetAsync($"{base_url}/api/v1/AnimalsIdentities");
 
             if (result.IsSuccessStatusCode)
             {
                 var content = await result.Content.ReadAsStringAsync();
                 response = JsonConvert.DeserializeObject<List<Animal>>(content);
             }
+
             return response;
         }
 
-        // GET: AnimalController
-        public async Task<ActionResult> Index(string myVar)
+
+        public async Task<ActionResult> Index(List<string> especes , List<string> races, List<string> sexes, List<string> couleurs)
         {
             List<Animal> animals = new List<Animal>();
+            List<Animal> filtersSelectors = new List<Animal>();
+            Dictionary<string, List<string>> filters = new Dictionary<string, List<string>>();
+            
+            filters.Add("especes", especes);
+            filters.Add("races", races);
+            filters.Add("sexes", sexes);
+            filters.Add("couleurs", couleurs);
 
-            switch(myVar)
-            {
-                case "all":
-                    animals = await GetAnimal();
-                    break;
+            animals = await GetAnimal(filters);
+            filtersSelectors = await GetFiltersSelectors();
 
-                case "specie":
-                    animals = await FilterAnimalBySpecie(myVar);
-                    break;
-
-                case "race":
-                    animals = await GetAnimal();
-                    break;
-
-                case "color":
-                    animals = await GetAnimal();
-                    break;
-
-                case "gender":
-                    animals = await GetAnimal();
-                    break;
-                
-                default:
-                    animals = await GetAnimal();
-                    break;
-            }
-
-            return View(animals);
+            IndexViewModel indexModel = new IndexViewModel(animals, filtersSelectors);
+            return View(indexModel);            
         }
+
+        
+
+        //[HttpPost]
+        //public async Task<ActionResult> Index(Dictionary<string, Boolean>? filter = null)
+        //{
+        //    List<Animal> animals = new List<Animal>();
+        //    animals = await GetAnimal(filter);
+
+        //    return View(animals);
+        //}
 
         public async Task<ActionResult> AnimalDetail(int id)
         {
             Animal animal = new Animal();
             animal = await GetAnimalById(id);
             return View(animal);
-        }
-
-        public async Task<ActionResult> Filter()
-        {
-           
-            return View();
         }
 
         // GET: AnimalController/Details/5
