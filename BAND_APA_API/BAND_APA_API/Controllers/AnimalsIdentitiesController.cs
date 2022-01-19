@@ -19,15 +19,24 @@ namespace band_apa_api.Controllers
         }
         // GET: Animals_IdentityControllers
         [HttpGet("")]
-        public IActionResult GetAll(/*string tri = null, string filtre = null*/)
+        public IActionResult GetAll()
         {
-            _logger.LogDebug("Appel recu de AnimalsIdentitiesController.GetAll");
-            List<AnimalsIdentity> ai = _animalsIdentityRepository.FindAll();
-            _logger.LogDebug(ai.ToString());
-            if (ai == null)
-                return NotFound();
-            else
-                return Ok(ai);
+            
+                _logger.LogDebug("Appel recu de AnimalsIdentitiesController.GetAll");
+                List<AnimalsIdentity> ai = _animalsIdentityRepository.FindAll();
+                _logger.LogDebug(ai.ToString());
+                if (ai == null)
+                    return NotFound();
+                else
+                    return Ok(ai);
+            
+          
+        }
+        
+        [HttpPost("FindWithFilter")]
+        public IActionResult FindWithFilter([FromBody]Dictionary<string,List<string>> filtres= null)
+        {
+            return Ok(_animalsIdentityRepository.FindFilters(filtres));         
         }
         [HttpGet("{id:int}")]
         public AnimalsIdentity GetById(int id)

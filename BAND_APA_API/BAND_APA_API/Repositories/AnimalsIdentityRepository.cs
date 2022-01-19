@@ -76,5 +76,17 @@ namespace band_apa_api.Repositories
             _applicationContext.SaveChanges();
             return true;
         }
+
+        public List<AnimalsIdentity> FindFilters(Dictionary<string, List<string>> filtres)
+        {
+
+            List<AnimalsIdentity> resultats = _applicationContext.AnimalsIdentities.AsQueryable().Where(a => 
+                (!filtres.ContainsKey("races") || (filtres.ContainsKey("races") && filtres["races"].Contains(a.race))) &&
+                (!filtres.ContainsKey("especes") || (filtres.ContainsKey("especes") && filtres["especes"].Contains(a.espece)))  &&
+                (!filtres.ContainsKey("sexes") || (filtres.ContainsKey("sexes") && filtres["sexes"].Contains(a.sexe))) &&
+                (!filtres.ContainsKey("couleurs") || (filtres.ContainsKey("couleurs") && filtres["couleurs"].Contains(a.couleur)))
+            ).ToList();
+            return resultats;
+        }
     }
 }

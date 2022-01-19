@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "jgprKbjfacOx6nOEts3jo8K83/lX42B3ZhHrgZIagh4=",
+  "Hash": "qVEBhDWvQqeAq2TXG+F5BxyC9UVXaZ4FLDdICdw1A1k=",
   "Source": "BAND_APA_WEB_APP",
   "BasePath": "_content/BAND_APA_WEB_APP",
   "Mode": "Default",
@@ -51,6 +51,23 @@
       "OriginalItemSpec": "C:\\Users\\DELL\\Documents\\Git\\projetfinal\\BAND_APA_WEB_APP\\BAND_APA_WEB_APP\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\BAND_APA_WEB_APP.bundle.scp.css"
     },
     {
+      "Identity": "C:\\Users\\DELL\\Documents\\Git\\projetfinal\\BAND_APA_WEB_APP\\BAND_APA_WEB_APP\\wwwroot\\animalicon.ico",
+      "SourceId": "BAND_APA_WEB_APP",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\Git\\projetfinal\\BAND_APA_WEB_APP\\BAND_APA_WEB_APP\\wwwroot\\",
+      "BasePath": "_content/BAND_APA_WEB_APP",
+      "RelativePath": "animalicon.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\animalicon.ico"
+    },
+    {
       "Identity": "C:\\Users\\DELL\\Documents\\Git\\projetfinal\\BAND_APA_WEB_APP\\BAND_APA_WEB_APP\\wwwroot\\css\\site.css",
       "SourceId": "BAND_APA_WEB_APP",
       "SourceType": "Discovered",
@@ -66,23 +83,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
-    },
-    {
-      "Identity": "C:\\Users\\DELL\\Documents\\Git\\projetfinal\\BAND_APA_WEB_APP\\BAND_APA_WEB_APP\\wwwroot\\favicon.ico",
-      "SourceId": "BAND_APA_WEB_APP",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Documents\\Git\\projetfinal\\BAND_APA_WEB_APP\\BAND_APA_WEB_APP\\wwwroot\\",
-      "BasePath": "_content/BAND_APA_WEB_APP",
-      "RelativePath": "favicon.ico",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
       "Identity": "C:\\Users\\DELL\\Documents\\Git\\projetfinal\\BAND_APA_WEB_APP\\BAND_APA_WEB_APP\\wwwroot\\js\\site.js",

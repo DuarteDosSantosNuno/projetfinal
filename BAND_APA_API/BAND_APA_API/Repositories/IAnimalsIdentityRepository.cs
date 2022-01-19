@@ -7,6 +7,7 @@ namespace band_apa_api.Repositories
     {
         public List<AnimalsIdentity> FindAll();
         public AnimalsIdentity FindById (int id);
+        public List<AnimalsIdentity> FindFilters(Dictionary<string,List<string>> filtres);
         public List<AnimalsIdentity> FindBySexe (string sex);
         public List<AnimalsIdentity> FindByEspece(string espece);
         public List<AnimalsIdentity> FindByRace(string race);
