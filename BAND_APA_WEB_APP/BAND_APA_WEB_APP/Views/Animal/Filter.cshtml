@@ -2,20 +2,15 @@
 
 
 <script type="text/javascript">
-    var filter = {};
 
     $(document).ready(function() {
         var allSpeciesCheckbox = $('div#SpeciesDropdown input[type=checkbox]');
 
         $('div#SpeciesDropdown input[type=checkbox]').on().change(function(){
-            filter = {};
-
             $('div#RacesDropdown .form-check').hide();
 
             $('div#SpeciesDropdown input[type=checkbox]:checked').each(function(){
                 var specieId = this.id;
-
-                filter[this.id] = true;
 
                 $($('div#RacesDropdown .form-check')).each(function(){
                     if(this.id == specieId)
@@ -23,28 +18,93 @@
                 });
             });
 
-            console.log(filter);
-
-            if (allSpeciesCheckbox.filter(":checked").length == 0)
-            {
+            if (allSpeciesCheckbox.filter(":checked").length == 0){
                 $('div#RacesDropdown .form-check').show();
             }
         });
 
-        //$("#sendFilter").click(function() {
-        //    event.preventDefault();
+        $(".dropdown-item").on('click',function() {
+            var id = this.id;
+            $(".dropdown-item .fa-check").css({"opacity": "0%"});
+            $("#" + id + " .fa-check").css({"opacity": "100%"});
 
-        //    if ($(this).valid())
-        //    {
-        //        $.ajax({
-        //            url: 'https://localhost:7247/Animal',
-        //            data: filter,
-        //            type: "post",
-        //            cache: false,
-        //        });
-        //    }
-        //    return false;
-        //});
+            if(id == "nameUp")
+            {
+                $(".animalPanel").sort(function(a, b){
+                    var elementA = a.dataset.animal;
+                    var elementB = b.dataset.animal;
+                    if(elementA > elementB)
+                        return 1; 
+                    else
+                       return elementA === elementB ? 0 : -1;
+                }).appendTo($(".animalsWindow"));
+            }
+
+            if(id == "nameDown")
+            {
+                $(".animalPanel").sort(function(a, b){
+                    var elementA = a.dataset.animal;
+                    var elementB = b.dataset.animal;
+                    if(elementA < elementB)
+                        return 1; 
+                    else
+                       return elementA === elementB ? 0 : -1;
+                }).appendTo($(".animalsWindow"));
+            }  
+            
+            if(id == "dateUp")
+            {           
+                $(".animalPanel").sort(function(a, b){
+                    var arrayA = a.dataset.date.split("/");
+                    var arrayB = b.dataset.date.split("/");
+                    var elementA = new Date(+arrayA[2], arrayA[1] - 1, +arrayA[0]);
+                    var elementB = new Date(+arrayB[2], arrayB[1] - 1, +arrayB[0]);
+                    if(elementA > elementB)
+                        return 1; 
+                    else
+                       return elementA === elementB ? 0 : -1;
+                }).appendTo($(".animalsWindow"));
+            }
+
+            if(id == "dateDown")
+            {
+                $(".animalPanel").sort(function(a, b){
+                    var arrayA = a.dataset.date.split("/");
+                    var arrayB = b.dataset.date.split("/");
+                    var elementA = new Date(+arrayA[2], arrayA[1] - 1, +arrayA[0]);
+                    var elementB = new Date(+arrayB[2], arrayB[1] - 1, +arrayB[0]);
+                    if(elementA < elementB)
+                        return 1; 
+                    else
+                       return elementA === elementB ? 0 : -1;
+                }).appendTo($(".animalsWindow"));
+            }   
+
+            if(id == "ageUp")
+            {
+                $(".animalPanel").sort(function(a, b){
+                    var elementA = parseInt(a.dataset.age);
+                    var elementB = parseInt(b.dataset.age);
+                    if(elementA > elementB)
+                        return 1; 
+                    else
+                       return elementA === elementB ? 0 : -1;
+                }).appendTo($(".animalsWindow"));
+            }
+
+            if(id == "ageDown")
+            {
+                $(".animalPanel").sort(function(a, b){
+                    var elementA = parseInt(a.dataset.age);
+                    var elementB = parseInt(b.dataset.age);
+                    if(elementA < elementB)
+                        return 1; 
+                    else
+                       return elementA === elementB ? 0 : -1;
+                }).appendTo($(".animalsWindow"));
+            }   
+
+        });
     });
 
 </script>
@@ -156,35 +216,47 @@
     <i class="fas fa-sort text-primary text-opacity-75 fa-border-none"></i>
 </button>
 
-<ul class="dropdown-menu" aria-labelledby="dropdownSortSpecieButton" style="font-family:Arial, Helvetica, sans-serif;">
-    <li>
-        <a class="dropdown-item" asp-area="" asp-controller="Animal"
-           asp-action="Index" asp-route-sort="nomUp">Nom(&#129045;)</a>
+<ul class="dropdown-menu" style="min-width: 80px !important;" aria-labelledby="dropdownSortSpecieButton" style="font-family:Arial, Helvetica, sans-serif;">
+    <li class="row-xs-6 d-flex">           
+        <button id="nameUp" class="dropdown-item" >
+            <i class="fas fa-check text-primary text-opacity-75 fa-border-none" style="opacity:0%;"></i>
+            Nom(&#129045;)
+        </button>          
     </li>
     <li><hr class="dropdown-divider" /></li>
-    <li>
-        <a class="dropdown-item" asp-area="" asp-controller="Animal"
-           asp-action="Index" asp-route-sort="nomDown">Nom(&#129047;)</a>
+    <li class="row-xs-6 d-flex">       
+        <button id="nameDown" class="dropdown-item" >
+            <i class="fas fa-check text-primary text-opacity-75 fa-border-none" style="opacity:0%;"></i> 
+            Nom(&#129047;)
+        </button>
     </li>
     <li><hr class="dropdown-divider" /></li>
-    <li>
-        <a class="dropdown-item" asp-area="" asp-controller="Animal"
-           asp-action="Index" asp-route-sort="dateUp">Date(&#129045;)</a>
+    <li class="row-xs-6 d-flex">
+        <button id="dateUp" class="dropdown-item" >
+            <i class="fas fa-check text-primary text-opacity-75 fa-border-none" style="opacity:0%;"></i> 
+            Date(&#129045;)
+        </button>
     </li>
     <li><hr class="dropdown-divider" /></li>
-    <li>
-        <a class="dropdown-item" asp-area="" asp-controller="Animal"
-           asp-action="Index" asp-route-sort="dateDown">Date(&#129047;)</a>
+    <li class="row-xs-6 d-flex">
+        <button id="dateDown" class="dropdown-item" >
+            <i class="fas fa-check text-primary text-opacity-75 fa-border-none" style="opacity:0%;"></i> 
+            Date(&#129047;)
+        </button>
     </li>
     <li><hr class="dropdown-divider" /></li>
-    <li>
-        <a class="dropdown-item" asp-area="" asp-controller="Animal"
-           asp-action="Index" asp-route-sort="ageUp">Age(&#129045;)</a>
+    <li class="row-xs-6 d-flex">
+        <button id="ageUp" class="dropdown-item" >
+            <i class="fas fa-check text-primary text-opacity-75 fa-border-none" style="opacity:0%;"></i> 
+            Age(&#129045;)
+        </button>       
     </li>
     <li><hr class="dropdown-divider" /></li>
-    <li>
-        <a class="dropdown-item" asp-area="" asp-controller="Animal"
-           asp-action="Index" asp-route-sort="ageDown">Age(&#129047;)</a>
+    <li class="row-xs-6 d-flex">
+        <button id="ageDown" class="dropdown-item" >
+            <i class="fas fa-check text-primary text-opacity-75 fa-border-none" style="opacity:0%;"></i> 
+            Age(&#129047;)
+        </button>            
     </li>
 </ul>
 
