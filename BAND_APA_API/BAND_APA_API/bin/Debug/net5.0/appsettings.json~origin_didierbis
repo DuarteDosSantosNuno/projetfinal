@@ -1,8 +1,0 @@
-{
-  
-  "AllowedHosts": "*",
-  "ConnectionStrings": {
-    //"ApplicationContext": "Server=tdb-dotnet.synology.me,1435;Database=band_apa_didier;User Id=SA;Password=Monday*1;"
-    "ApplicationContext": "Server=(local);Database=BAND_APA;Integrated Security=True;"
-  }
-}
