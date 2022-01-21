@@ -28,12 +28,12 @@ namespace band_apa_api.Controllers
         {
             return _clientCompteRepository.FindByIdent(connectIdent, connectPwd);
         }
-        [HttpPost()]
+       /* [HttpPost()]
         public IActionResult CreatedActionResult([FromBody] ClientCompte newClientCompte)
         {
             newClientCompte = _clientCompteRepository.Create(newClientCompte);
             return CreatedAtAction(nameof(GetById), new { id = newClientCompte.clientID }, newClientCompte);
-        }
+        }*/
         [HttpPut()]
         public IActionResult Modify([FromBody] ClientCompte cl)
         {
@@ -56,6 +56,12 @@ namespace band_apa_api.Controllers
                 return NotFound();
             else
                 return Ok(cc);
+        }
+        [HttpPost("CreateAccount")]
+        public IActionResult Create([FromBody] CreateClientCompte newClientCompte)
+        {
+            ClientCompte CompteCree = _clientCompteRepository.Create(newClientCompte);
+            return CreatedAtAction(nameof(GetById), new { id = CompteCree.clientID }, CompteCree);
         }
     }
 }

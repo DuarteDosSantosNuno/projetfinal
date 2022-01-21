@@ -15,7 +15,7 @@ namespace BAND_APA_WEB_APP
         public int AssoCompteID { get; set; }
         public AssoCompte AssoCompte { get; set; }
         public int ClientCompteID { get; set; }
-        public ClientCompte Client_compte { get; set; }
+        public User Client_compte { get; set; }
 
     }
 }

@@ -64,10 +64,10 @@ namespace band_apa_api.Controllers
             return _animalsIdentityRepository.FindByCouleur(couleur);
         }
         [HttpPost()]
-        public IActionResult CreatedActionResult([FromBody] AnimalsIdentity newAnimalsIdentity)
+        public IActionResult CreatedActionResult([FromBody] CreateAnimalsIdentity newAnimalsIdentity)
         {
-            newAnimalsIdentity = _animalsIdentityRepository.Create(newAnimalsIdentity);
-            return CreatedAtAction(nameof(GetById), new { id = newAnimalsIdentity.aiID }, newAnimalsIdentity);
+            AnimalsIdentity AnimalsIdentity = _animalsIdentityRepository.Create(newAnimalsIdentity);
+            return CreatedAtAction(nameof(GetById), new { id = AnimalsIdentity.aiID }, newAnimalsIdentity);
         }
         [HttpDelete("{id}")]
         public IActionResult DeleteById([FromRoute] int id)

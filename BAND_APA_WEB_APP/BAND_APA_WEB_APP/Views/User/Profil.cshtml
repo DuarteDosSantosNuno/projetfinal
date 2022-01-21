@@ -1,0 +1,137 @@
+﻿@model BAND_APA_WEB_APP.Models.User
+
+@{
+    ViewData["Title"] = "Profil";
+}
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        //$('input').change(function(){
+        //    $('button[type="submit"]').prop('disabled', false);
+        //});
+        $("input").on("input", function() {
+            $('button[type="submit"]').prop('disabled', false);
+        });
+    });
+</script>
+
+<body>
+    <header>
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm alert-light bg-primary border-bottom box-shadow mb-3">
+            <div class="container-fluid">
+
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+                    <ul class="navbar-nav flex-grow-1">
+                       
+                        <li class="nav-item btn-sm">
+                            <a class="nav-link text-light btn btn-primary p-1 " asp-area="" asp-controller="Animal" asp-action="Create">Enregistrer un animal</a>
+                        </li>
+                        <li class="nav-item btn-sm">
+                            <a class="nav-link text-light btn btn-primary p-1" asp-area="" asp-controller="Animal" asp-action="Index">Adopter un animal</a>
+                        </li>
+                    </ul>
+                    <ul class="navbar-nav d-flex justify-content-end">
+                        <li class="nav-item btn-sm">
+                            <a class="nav-link text-light btn btn-primary p-1" asp-area="" asp-controller="User" asp-action="Index">Autre Connexion</a>
+                        </li>
+                        <li class="nav-item btn-sm">
+                            <a class="nav-link text-light btn btn-primary p-1 " asp-area="" asp-controller="User" asp-action="Profil">Profil</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </header>
+</body>
+
+<div class="container">
+    <h2 class="m-2">Profil</h2>
+
+    <div class="row border border-dark p-4 mb-5 bg-primary bg-opacity-10 ">       
+        <form class="form" action="@Url.Action("Update", "User")" method="PUT">
+            <div class="col-4">
+                <input type="hidden" name="clientID" value="@Model.clientID"/>
+
+                <div class="row">
+                    <label for="titre">Civilité</label>
+                    <input name="titre" type="text" value="@Model.titre"/>
+                </div> 
+
+                <div class="row">
+                    <label for="nom">Nom</label>
+                    <input name="nom" type="text" value="@Model.nom"/>
+                </div>  
+
+                <div class="row">
+                    <label for="prenom">Prénom</label>
+                    <input name="prenom" type="text" value="@Model.prenom"/>
+                </div>
+                
+                <div class="row">
+                    <label for="birthDate">Date de naissance</label>
+                    <input name="birthDate" type="text" value="@Model.birthDate"/>
+                </div>  
+
+                <div class="row">
+                    <label for="eMail">Email</label>
+                    <input name="eMail" type="text" value="@Model.eMail"/>
+                </div>  
+
+                <div class="row">
+                    <label for="adresse1">Adresse 1</label>
+                    <input name="adresse1" type="text" value="@Model.adresse1"/>
+                </div>
+                
+                <div class="row">
+                    <label for="adresse2">Adresse 2</label>
+                    <input name="adresse2" type="text" value="@Model.adresse2"/>
+                </div>
+
+                <div class="row">
+                    <label for="codePostal">Code postal</label>
+                    <input name="codePostal" type="text" value="@Model.codePostal"/>
+                </div>
+
+                <div class="row">
+                    <label for="ville">Ville</label>
+                    <input name="ville" type="text" value="@Model.ville"/>
+                </div>
+
+                <div class="row">
+                    <label for="telephone">Telephone</label>
+                    <input name="telephone" type="text" value="@Model.telephone"/>
+                </div>
+
+                <div class="row">
+                    <label for="connectIdent">Identifiant de connexion</label>
+                    <input name="connectIdent" type="text" value="@Model.connectIdent"/>
+                </div>
+
+                <div class="row">
+                    <label for="connectPwd">Mot de passe</label>
+                    <input name="connectPwd" type="password" value="@Model.connectPwd" />
+                </div>
+            </div>
+
+            <div class="col-3 mt-4">
+                <div class="row text-right">
+                    <button type="submit" class="btn btn-success" disabled>
+                        Sauvegarder
+                    </button>
+                </div>
+            </div>
+        </form>
+    </div>
+    <hr/>
+        <div class="container my-4">
+            <label for="delete">Supression du compte :</label>
+            <button class="delete btn btn-danger">
+                Supprimer
+            </button>
+        </div>
+    <hr/>
+</div>

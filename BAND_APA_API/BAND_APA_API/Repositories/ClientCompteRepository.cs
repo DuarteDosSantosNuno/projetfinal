@@ -1,4 +1,5 @@
-﻿using System.Collections.Generic;
+﻿using System;
+using System.Collections.Generic;
 using System.Linq;
 using band_apa_api.Data;
 using band_apa_api.Entities;
@@ -23,11 +24,32 @@ namespace band_apa_api.Repositories
             //_logger.LogInformation("Info : test");
             return _applicationContext.ClientComptes.Single(cc => cc.connectIdent == connectIdent && cc.connectPwd == connectPwd);
         }
-        public ClientCompte Create(ClientCompte newClientCompte)
+        public ClientCompte Create(CreateClientCompte newCreateClientCompte)
         {
-            _applicationContext.ClientComptes.Add(newClientCompte);
-            _applicationContext.SaveChanges();
-            return newClientCompte;
+            ClientCompte newClientCompte = new ClientCompte();
+            newClientCompte.titre = newCreateClientCompte.titre;
+            newClientCompte.nom = newCreateClientCompte.nom;
+            newClientCompte.prenom = newCreateClientCompte.prenom;
+            newClientCompte.birthDate = newCreateClientCompte.birthDate;
+            newClientCompte.eMail = newCreateClientCompte.eMail;
+            newClientCompte.adresse1 = newCreateClientCompte.adresse1;
+            newClientCompte.adresse2 = newCreateClientCompte.adresse2;
+            newClientCompte.codePostal = newCreateClientCompte.codePostal;
+            newClientCompte.ville = newCreateClientCompte.ville;
+            newClientCompte.telephone = newCreateClientCompte.telephone;
+            newClientCompte.connectIdent = newCreateClientCompte.connectIdent;
+            newClientCompte.connectPwd = newCreateClientCompte.connectPwd;
+            try
+            {
+                _applicationContext.ClientComptes.Add(newClientCompte);
+                _applicationContext.SaveChanges();
+                return newClientCompte;
+            }
+            catch (Exception e)
+            {
+
+            }
+            return null;
         }
         public bool Update(ClientCompte newClientCompte)
         {

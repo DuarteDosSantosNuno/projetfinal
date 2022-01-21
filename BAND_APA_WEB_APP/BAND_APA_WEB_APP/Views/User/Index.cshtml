@@ -1,0 +1,58 @@
+﻿@model BAND_APA_WEB_APP.Models.User
+
+@{
+    ViewData["Title"] = "Authentification";
+
+}
+
+<body>
+    <header>
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm alert-light bg-primary border-bottom box-shadow mb-3">
+            <div class="container-fluid">
+
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+                    <ul class="navbar-nav flex-grow-1">
+                        <li class="nav-item btn-sm">
+                            <a class="nav-link text-light btn btn-primary p-1" asp-area="" asp-controller="Home" asp-action="Index">Accueil</a>
+                        </li>
+                    </ul>
+                    <ul class="navbar-nav d-flex justify-content-end">
+                        <li class="nav-item btn-sm">
+                            <a class="nav-link text-light btn btn-primary p-1 " asp-area="" asp-controller="User" asp-action="CreateAccount">Créer un compte</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </header>
+</body>
+<br />
+<div class="row flex-column align-content-center">
+    <div class="col-md-4">
+        <form asp-controller="User" asp-action="UserConnection" method="get">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+            <div class="form-group">
+                <label asp-for="connectIdent" class="control-label">Identifiant</label>
+                <input asp-for="connectIdent" type="text" name="ConnectIdent" value="" />
+                <span asp-validation-for="connectIdent" class="text-danger"></span>
+            </div>
+            <br /><br />
+            <div class="form-group">
+
+                <label asp-for="connectPwd" class="control-label">Password   </label>
+                <input asp-for="connectPwd" type="password" name="ConnectPwd" value=""  />
+                <span asp-validation-for="connectPwd" class="text-danger"></span>
+            </div>
+            <br /><br />
+            <div class="form-group">
+                <input type="submit" value="UserConnection" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+

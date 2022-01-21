@@ -1,0 +1,35 @@
+﻿@{
+}
+<body>
+    <header>
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm alert-light bg-primary border-bottom box-shadow mb-3">
+            <div class="container-fluid">
+
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+                    <ul class="navbar-nav flex-grow-1">
+                       
+                        <li class="nav-item btn-sm">
+                            <a class="nav-link text-light btn btn-primary p-1 " asp-area="" asp-controller="Animal" asp-action="Create">Enregistrer un animal</a>
+                        </li>
+                        <li class="nav-item btn-sm">
+                            <a class="nav-link text-light btn btn-primary p-1" asp-area="" asp-controller="Animal" asp-action="Index">Adopter un animal</a>
+                        </li>
+                    </ul>
+                    <ul class="navbar-nav d-flex justify-content-end">
+                        <li class="nav-item btn-sm">
+                            <a class="nav-link text-light btn btn-primary p-1" asp-area="" asp-controller="User" asp-action="Index">Autre Connexion</a>
+                        </li>
+                        <li class="nav-item btn-sm">
+                            <a class="nav-link text-light btn btn-primary p-1 " asp-area="" asp-controller="Home" asp-action="Menu">Profil</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </header>
+</body>
+Animal enregistre !

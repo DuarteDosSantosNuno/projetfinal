@@ -1,0 +1,74 @@
+﻿@model BAND_APA_WEB_APP.Models.Animal
+@{
+    var imagePath = "";
+    var newFileName = "";
+
+    newFileName = "Woofy.jpg";
+    imagePath = @Url.Content($"~/Ressources/ImagesAnimals/{newFileName}");
+
+    ViewData["Title"] = $"Adoption de {@Model.Nom}";
+
+}
+<nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
+    <div class="container-fluid">
+        <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index"></a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+            <ul class="navbar-nav d-flex justify-content-end">
+                <li class="nav-item btn-sm">
+                    <a class="nav-link text-light btn btn-primary p-1" asp-area="" asp-controller="User" asp-action="ConfirmAdopt" asp-route-id="@Model.AiID">Confirmer votre choix</a>
+                </li>
+            </ul>
+            <div class="text-center">
+                <h3>Veuillez confirmer ou non votre choix</h3>
+            </div>
+            <ul class="navbar-nav d-flex justify-content-end">
+                <li class="nav-item btn-sm">
+                    <a class="nav-link text-light btn btn-primary p-1 " asp-area="" asp-controller="Animal" asp-action="Index">Retour</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</nav>
+<div class="text-center">
+    <h2>Vous avez choisi @Model.Nom</h2>
+</div>
+<div class="container d-flex justify-content-center mb-2 mt-2 p-2">
+    <div class="col-xl-4">
+        <div>
+            <img src="~/Ressources/ImagesAnimals/@Model.Photo"d-flex justify-content-center runat="server" width="300" height="183"/>
+        </div>
+    </div>
+</div>
+<br />
+<div class="text-center">
+    <h3>Il s'agit d'un @Model.Espece, agé de @Model.Age ans et de race @Model.Race</h3>
+    <br />
+            @if (Model.Sexe == "Femelle")
+            {
+        <h3>C'est une Femelle de couleur @Model.Couleur.</h3>
+            }
+            else if (Model.Sexe == "Male")
+            {
+        <h3>C'est un Male de couleur @Model.Couleur.</h3>
+            }
+            else
+            {
+        <h3>Le sexe de @Model.Nom n'a pas été renseigné, il (ou elle) est de couleur @Model.Couleur.</h3>
+            }
+
+</div>
+<br />
+<div class="text-center">
+    <h3>Entré dans notre refuge le : @Model.DateEntree.ToString("dd-MM-yyyy"), voici sa description.</h3>
+    <br />
+    <h3>Description de @Model.Nom :</h3>
+    <br />
+    <h3>@Model.Comments</h3>
+</div>
+
+
+

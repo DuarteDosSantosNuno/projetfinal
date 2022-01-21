@@ -8,19 +8,62 @@ html {
   }
 }
 
+html {
+  position: relative;
+  min-height: 100%;
+}
+
 body {
   margin-bottom: 60px;
 }
 
-.filterBtnHover:hover {
-    background: #DDDDDD;
-    box-shadow: black 1px 1px;
+.slider {
+    width: 700px;
+    margin: 0 auto 20px;
+    text-align: center;
 }
 
-.dropdown-menu-large{
-    width: 300px;
+    .slider .photos {
+        position: relative;
+        height: 433px;
+    }
+
+        .slider .photos img {
+            width: 100%;
+            position: absolute;
+            left: 0;
+            opacity: 0;
+            transition: opacity 1s;
+        }
+
+            .slider .photos img.shown {
+                opacity: 1;
+            }
+
+.prev:before,
+.next:before {
+    color: #fff;
+    font-size: 100px;
+    position: absolute;
+    top: 35%;
+    cursor: pointer;
 }
 
-/*fas{
-    border: none;
-}*/
+.prev:before {
+    content: '<';
+    left: 0;
+}
+
+.next:before {
+    content: '>';
+    right: 0;
+}
+
+#myCarousel {
+    margin: auto;
+}
+
+.carousel-caption {
+    margin: auto;
+    width: 600px;
+}

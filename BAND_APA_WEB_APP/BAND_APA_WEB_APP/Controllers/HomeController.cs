@@ -12,7 +12,10 @@ namespace ProjetFinalWebApp.Controllers
         {
             _logger = logger;
         }
-
+        public IActionResult Menu()
+        {
+            return View();
+        }
         public IActionResult Index()
         {
             return View();

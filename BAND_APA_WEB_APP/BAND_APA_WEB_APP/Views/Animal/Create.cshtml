@@ -1,0 +1,96 @@
+﻿@model BAND_APA_WEB_APP.Models.CreateAnimal
+
+@{
+    ViewData["Title"] = "Enregistrez un animal";
+}
+<body>
+    <header>
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm alert-light bg-primary border-bottom box-shadow mb-3">
+            <div class="container-fluid">
+
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+                    <ul class="navbar-nav flex-grow-1">
+                       <
+                        <li class="nav-item btn-sm">
+                            <a class="nav-link text-light btn btn-primary p-1 " asp-area="" asp-controller="Animal" asp-action="Create">Enregistrer un animal</a>
+                        </li>
+                        <li class="nav-item btn-sm">
+                            <a class="nav-link text-light btn btn-primary p-1" asp-area="" asp-controller="Animal" asp-action="Index">Adopter un animal</a>
+                        </li>
+                    </ul>
+                    <ul class="navbar-nav d-flex justify-content-end">
+                        <li class="nav-item btn-sm">
+                            <a class="nav-link text-light btn btn-primary p-1" asp-area="" asp-controller="User" asp-action="Index">Autre Connexion</a>
+                        </li>
+                        <li class="nav-item btn-sm">
+                            <a class="nav-link text-light btn btn-primary p-1 " asp-area="" asp-controller="Home" asp-action="Menu">Profil</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </header>
+</body>
+<link rel="stylesheet" href="~/css/CreateAccount.css" asp-append-version="true" />
+
+
+
+ <form asp-controller="Animal" asp-action="CreateAnimal" method="post" >
+     <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+        <fieldset>
+          <div class="CreateAccountDiv">
+            <label asp-for="DateEntree">Date d'entree' :</label>
+            <input asp-for="DateEntree" type="text" name="DateEntree" value="" />
+            <span asp-validation-for="DateEntree" class="text-danger"></span>
+          </div>
+          <div class="CreateAccountDiv">
+            <label asp-for="Nom">Nom :</label>
+            <input asp-for="Nom" type="text" name="Nom" value="" />
+             <span asp-validation-for="Nom" class="text-danger"></span>
+          </div>
+          <div class="CreateAccountDiv">
+            <label asp-for="Espece">Espece :</label>
+            <input asp-for="Espece" type="text" name="Espece" value="" />
+             <span asp-validation-for="Espece" class="text-danger"></span>
+          </div>
+            <div class="CreateAccountDiv">
+            <label asp-for="Race">Race :</label>
+            <input asp-for="Race" type="text" name="Race" value="" />
+             <span asp-validation-for="Race" class="text-danger"></span>
+          </div>
+             <div class="CreateAccountDiv">
+            <label asp-for="Sexe">Sexe :</label>
+            <input asp-for="Sexe" type="text" name="Sexe" value="" />
+             <span asp-validation-for="Sexe" class="text-danger"></span>
+          </div>
+            <div class="CreateAccountDiv">
+            <label asp-for="Couleur">Couleur :</label>
+            <input asp-for="Couleur" type="text" name="Couleur" value="" />
+             <span asp-validation-for="Couleur" class="text-danger"></span>
+              <span asp-validation-for="Couleur" class="text-danger"></span>
+          </div>
+            <div class="CreateAccountDiv">
+            <label asp-for="Age">Age :</label>
+            <input asp-for="Age" type="number" name="Age" value="" />
+             <span asp-validation-for="Age" class="text-danger"></span>
+          </div>
+            <div class="CreateAccountDiv">
+            <label asp-for="Comments">Commentaires :</label>
+            <input asp-for="Comments" type="text" name="Comments" value="" />
+             <span asp-validation-for="Comments" class="text-danger"></span>
+          </div>
+            <div class="CreateAccountDiv">
+            <label asp-for="Photo">Photo :</label>
+            <input asp-for="Photo" type="text" name="Photo" value="" />
+             <span asp-validation-for="Photo" class="text-danger"></span>
+          </div>
+          <div class="CreateAccountDiv">
+            <label>&nbsp;</label>
+            <input type="submit" value="Submit" class="submit" />
+          </div>
+        </fieldset>
+      </form>

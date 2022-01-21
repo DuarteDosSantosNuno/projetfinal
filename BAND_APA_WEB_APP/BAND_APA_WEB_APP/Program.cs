@@ -1,5 +1,5 @@
 var builder = WebApplication.CreateBuilder(args);
-
+File.Delete("../../User.csv");
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 

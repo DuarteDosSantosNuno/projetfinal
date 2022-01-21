@@ -7,7 +7,8 @@ namespace band_apa_api.Repositories
     {
         public ClientCompte FindById(int id);
         public ClientCompte FindByIdent(string connectIdent, string connectPwd);
-        public ClientCompte Create(ClientCompte newClientCompte);
+        //public ClientCompte Create(ClientCompte newClientCompte);
+        public ClientCompte Create(CreateClientCompte newCreateClientCompte);
         public bool Update(ClientCompte newClientCompte);
         public bool DeleteByIdent(string connectIdent, string connectPwd);
         public List<ClientCompte> FindAll();

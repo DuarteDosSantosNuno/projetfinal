@@ -44,11 +44,21 @@ namespace band_apa_api.Repositories
             //_logger.LogInformation("Info : test");
             return _applicationContext.AnimalsIdentities.Where(ai => ai.couleur.Trim().ToUpper().Contains(couleur.Trim().ToUpper())).ToList();
         }
-        public AnimalsIdentity Create(AnimalsIdentity newAnimalsIdentity)
+        public AnimalsIdentity Create(CreateAnimalsIdentity newAnimalsIdentity)
         {
-            _applicationContext.AnimalsIdentities.Add(newAnimalsIdentity);
+            AnimalsIdentity AnimalsIdentity = new AnimalsIdentity();
+            AnimalsIdentity.nom = newAnimalsIdentity.nom;
+            AnimalsIdentity.sexe = newAnimalsIdentity.sexe;
+            AnimalsIdentity.photo = newAnimalsIdentity.photo;
+            AnimalsIdentity.couleur = newAnimalsIdentity.couleur;
+            AnimalsIdentity.age = newAnimalsIdentity.age;
+            AnimalsIdentity.comments = newAnimalsIdentity.comments;
+            AnimalsIdentity.espece = newAnimalsIdentity.espece;
+            AnimalsIdentity.dateEntree = newAnimalsIdentity.dateEntree;
+            AnimalsIdentity.race = newAnimalsIdentity.race;
+            _applicationContext.AnimalsIdentities.Add(AnimalsIdentity);
             _applicationContext.SaveChanges();
-            return newAnimalsIdentity;
+            return AnimalsIdentity;
         }
         public bool DeleteById(int id)
         {

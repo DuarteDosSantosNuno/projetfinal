@@ -1,6 +1,7 @@
 ﻿using BAND_APA_WEB_APP.Models;
 using Microsoft.AspNetCore.Mvc;
 using Newtonsoft.Json;
+using ProjetFinalWebApp.Services;
 using System.Collections.Generic;
 using System.Diagnostics;
 using System.Text;
@@ -10,6 +11,13 @@ namespace ProjetFinalWebApp.Controllers
     public class AnimalController : Controller
     {
         private static string base_url = "https://localhost:44356";
+        HttpClient newHttpClient = new HttpClient();
+        private CreateAnimalsRestServices _createAnimalsRestService;
+
+        public AnimalController()
+        {
+            _createAnimalsRestService = new CreateAnimalsRestServices(newHttpClient);
+        }
 
         public async Task<List<Animal>> GetAnimal(Dictionary<string, List<string>> filter = null)
         {
@@ -199,6 +207,25 @@ namespace ProjetFinalWebApp.Controllers
             catch
             {
                 return View();
+            }
+        }
+        public async Task<ActionResult> Adoption(int id)
+        {
+            Animal animal = new Animal();
+            animal = await GetAnimalById(id);
+            return View(animal);
+        }
+        public async Task<ActionResult> CreateAnimal(CreateAnimal newAnimal)
+        {
+            try
+            {
+                Animal temp = await _createAnimalsRestService.CreateAnimal(newAnimal);
+
+                return View("~/Views/Animal/CreateSuccess.cshtml");
+            }
+            catch
+            {
+                return View("~/Views/Animal/Create.cshtml");
             }
         }
     }

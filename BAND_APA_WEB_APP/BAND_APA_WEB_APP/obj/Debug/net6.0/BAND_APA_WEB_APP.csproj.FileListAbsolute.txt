@@ -1,3 +1,931 @@
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\appsettings.Development.json
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\appsettings.json
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\BAND_APA_WEB_APP.staticwebassets.runtime.json
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\BAND_APA_WEB_APP.exe
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\BAND_APA_WEB_APP.deps.json
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\BAND_APA_WEB_APP.runtimeconfig.json
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\BAND_APA_WEB_APP.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\ref\BAND_APA_WEB_APP.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\BAND_APA_WEB_APP.pdb
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\Humanizer.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\MessagePack.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\MessagePack.Annotations.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\Microsoft.Build.Locator.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\Newtonsoft.Json.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\NuGet.Common.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\NuGet.Configuration.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\NuGet.Frameworks.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\NuGet.LibraryModel.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\NuGet.Packaging.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\NuGet.ProjectModel.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\NuGet.Protocol.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\NuGet.Versioning.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\System.Composition.Convention.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\System.Composition.Hosting.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\System.Composition.Runtime.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\System.Composition.TypedParts.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\runtimes\win-arm\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\runtimes\win-arm64\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\obj\Debug\net6.0\BAND_APA_WEB_APP.csproj.AssemblyReference.cache
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\obj\Debug\net6.0\BAND_APA_WEB_APP.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\obj\Debug\net6.0\BAND_APA_WEB_APP.AssemblyInfoInputs.cache
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\obj\Debug\net6.0\BAND_APA_WEB_APP.AssemblyInfo.cs
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\obj\Debug\net6.0\BAND_APA_WEB_APP.csproj.CoreCompileInputs.cache
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\obj\Debug\net6.0\BAND_APA_WEB_APP.MvcApplicationPartsAssemblyInfo.cache
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\obj\Debug\net6.0\BAND_APA_WEB_APP.RazorAssemblyInfo.cache
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\obj\Debug\net6.0\BAND_APA_WEB_APP.RazorAssemblyInfo.cs
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\obj\Debug\net6.0\staticwebassets.build.json
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\obj\Debug\net6.0\staticwebassets.development.json
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\obj\Debug\net6.0\scopedcss\bundle\BAND_APA_WEB_APP.styles.css
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\obj\Debug\net6.0\scopedcss\projectbundle\BAND_APA_WEB_APP.bundle.scp.css
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\obj\Debug\net6.0\BAND_APA_WEB_APP.csproj.CopyComplete
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\obj\Debug\net6.0\BAND_APA_WEB_APP.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\obj\Debug\net6.0\ref\BAND_APA_WEB_APP.dll
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\obj\Debug\net6.0\BAND_APA_WEB_APP.pdb
+F:\Projet No 5\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\obj\Debug\net6.0\BAND_APA_WEB_APP.genruntimeconfig.cache
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\appsettings.Development.json
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\appsettings.json
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\BAND_APA_WEB_APP.staticwebassets.runtime.json
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\BAND_APA_WEB_APP.exe
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\BAND_APA_WEB_APP.deps.json
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\BAND_APA_WEB_APP.runtimeconfig.json
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\BAND_APA_WEB_APP.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\ref\BAND_APA_WEB_APP.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\BAND_APA_WEB_APP.pdb
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\Humanizer.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\MessagePack.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\MessagePack.Annotations.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\Microsoft.Build.Locator.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\NuGet.Common.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\NuGet.Configuration.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\NuGet.LibraryModel.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\NuGet.Packaging.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\NuGet.ProjectModel.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\NuGet.Protocol.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\NuGet.Versioning.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\System.Composition.Convention.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\System.Composition.Hosting.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\System.Composition.Runtime.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\System.Composition.TypedParts.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\runtimes\win-arm\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\runtimes\win-arm64\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\obj\Debug\net6.0\BAND_APA_WEB_APP.csproj.AssemblyReference.cache
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\obj\Debug\net6.0\BAND_APA_WEB_APP.GeneratedMSBuildEditorConfig.editorconfig
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\obj\Debug\net6.0\BAND_APA_WEB_APP.AssemblyInfoInputs.cache
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\obj\Debug\net6.0\BAND_APA_WEB_APP.AssemblyInfo.cs
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\obj\Debug\net6.0\BAND_APA_WEB_APP.csproj.CoreCompileInputs.cache
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\obj\Debug\net6.0\BAND_APA_WEB_APP.MvcApplicationPartsAssemblyInfo.cache
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\obj\Debug\net6.0\BAND_APA_WEB_APP.RazorAssemblyInfo.cache
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\obj\Debug\net6.0\BAND_APA_WEB_APP.RazorAssemblyInfo.cs
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\obj\Debug\net6.0\staticwebassets.build.json
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\obj\Debug\net6.0\staticwebassets.development.json
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\obj\Debug\net6.0\scopedcss\bundle\BAND_APA_WEB_APP.styles.css
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\obj\Debug\net6.0\scopedcss\projectbundle\BAND_APA_WEB_APP.bundle.scp.css
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\obj\Debug\net6.0\BAND_APA_WEB_APP.csproj.CopyComplete
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\obj\Debug\net6.0\BAND_APA_WEB_APP.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\obj\Debug\net6.0\ref\BAND_APA_WEB_APP.dll
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\obj\Debug\net6.0\BAND_APA_WEB_APP.pdb
+D:\BAND_APA\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\obj\Debug\net6.0\BAND_APA_WEB_APP.genruntimeconfig.cache
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\appsettings.Development.json
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\appsettings.json
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\BAND_APA_WEB_APP.staticwebassets.runtime.json
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\BAND_APA_WEB_APP.exe
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\Humanizer.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\MessagePack.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\MessagePack.Annotations.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\Microsoft.Build.Locator.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\NuGet.Common.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\NuGet.Configuration.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\NuGet.LibraryModel.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\NuGet.Packaging.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\NuGet.ProjectModel.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\NuGet.Protocol.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\NuGet.Versioning.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\System.Composition.Convention.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\System.Composition.Hosting.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\System.Composition.Runtime.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\System.Composition.TypedParts.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\runtimes\win-arm\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\runtimes\win-arm64\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\obj\Debug\net6.0\BAND_APA_WEB_APP.csproj.AssemblyReference.cache
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\obj\Debug\net6.0\BAND_APA_WEB_APP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\obj\Debug\net6.0\BAND_APA_WEB_APP.AssemblyInfoInputs.cache
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\obj\Debug\net6.0\BAND_APA_WEB_APP.AssemblyInfo.cs
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\obj\Debug\net6.0\BAND_APA_WEB_APP.csproj.CoreCompileInputs.cache
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\obj\Debug\net6.0\BAND_APA_WEB_APP.MvcApplicationPartsAssemblyInfo.cache
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\obj\Debug\net6.0\BAND_APA_WEB_APP.RazorAssemblyInfo.cache
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\obj\Debug\net6.0\BAND_APA_WEB_APP.RazorAssemblyInfo.cs
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\obj\Debug\net6.0\staticwebassets.build.json
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\obj\Debug\net6.0\staticwebassets.development.json
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\obj\Debug\net6.0\scopedcss\bundle\BAND_APA_WEB_APP.styles.css
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\obj\Debug\net6.0\scopedcss\projectbundle\BAND_APA_WEB_APP.bundle.scp.css
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\obj\Debug\net6.0\BAND_APA_WEB_APP.csproj.CopyComplete
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\obj\Debug\net6.0\BAND_APA_WEB_APP.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\obj\Debug\net6.0\ref\BAND_APA_WEB_APP.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\obj\Debug\net6.0\BAND_APA_WEB_APP.pdb
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\BAND_APA_WEB_APP.deps.json
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\BAND_APA_WEB_APP.runtimeconfig.json
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\BAND_APA_WEB_APP.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\ref\BAND_APA_WEB_APP.dll
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\BAND_APA_WEB_APP.pdb
+D:\Partage\projetfinal-filter-BAND_APA_WEB_APP\BAND_APA_WEB_APP\BAND_APA_WEB_APP\obj\Debug\net6.0\BAND_APA_WEB_APP.genruntimeconfig.cache
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\appsettings.json
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\BAND_APA_WEB_APP.staticwebassets.runtime.json
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\BAND_APA_WEB_APP.exe
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\BAND_APA_WEB_APP.deps.json
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\BAND_APA_WEB_APP.runtimeconfig.json
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\BAND_APA_WEB_APP.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\ref\BAND_APA_WEB_APP.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\BAND_APA_WEB_APP.pdb
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\Humanizer.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\MessagePack.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\Microsoft.Build.Locator.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\NuGet.Common.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\runtimes\win-arm\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\runtimes\win-arm64\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\obj\Debug\net6.0\BAND_APA_WEB_APP.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\obj\Debug\net6.0\BAND_APA_WEB_APP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\obj\Debug\net6.0\BAND_APA_WEB_APP.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\obj\Debug\net6.0\BAND_APA_WEB_APP.AssemblyInfo.cs
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\obj\Debug\net6.0\BAND_APA_WEB_APP.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\obj\Debug\net6.0\BAND_APA_WEB_APP.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\obj\Debug\net6.0\BAND_APA_WEB_APP.RazorAssemblyInfo.cache
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\obj\Debug\net6.0\BAND_APA_WEB_APP.RazorAssemblyInfo.cs
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\obj\Debug\net6.0\scopedcss\bundle\BAND_APA_WEB_APP.styles.css
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\obj\Debug\net6.0\scopedcss\projectbundle\BAND_APA_WEB_APP.bundle.scp.css
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\obj\Debug\net6.0\BAND_APA_WEB_APP.csproj.CopyComplete
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\obj\Debug\net6.0\BAND_APA_WEB_APP.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\obj\Debug\net6.0\ref\BAND_APA_WEB_APP.dll
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\obj\Debug\net6.0\BAND_APA_WEB_APP.pdb
+C:\Users\DELL\Desktop\projetfinal-filter-BAND_APA_WEB_APP2\BAND_APA_WEB_APP\BAND_APA_WEB_APP\obj\Debug\net6.0\BAND_APA_WEB_APP.genruntimeconfig.cache
 C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\appsettings.Development.json
 C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\appsettings.json
 C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\BAND_APA_WEB_APP.staticwebassets.runtime.json
@@ -7,7 +935,211 @@ C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\De
 C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\BAND_APA_WEB_APP.dll
 C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\ref\BAND_APA_WEB_APP.dll
 C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\BAND_APA_WEB_APP.pdb
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\Humanizer.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\MessagePack.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\Microsoft.Build.Locator.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
 C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\NuGet.Common.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\runtimes\win-arm\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\runtimes\win-arm64\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\obj\Debug\net6.0\BAND_APA_WEB_APP.csproj.AssemblyReference.cache
 C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\obj\Debug\net6.0\BAND_APA_WEB_APP.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\DELL\Documents\Git\projetfinal\BAND_APA_WEB_APP\BAND_APA_WEB_APP\obj\Debug\net6.0\BAND_APA_WEB_APP.AssemblyInfoInputs.cache

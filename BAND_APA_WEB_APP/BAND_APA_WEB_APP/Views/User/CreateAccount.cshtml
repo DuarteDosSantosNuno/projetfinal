@@ -1,0 +1,103 @@
+﻿@model BAND_APA_WEB_APP.Models.User
+
+@{
+    ViewData["Title"] = "Créez votre compte";
+}
+<body>
+    <header>
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm alert-light bg-primary border-bottom box-shadow mb-3">
+            <div class="container-fluid">
+
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+                    <ul class="navbar-nav flex-grow-1">
+                        <li class="nav-item btn-sm">
+                            <a class="nav-link text-light btn btn-primary p-1" asp-area="" asp-controller="Home" asp-action="Index">Accueil</a>
+                        </li>
+                    </ul>
+                    <ul class="navbar-nav d-flex justify-content-end">
+                        <li class="nav-item btn-sm">
+                            <a class="nav-link text-light btn btn-primary p-1" asp-area="" asp-controller="User" asp-action="Index">Authentification</a>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </header>
+</body>
+<link rel="stylesheet" href="~/css/CreateAccount.css" asp-append-version="true" />
+
+<h1>@ViewData["Title"]</h1>
+
+<form asp-controller="User" asp-action="CreateAccount" method="post">
+    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+    <fieldset>
+        <div class="CreateAccountDiv">
+            <label asp-for="titre">Civilite :</label>
+            <input asp-for="titre" type="text" name="Titre" value="" />
+            <span asp-validation-for="titre" class="text-danger"></span>
+        </div>
+        <div class="CreateAccountDiv">
+            <label asp-for="nom">Nom :</label>
+            <input asp-for="nom" type="text" name="Nom" value="" />
+            <span asp-validation-for="nom" class="text-danger"></span>
+        </div>
+        <div class="CreateAccountDiv">
+            <label asp-for="prenom">Prenom :</label>
+            <input asp-for="prenom" type="text" name="Prenom" value="" />
+            <span asp-validation-for="prenom" class="text-danger"></span>
+        </div>
+        <div class="CreateAccountDiv">
+            <label asp-for="birthDate">Date de naissance :</label>
+            <input asp-for="birthDate" type="text" name="DateNaissance" value="" />
+            <span asp-validation-for="birthDate" class="text-danger"></span>
+        </div>
+        <div class="CreateAccountDiv">
+            <label asp-for="eMail">eMail :</label>
+            <input asp-for="eMail" type="text" name="EMail" value="" />
+            <span asp-validation-for="eMail" class="text-danger"></span>
+        </div>
+        <div class="CreateAccountDiv">
+            <label asp-for="adresse1">Adresse 1 :</label>
+            <input asp-for="adresse1" type="text" name="Adresse1" value="" />
+            <span asp-validation-for="adresse1" class="text-danger"></span>
+            <span asp-validation-for="adresse1" class="text-danger"></span>
+        </div>
+        <div class="CreateAccountDiv">
+            <label asp-for="adresse2">Adresse 2 :</label>
+            <input asp-for="adresse2" type="text" name="Adresse2" value="" />
+            <span asp-validation-for="adresse2" class="text-danger"></span>
+        </div>
+        <div class="CreateAccountDiv">
+            <label asp-for="codePostal">Code postal :</label>
+            <input asp-for="codePostal" type="text" name="CodePostal" value="" />
+            <span asp-validation-for="codePostal" class="text-danger"></span>
+        </div>
+        <div class="CreateAccountDiv">
+            <label asp-for="ville">Ville :</label>
+            <input asp-for="ville" type="text" name="Ville" value="" />
+            <span asp-validation-for="ville" class="text-danger"></span>
+        </div>
+        <div class="CreateAccountDiv">
+            <label asp-for="telephone">Telephone :</label>
+            <input asp-for="telephone" type="text" name="Telephone" value="" />
+            <span asp-validation-for="telephone" class="text-danger"></span>
+        </div>
+        <div class="CreateAccountDiv">
+            <label asp-for="connectIdent">Identifiant de connexion :</label>
+            <input asp-for="connectIdent" type="text" name="ConnectIdent" value="" />
+            <span asp-validation-for="connectIdent" class="text-danger"></span>
+        </div>
+        <div class="CreateAccountDiv">
+            <label asp-for="connectPwd">Mot de passe :</label>
+            <input asp-for="connectPwd" type="password" name="ConnectPwd" value="" />
+            <span asp-validation-for="connectPwd" class="text-danger"></span>
+        </div>
+        <div class="CreateAccountDiv" >
+            <label>&nbsp;</label>
+            <input type="submit" value="Submit" class="submit" >
+        </div>
+    </fieldset>
+</form>
